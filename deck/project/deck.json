@@ -1,0 +1,31 @@
+{
+  "v": 4,
+  "attachments": {},
+  "createdOnFiles": { "at": "2026-10-21T13:00:00Z", "v": 1 },
+  "designSystems": [],
+  "faces": {
+    "montserrat": {
+      "family": "Montserrat",
+      "href": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap"
+    }
+  },
+  "lists": "css",
+  "order": [
+    "capa",
+    "problema",
+    "produto",
+    "tracao",
+    "unit",
+    "mercado",
+    "modelo",
+    "projecoes",
+    "time"
+  ],
+  "sections": {
+    "s1": { "description": "Quem somos e o problema que o produto resolve", "start": "capa" },
+    "s2": { "description": "A tração real, a economia por pote e o mercado", "start": "tracao" },
+    "s3": { "description": "O modelo de negócio e a direção da marca", "start": "modelo" },
+    "s4": { "description": "Projeções e riscos declarados", "start": "projecoes" }
+  },
+  "title": "O Beco Gelato — Apresentação"
+}
