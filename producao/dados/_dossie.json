@@ -1,0 +1,1940 @@
+{
+ "pote": 140,
+ "fator": 1.0309278350515465,
+ "overrun": 21,
+ "emb": 1.67,
+ "embItens": [
+  {
+   "nome": "Pote 150 ml com tampa",
+   "porPote": 1,
+   "preco": 1.07
+  },
+  {
+   "nome": "Colher tradicional",
+   "porPote": 1,
+   "preco": 0.26
+  },
+  {
+   "nome": "Lacre de sabor",
+   "porPote": 1,
+   "preco": 0.34
+  }
+ ],
+ "imposto": 0.045,
+ "mixOficial": [
+  [
+   "POLIDEXTROSE",
+   528
+  ],
+  [
+   "MALTITOL",
+   224
+  ],
+  [
+   "ERITRITOL",
+   163
+  ],
+  [
+   "INULINA",
+   81
+  ],
+  [
+   "STEVIA",
+   3
+  ]
+ ],
+ "baseProteica": [
+  [
+   "LEITE ZERO LACTOSE (INTEGRAL)",
+   692.4
+  ],
+  [
+   "BASE MEC PROTEIN",
+   130
+  ],
+  [
+   "LEITE EM PO DESNATADO ZL (BATAVO PENSE ZERO)",
+   120
+  ],
+  [
+   "GLICEROL (GLICERINA BIDESTILADA)",
+   30
+  ],
+  [
+   "POLIDEXTROSE",
+   20
+  ],
+  [
+   "CREMOBENE PREMIUM (LIGA NEUTRA)",
+   3.1
+  ],
+  [
+   "SAL",
+   1
+  ],
+  [
+   "STEVIA",
+   0.6
+  ]
+ ],
+ "sabores": [
+  {
+   "nome": "Café Proteico",
+   "linha": "BOOST",
+   "familia": 3,
+   "familiaForm": "proteica",
+   "gelatoPote": 140,
+   "massaPote": 140,
+   "caldaNoPote": 125.56053811659193,
+   "soma": 999.9999999999999,
+   "linhas": [
+    {
+     "nome": "LEITE ZERO LACTOSE (INTEGRAL)",
+     "gkg": 655,
+     "pct": 65.5,
+     "noPote": 82.24215246636771,
+     "rotulo": "leite integral zero lactose",
+     "kcal": 66
+    },
+    {
+     "nome": "BASE MEC PROTEIN",
+     "gkg": 123,
+     "pct": 12.3,
+     "noPote": 15.443946188340806,
+     "rotulo": "base proteica",
+     "kcal": 336
+    },
+    {
+     "nome": "LEITE EM PO DESNATADO ZL (BATAVO PENSE ZERO)",
+     "gkg": 113.5,
+     "pct": 11.350000000000001,
+     "noPote": 14.251121076233185,
+     "rotulo": "leite em po desnatado zl (batavo pense zero)",
+     "kcal": 350
+    },
+    {
+     "nome": "PASTA CAFÉ SELECTA (BALDE 2 KG)",
+     "gkg": 56.8,
+     "pct": 5.680000000000001,
+     "noPote": 7.131838565022421,
+     "rotulo": "pasta de café",
+     "kcal": 210
+    },
+    {
+     "nome": "GLICEROL (GLICERINA BIDESTILADA)",
+     "gkg": 28.4,
+     "pct": 2.8400000000000003,
+     "noPote": 3.5659192825112105,
+     "rotulo": "umectante glicerol",
+     "kcal": 400
+    },
+    {
+     "nome": "POLIDEXTROSE",
+     "gkg": 18.9,
+     "pct": 1.8900000000000001,
+     "noPote": 2.3730941704035873,
+     "rotulo": "polidextrose",
+     "kcal": 100
+    },
+    {
+     "nome": "CREMOBENE PREMIUM (LIGA NEUTRA)",
+     "gkg": 2.9,
+     "pct": 0.29000000000000004,
+     "noPote": 0.36412556053811657,
+     "rotulo": "cremobene premium (liga neutra)",
+     "kcal": 670
+    },
+    {
+     "nome": "SAL",
+     "gkg": 0.9,
+     "pct": 0.09000000000000001,
+     "noPote": 0.11300448430493273,
+     "rotulo": "sal",
+     "kcal": 0
+    },
+    {
+     "nome": "STEVIA",
+     "gkg": 0.6,
+     "pct": 0.060000000000000005,
+     "noPote": 0.07533632286995515,
+     "rotulo": "edulcorante glicosídeos de esteviol",
+     "kcal": 0
+    }
+   ],
+   "fin": [
+    {
+     "nome": "DELÍCIA DE AMENDOIM PROTEICO",
+     "gkg": 115,
+     "noPote": 14.439461883408072,
+     "adicional": false,
+     "rotulo": "creme de amendoim proteico"
+    }
+   ],
+   "met": {
+    "sol": 39.31773,
+    "agua": 60.682269999999995,
+    "gord": 4.4966,
+    "prot": 9.9863,
+    "acu": 16.2915,
+    "solDif": 8.54333,
+    "pod": 180.3672,
+    "pac": 353.7269999999999,
+    "kcalCalda": 151.404,
+    "custoKg": 40.61437400000001
+   },
+   "janela": [
+    -15.096418812381527,
+    -19.814049691250748
+   ],
+   "frozen": 60.3719006174985,
+   "pote": {
+    "kcal": 196.74349775784754,
+    "acu": 15.31255605381166,
+    "acuTecnico": 15.31255605381166,
+    "poliois": 0,
+    "acucarAdd": 0,
+    "prot": 10.70968609865471,
+    "gord": 9.086636771300448,
+    "gordSat": 3.341354260089687,
+    "gordTrans": 0.09840000000000003,
+    "fibra": 3.377040358744395,
+    "sodio": 155.1279820627803,
+    "solidosTotais": 45.267022421524665,
+    "custoKg": 46.14629955156952
+   },
+   "selos": {
+    "ok": [
+     "FONTE DE FIBRAS",
+     "FONTE DE PROTEÍNA",
+     "SEM ADIÇÃO DE AÇÚCARES"
+    ],
+    "quase": [
+     "ALTO TEOR DE PROTEÍNAS (falta 1,3 g/100 g)"
+    ],
+    "lupa": []
+   },
+   "alerg": [
+    "LEITE",
+    "AMENDOIM"
+   ],
+   "temPoliol": false,
+   "rdc727": [
+    {
+     "r": "leite integral zero lactose",
+     "pct": 58.74439461883409
+    },
+    {
+     "r": "base proteica",
+     "pct": 11.031390134529149
+    },
+    {
+     "r": "creme de amendoim proteico",
+     "pct": 10.31390134529148
+    },
+    {
+     "r": "leite em po desnatado zl (batavo pense zero)",
+     "pct": 10.17937219730942
+    },
+    {
+     "r": "pasta de café",
+     "pct": 5.094170403587444
+    },
+    {
+     "r": "umectante glicerol",
+     "pct": 2.547085201793722
+    },
+    {
+     "r": "polidextrose",
+     "pct": 1.6950672645739913
+    },
+    {
+     "r": "cremobene premium (liga neutra)",
+     "pct": 0.26008968609865474
+    },
+    {
+     "r": "sal",
+     "pct": 0.08071748878923768
+    },
+    {
+     "r": "edulcorante glicosídeos de esteviol",
+     "pct": 0.05381165919282513
+    }
+   ],
+   "preco": 20.5,
+   "cmv": 8.33029065692756
+  },
+  {
+   "nome": "Pistache",
+   "linha": "SPECIAL",
+   "familia": 3,
+   "familiaForm": "proteica",
+   "gelatoPote": 140,
+   "massaPote": 140,
+   "caldaNoPote": 140,
+   "soma": 1000,
+   "linhas": [
+    {
+     "nome": "LEITE ZERO LACTOSE (INTEGRAL)",
+     "gkg": 654.8,
+     "pct": 65.47999999999999,
+     "noPote": 91.672,
+     "rotulo": "leite integral zero lactose",
+     "kcal": 66
+    },
+    {
+     "nome": "MIX OFICIAL",
+     "gkg": 120,
+     "pct": 12,
+     "noPote": 16.8,
+     "rotulo": "mix oficial",
+     "kcal": 122.092
+    },
+    {
+     "nome": "PASTA PISTACCHIO 100% CALIFÓRNIA",
+     "gkg": 90,
+     "pct": 9,
+     "noPote": 12.6,
+     "rotulo": "pasta de pistache",
+     "kcal": 591
+    },
+    {
+     "nome": "CREME DE LEITE FRESCO 35% ZL (VERDE CAMPO LACFREE)",
+     "gkg": 62,
+     "pct": 6.2,
+     "noPote": 8.68,
+     "rotulo": "creme de leite zero lactose",
+     "kcal": 335
+    },
+    {
+     "nome": "LEITE EM PO DESNATADO ZL (BATAVO PENSE ZERO)",
+     "gkg": 33,
+     "pct": 3.3000000000000003,
+     "noPote": 4.62,
+     "rotulo": "leite em po desnatado zl (batavo pense zero)",
+     "kcal": 350
+    },
+    {
+     "nome": "ERITRITOL",
+     "gkg": 20,
+     "pct": 2,
+     "noPote": 2.8000000000000003,
+     "rotulo": "eritritol",
+     "kcal": 20
+    },
+    {
+     "nome": "GLICEROL (GLICERINA BIDESTILADA)",
+     "gkg": 15,
+     "pct": 1.5,
+     "noPote": 2.1,
+     "rotulo": "umectante glicerol",
+     "kcal": 400
+    },
+    {
+     "nome": "CREMOBENE PREMIUM (LIGA NEUTRA)",
+     "gkg": 5.2,
+     "pct": 0.52,
+     "noPote": 0.728,
+     "rotulo": "cremobene premium (liga neutra)",
+     "kcal": 670
+    }
+   ],
+   "fin": [],
+   "met": {
+    "sol": 38.21607999999999,
+    "agua": 61.783920000000016,
+    "gord": 9.495800000000001,
+    "prot": 6.24968,
+    "acu": 13.875760000000001,
+    "solDif": 8.594840000000001,
+    "pod": 148.020001472,
+    "pac": 330.149206336,
+    "kcalCalda": 153.26183999999998,
+    "custoKg": 60.550388
+   },
+   "janela": [
+    -13.838924548966492,
+    -18.163588470518516
+   ],
+   "frozen": 63.67282305896297,
+   "pote": {
+    "kcal": 153.26183999999998,
+    "acu": 7.25401825825826,
+    "acuTecnico": 13.875760000000001,
+    "poliois": 6.621741741741741,
+    "acucarAdd": 0,
+    "prot": 6.24968,
+    "gord": 9.495800000000001,
+    "gordSat": 4.35246,
+    "gordTrans": 0,
+    "fibra": 7.4946399999999995,
+    "sodio": 59.52060000000001,
+    "solidosTotais": 38.21607999999999,
+    "custoKg": 60.550388
+   },
+   "selos": {
+    "ok": [
+     "ALTO TEOR DE FIBRAS",
+     "FONTE DE PROTEÍNA",
+     "SEM ADIÇÃO DE AÇÚCARES"
+    ],
+    "quase": [
+     "ALTO TEOR DE PROTEÍNAS (falta 5,8 g/100 g)"
+    ],
+    "lupa": []
+   },
+   "alerg": [
+    "LEITE",
+    "PISTACHE"
+   ],
+   "temPoliol": true,
+   "rdc727": [
+    {
+     "r": "leite integral zero lactose",
+     "pct": 65.48
+    },
+    {
+     "r": "pasta de pistache",
+     "pct": 9.000000000000002
+    },
+    {
+     "r": "polidextrose",
+     "pct": 6.342342342342342
+    },
+    {
+     "r": "creme de leite zero lactose",
+     "pct": 6.200000000000001
+    },
+    {
+     "r": "eritritol",
+     "pct": 3.9579579579579582
+    },
+    {
+     "r": "leite em po desnatado zl (batavo pense zero)",
+     "pct": 3.3000000000000003
+    },
+    {
+     "r": "maltitol",
+     "pct": 2.6906906906906913
+    },
+    {
+     "r": "umectante glicerol",
+     "pct": 1.5000000000000002
+    },
+    {
+     "r": "inulina",
+     "pct": 0.9729729729729731
+    },
+    {
+     "r": "cremobene premium (liga neutra)",
+     "pct": 0.52
+    },
+    {
+     "r": "edulcorante glicosídeos de esteviol",
+     "pct": 0.036036036036036036
+    }
+   ],
+   "preco": 20.5,
+   "cmv": 10.409231257731959
+  },
+  {
+   "nome": "Manga com Maracujá",
+   "linha": "FRESH",
+   "familia": 2,
+   "familiaForm": "fruta / agua",
+   "gelatoPote": 140,
+   "massaPote": 140,
+   "caldaNoPote": 140,
+   "soma": 1000,
+   "linhas": [
+    {
+     "nome": "MANGA",
+     "gkg": 479,
+     "pct": 47.9,
+     "noPote": 67.06,
+     "rotulo": "polpa de manga",
+     "kcal": 60
+    },
+    {
+     "nome": "MARACUJA (POLPA)",
+     "gkg": 235,
+     "pct": 23.5,
+     "noPote": 32.9,
+     "rotulo": "polpa de maracujá",
+     "kcal": 68
+    },
+    {
+     "nome": "MIX OFICIAL",
+     "gkg": 120,
+     "pct": 12,
+     "noPote": 16.8,
+     "rotulo": "mix oficial",
+     "kcal": 122.092
+    },
+    {
+     "nome": "AGUA",
+     "gkg": 78,
+     "pct": 7.8,
+     "noPote": 10.92,
+     "rotulo": "água",
+     "kcal": 0
+    },
+    {
+     "nome": "POLIDEXTROSE",
+     "gkg": 70,
+     "pct": 7.000000000000001,
+     "noPote": 9.8,
+     "rotulo": "polidextrose",
+     "kcal": 100
+    },
+    {
+     "nome": "GLICEROL (GLICERINA BIDESTILADA)",
+     "gkg": 15,
+     "pct": 1.5,
+     "noPote": 2.1,
+     "rotulo": "umectante glicerol",
+     "kcal": 400
+    },
+    {
+     "nome": "CREMOBENE PREMIUM (LIGA NEUTRA)",
+     "gkg": 3,
+     "pct": 0.3,
+     "noPote": 0.42,
+     "rotulo": "cremobene premium (liga neutra)",
+     "kcal": 670
+    }
+   ],
+   "fin": [],
+   "met": {
+    "sol": 31.9618,
+    "agua": 68.0382,
+    "gord": 0.4182,
+    "prot": 0.7558800000000001,
+    "acu": 16.879279999999998,
+    "solDif": 14.836640000000001,
+    "pod": 226.576901472,
+    "pac": 389.19108633600007,
+    "kcalCalda": 74.38104,
+    "custoKg": 26.185999999999996
+   },
+   "janela": [
+    -14.814179853335972,
+    -19.443611057503457
+   ],
+   "frozen": 61.11277788499307,
+   "pote": {
+    "kcal": 74.38104,
+    "acu": 12.257538258258256,
+    "acuTecnico": 16.879279999999998,
+    "poliois": 4.621741741741742,
+    "acucarAdd": 0,
+    "prot": 0.7558800000000001,
+    "gord": 0.4182,
+    "gordSat": 0,
+    "gordTrans": 0,
+    "fibra": 14.000639999999997,
+    "sodio": 4.148000000000001,
+    "solidosTotais": 31.9618,
+    "custoKg": 26.185999999999996
+   },
+   "selos": {
+    "ok": [
+     "ALTO TEOR DE FIBRAS",
+     "SEM ADIÇÃO DE AÇÚCARES"
+    ],
+    "quase": [],
+    "lupa": []
+   },
+   "alerg": [],
+   "temPoliol": true,
+   "rdc727": [
+    {
+     "r": "polpa de manga",
+     "pct": 47.900000000000006
+    },
+    {
+     "r": "polpa de maracujá",
+     "pct": 23.5
+    },
+    {
+     "r": "polidextrose",
+     "pct": 13.342342342342345
+    },
+    {
+     "r": "água",
+     "pct": 7.800000000000002
+    },
+    {
+     "r": "maltitol",
+     "pct": 2.6906906906906913
+    },
+    {
+     "r": "eritritol",
+     "pct": 1.9579579579579582
+    },
+    {
+     "r": "umectante glicerol",
+     "pct": 1.5000000000000002
+    },
+    {
+     "r": "inulina",
+     "pct": 0.9729729729729731
+    },
+    {
+     "r": "cremobene premium (liga neutra)",
+     "pct": 0.30000000000000004
+    },
+    {
+     "r": "edulcorante glicosídeos de esteviol",
+     "pct": 0.036036036036036036
+    }
+   ],
+   "preco": 18.7,
+   "cmv": 5.449422680412371
+  },
+  {
+   "nome": "Sorbet Morango",
+   "linha": "FRESH",
+   "familia": 2,
+   "familiaForm": "fruta / agua",
+   "gelatoPote": 140,
+   "massaPote": 140,
+   "caldaNoPote": 140,
+   "soma": 1000,
+   "linhas": [
+    {
+     "nome": "MORANGO",
+     "gkg": 629,
+     "pct": 62.9,
+     "noPote": 88.06,
+     "rotulo": "polpa de morango",
+     "kcal": 32
+    },
+    {
+     "nome": "MIX OFICIAL",
+     "gkg": 230,
+     "pct": 23,
+     "noPote": 32.2,
+     "rotulo": "mix oficial",
+     "kcal": 122.092
+    },
+    {
+     "nome": "AGUA",
+     "gkg": 98,
+     "pct": 9.8,
+     "noPote": 13.72,
+     "rotulo": "água",
+     "kcal": 0
+    },
+    {
+     "nome": "ERITRITOL",
+     "gkg": 15,
+     "pct": 1.5,
+     "noPote": 2.1,
+     "rotulo": "eritritol",
+     "kcal": 20
+    },
+    {
+     "nome": "GLICEROL (GLICERINA BIDESTILADA)",
+     "gkg": 15,
+     "pct": 1.5,
+     "noPote": 2.1,
+     "rotulo": "umectante glicerol",
+     "kcal": 400
+    },
+    {
+     "nome": "PASTA FRAGOLA MEC3 (18047)",
+     "gkg": 10,
+     "pct": 1,
+     "noPote": 1.4000000000000001,
+     "rotulo": "pasta de morango",
+     "kcal": 262.4
+    },
+    {
+     "nome": "CREMOBENE PREMIUM (LIGA NEUTRA)",
+     "gkg": 3,
+     "pct": 0.3,
+     "noPote": 0.42,
+     "rotulo": "cremobene premium (liga neutra)",
+     "kcal": 670
+    }
+   ],
+   "fin": [],
+   "met": {
+    "sol": 31.927699999999998,
+    "agua": 68.0723,
+    "gord": 0.39369999999999994,
+    "prot": 0.70852,
+    "acu": 16.289119999999997,
+    "solDif": 15.35706,
+    "pod": 232.31639448800001,
+    "pac": 388.13698214400006,
+    "kcalCalda": 59.14316,
+    "custoKg": 21.308849999999996
+   },
+   "janela": [
+    -14.766655517485937,
+    -19.381235366700285
+   ],
+   "frozen": 61.237529266599424,
+   "pote": {
+    "kcal": 59.14316000000001,
+    "acu": 5.930781661661657,
+    "acuTecnico": 16.289119999999997,
+    "poliois": 10.35833833833834,
+    "acucarAdd": 0.47000000000000003,
+    "prot": 0.70852,
+    "gord": 0.39369999999999994,
+    "gordSat": 0,
+    "gordTrans": 0,
+    "fibra": 13.896059999999999,
+    "sodio": 4.028,
+    "solidosTotais": 31.927699999999998,
+    "custoKg": 21.308849999999996
+   },
+   "selos": {
+    "ok": [
+     "ALTO TEOR DE FIBRAS"
+    ],
+    "quase": [
+     "sem adição de açúcares: NÃO pode — 0,47 g/100 g vêm de insumo com açúcar adicionado"
+    ],
+    "lupa": []
+   },
+   "alerg": [],
+   "temPoliol": true,
+   "rdc727": [
+    {
+     "r": "polpa de morango",
+     "pct": 62.90000000000001
+    },
+    {
+     "r": "polidextrose",
+     "pct": 12.156156156156158
+    },
+    {
+     "r": "água",
+     "pct": 9.800000000000002
+    },
+    {
+     "r": "eritritol",
+     "pct": 5.2527527527527536
+    },
+    {
+     "r": "maltitol",
+     "pct": 5.157157157157158
+    },
+    {
+     "r": "inulina",
+     "pct": 1.8648648648648654
+    },
+    {
+     "r": "umectante glicerol",
+     "pct": 1.5000000000000002
+    },
+    {
+     "r": "pasta de morango",
+     "pct": 1.0000000000000002
+    },
+    {
+     "r": "cremobene premium (liga neutra)",
+     "pct": 0.30000000000000004
+    },
+    {
+     "r": "edulcorante glicosídeos de esteviol",
+     "pct": 0.06906906906906907
+    }
+   ],
+   "preco": 18.7,
+   "cmv": 4.74550412371134
+  },
+  {
+   "nome": "Torta de Limão",
+   "linha": "SPECIAL",
+   "familia": 1,
+   "familiaForm": "creme / leite",
+   "gelatoPote": 140,
+   "massaPote": 140,
+   "caldaNoPote": 140,
+   "soma": 1000,
+   "linhas": [
+    {
+     "nome": "LEITE ZERO LACTOSE (INTEGRAL)",
+     "gkg": 614,
+     "pct": 61.4,
+     "noPote": 85.96,
+     "rotulo": "leite integral zero lactose",
+     "kcal": 66
+    },
+    {
+     "nome": "MIX OFICIAL",
+     "gkg": 150,
+     "pct": 15,
+     "noPote": 21,
+     "rotulo": "mix oficial",
+     "kcal": 122.092
+    },
+    {
+     "nome": "CREME DE LEITE FRESCO 35% ZL (VERDE CAMPO LACFREE)",
+     "gkg": 102,
+     "pct": 10.2,
+     "noPote": 14.28,
+     "rotulo": "creme de leite zero lactose",
+     "kcal": 335
+    },
+    {
+     "nome": "GUSTO LIMONE SICILIA (PÓ)",
+     "gkg": 60,
+     "pct": 6,
+     "noPote": 8.4,
+     "rotulo": "preparado de limão siciliano",
+     "kcal": 436
+    },
+    {
+     "nome": "LEITE EM PO DESNATADO ZL (BATAVO PENSE ZERO)",
+     "gkg": 33,
+     "pct": 3.3000000000000003,
+     "noPote": 4.62,
+     "rotulo": "leite em po desnatado zl (batavo pense zero)",
+     "kcal": 350
+    },
+    {
+     "nome": "POLIDEXTROSE",
+     "gkg": 20,
+     "pct": 2,
+     "noPote": 2.8000000000000003,
+     "rotulo": "polidextrose",
+     "kcal": 100
+    },
+    {
+     "nome": "GLICEROL (GLICERINA BIDESTILADA)",
+     "gkg": 15,
+     "pct": 1.5,
+     "noPote": 2.1,
+     "rotulo": "umectante glicerol",
+     "kcal": 400
+    },
+    {
+     "nome": "CREMOBENE PREMIUM (LIGA NEUTRA)",
+     "gkg": 6,
+     "pct": 0.6,
+     "noPote": 0.84,
+     "rotulo": "cremobene premium (liga neutra)",
+     "kcal": 670
+    }
+   ],
+   "fin": [],
+   "met": {
+    "sol": 39.4039,
+    "agua": 60.5961,
+    "gord": 6.527000000000001,
+    "prot": 3.6334000000000004,
+    "acu": 14.621400000000001,
+    "solDif": 14.562099999999997,
+    "pod": 169.99962684000002,
+    "pac": 351.84605792,
+    "kcalCalda": 142.7378,
+    "custoKg": 44.60164
+   },
+   "janela": [
+    -15.037497195962407,
+    -19.73671506970065
+   ],
+   "frozen": 60.52656986059868,
+   "pote": {
+    "kcal": 142.7378,
+    "acu": 8.844222822822823,
+    "acuTecnico": 14.621400000000001,
+    "poliois": 5.777177177177178,
+    "acucarAdd": 0,
+    "prot": 3.6334000000000004,
+    "gord": 6.527000000000001,
+    "gordSat": 4.1523,
+    "gordTrans": 0,
+    "fibra": 10.203299999999999,
+    "sodio": 63.88099999999999,
+    "solidosTotais": 39.4039,
+    "custoKg": 44.60164
+   },
+   "selos": {
+    "ok": [
+     "ALTO TEOR DE FIBRAS",
+     "SEM ADIÇÃO DE AÇÚCARES"
+    ],
+    "quase": [],
+    "lupa": []
+   },
+   "alerg": [
+    "LEITE"
+   ],
+   "temPoliol": true,
+   "rdc727": [
+    {
+     "r": "leite integral zero lactose",
+     "pct": 61.39999999999999
+    },
+    {
+     "r": "creme de leite zero lactose",
+     "pct": 10.2
+    },
+    {
+     "r": "polidextrose",
+     "pct": 9.927927927927927
+    },
+    {
+     "r": "preparado de limão siciliano",
+     "pct": 5.999999999999999
+    },
+    {
+     "r": "maltitol",
+     "pct": 3.3633633633633635
+    },
+    {
+     "r": "leite em po desnatado zl (batavo pense zero)",
+     "pct": 3.2999999999999994
+    },
+    {
+     "r": "eritritol",
+     "pct": 2.447447447447447
+    },
+    {
+     "r": "umectante glicerol",
+     "pct": 1.4999999999999998
+    },
+    {
+     "r": "inulina",
+     "pct": 1.216216216216216
+    },
+    {
+     "r": "cremobene premium (liga neutra)",
+     "pct": 0.6
+    },
+    {
+     "r": "edulcorante glicosídeos de esteviol",
+     "pct": 0.04504504504504504
+    }
+   ],
+   "preco": 20.5,
+   "cmv": 8.107350103092784
+  },
+  {
+   "nome": "Alfajor",
+   "linha": "SPECIAL",
+   "familia": 1,
+   "familiaForm": "creme / leite",
+   "gelatoPote": 135,
+   "massaPote": 149.98499999999999,
+   "caldaNoPote": 135,
+   "soma": 1000,
+   "linhas": [
+    {
+     "nome": "LEITE ZERO LACTOSE (INTEGRAL)",
+     "gkg": 607.7,
+     "pct": 60.77,
+     "noPote": 82.0395,
+     "rotulo": "leite integral zero lactose",
+     "kcal": 66
+    },
+    {
+     "nome": "DOCE DE LEITE VIÇOSA ZERO",
+     "gkg": 160,
+     "pct": 16,
+     "noPote": 21.6,
+     "rotulo": "doce de leite viçosa zero",
+     "kcal": 188
+    },
+    {
+     "nome": "POLIDEXTROSE",
+     "gkg": 70,
+     "pct": 7.000000000000001,
+     "noPote": 9.450000000000001,
+     "rotulo": "polidextrose",
+     "kcal": 100
+    },
+    {
+     "nome": "CREME DE LEITE FRESCO 35% ZL (VERDE CAMPO LACFREE)",
+     "gkg": 60,
+     "pct": 6,
+     "noPote": 8.1,
+     "rotulo": "creme de leite zero lactose",
+     "kcal": 335
+    },
+    {
+     "nome": "LEITE EM PO DESNATADO ZL (BATAVO PENSE ZERO)",
+     "gkg": 50,
+     "pct": 5,
+     "noPote": 6.75,
+     "rotulo": "leite em po desnatado zl (batavo pense zero)",
+     "kcal": 350
+    },
+    {
+     "nome": "MALTITOL",
+     "gkg": 30,
+     "pct": 3,
+     "noPote": 4.05,
+     "rotulo": "maltitol",
+     "kcal": 240
+    },
+    {
+     "nome": "GLICEROL (GLICERINA BIDESTILADA)",
+     "gkg": 15,
+     "pct": 1.5,
+     "noPote": 2.025,
+     "rotulo": "umectante glicerol",
+     "kcal": 400
+    },
+    {
+     "nome": "CREMOBENE PREMIUM (LIGA NEUTRA)",
+     "gkg": 6,
+     "pct": 0.6,
+     "noPote": 0.81,
+     "rotulo": "cremobene premium (liga neutra)",
+     "kcal": 670
+    },
+    {
+     "nome": "SAL",
+     "gkg": 1,
+     "pct": 0.1,
+     "noPote": 0.135,
+     "rotulo": "sal",
+     "kcal": 0
+    },
+    {
+     "nome": "STEVIA",
+     "gkg": 0.3,
+     "pct": 0.03,
+     "noPote": 0.040499999999999994,
+     "rotulo": "edulcorante glicosídeos de esteviol",
+     "kcal": 0
+    }
+   ],
+   "fin": [
+    {
+     "nome": "BISCOITO ALFAJOR DE CHOCOLATE (ZERO LACTOSE)",
+     "gkg": 111,
+     "noPote": 14.985,
+     "adicional": true,
+     "rotulo": "biscoito de alfajor de chocolate"
+    }
+   ],
+   "met": {
+    "sol": 37.129720000000006,
+    "agua": 62.87027999999999,
+    "gord": 6.1408000000000005,
+    "prot": 5.370950000000001,
+    "acu": 15.58742,
+    "solDif": 10.03055,
+    "pod": 147.92265,
+    "pac": 368.99897999999996,
+    "kcalCalda": 132.00820000000002,
+    "custoKg": 33.7543
+   },
+   "janela": [
+    -15.200130429518541,
+    -19.950171188743077
+   ],
+   "frozen": 60.099657622513824,
+   "pote": {
+    "kcal": 162.47992799279928,
+    "acu": 7.776705670567058,
+    "acuTecnico": 14.17994599459946,
+    "poliois": 6.403240324032403,
+    "acucarAdd": 0.009990999099909992,
+    "prot": 5.293924392439245,
+    "gord": 8.324752475247525,
+    "gordSat": 5.124023402340234,
+    "gordTrans": 0,
+    "fibra": 6.281638163816382,
+    "sodio": 139.408100810081,
+    "solidosTotais": 41.77256525652566,
+    "custoKg": 34.224446444644464
+   },
+   "selos": {
+    "ok": [
+     "ALTO TEOR DE FIBRAS"
+    ],
+    "quase": [
+     "FONTE DE PROTEÍNA (falta 0,7 g/100 g)",
+     "sem adição de açúcares: NÃO pode — 0,01 g/100 g vêm de insumo com açúcar adicionado"
+    ],
+    "lupa": []
+   },
+   "alerg": [
+    "LEITE",
+    "GLÚTEN"
+   ],
+   "temPoliol": true,
+   "rdc727": [
+    {
+     "r": "leite integral zero lactose",
+     "pct": 54.6984698469847
+    },
+    {
+     "r": "doce de leite viçosa zero",
+     "pct": 14.401440144014401
+    },
+    {
+     "r": "biscoito de alfajor de chocolate",
+     "pct": 9.99099909990999
+    },
+    {
+     "r": "polidextrose",
+     "pct": 6.300630063006301
+    },
+    {
+     "r": "creme de leite zero lactose",
+     "pct": 5.4005400540054005
+    },
+    {
+     "r": "leite em po desnatado zl (batavo pense zero)",
+     "pct": 4.5004500450045
+    },
+    {
+     "r": "maltitol",
+     "pct": 2.7002700270027002
+    },
+    {
+     "r": "umectante glicerol",
+     "pct": 1.3501350135013501
+    },
+    {
+     "r": "cremobene premium (liga neutra)",
+     "pct": 0.54005400540054
+    },
+    {
+     "r": "sal",
+     "pct": 0.09000900090009001
+    },
+    {
+     "r": "edulcorante glicosídeos de esteviol",
+     "pct": 0.027002700270027002
+    }
+   ],
+   "preco": 20.5,
+   "cmv": 6.961910927835052
+  },
+  {
+   "nome": "Brigadeiro Proteico",
+   "linha": "BOOST",
+   "familia": 3,
+   "familiaForm": "proteica",
+   "gelatoPote": 140,
+   "massaPote": 140,
+   "caldaNoPote": 140,
+   "soma": 1000.1,
+   "linhas": [
+    {
+     "nome": "LEITE ZERO LACTOSE (INTEGRAL)",
+     "gkg": 668.5,
+     "pct": 66.84331566843315,
+     "noPote": 93.59,
+     "rotulo": "leite integral zero lactose",
+     "kcal": 66
+    },
+    {
+     "nome": "BASE MEC PROTEIN",
+     "gkg": 125,
+     "pct": 12.4987501249875,
+     "noPote": 17.5,
+     "rotulo": "base proteica",
+     "kcal": 336
+    },
+    {
+     "nome": "LEITE EM PO DESNATADO ZL (BATAVO PENSE ZERO)",
+     "gkg": 115.4,
+     "pct": 11.538846115388461,
+     "noPote": 16.156,
+     "rotulo": "leite em po desnatado zl (batavo pense zero)",
+     "kcal": 350
+    },
+    {
+     "nome": "CACAU 22/24",
+     "gkg": 38.5,
+     "pct": 3.84961503849615,
+     "noPote": 5.39,
+     "rotulo": "cacau em pó alcalinizado",
+     "kcal": 340
+    },
+    {
+     "nome": "GLICEROL (GLICERINA BIDESTILADA)",
+     "gkg": 28.9,
+     "pct": 2.88971102889711,
+     "noPote": 4.045999999999999,
+     "rotulo": "umectante glicerol",
+     "kcal": 400
+    },
+    {
+     "nome": "POLIDEXTROSE",
+     "gkg": 19.2,
+     "pct": 1.9198080191980802,
+     "noPote": 2.6879999999999997,
+     "rotulo": "polidextrose",
+     "kcal": 100
+    },
+    {
+     "nome": "CREMOBENE PREMIUM (LIGA NEUTRA)",
+     "gkg": 3,
+     "pct": 0.2999700029997,
+     "noPote": 0.42,
+     "rotulo": "cremobene premium (liga neutra)",
+     "kcal": 670
+    },
+    {
+     "nome": "SAL",
+     "gkg": 1,
+     "pct": 0.0999900009999,
+     "noPote": 0.14,
+     "rotulo": "sal",
+     "kcal": 0
+    },
+    {
+     "nome": "STEVIA",
+     "gkg": 0.6,
+     "pct": 0.059994000599940006,
+     "noPote": 0.08399999999999999,
+     "rotulo": "edulcorante glicosídeos de esteviol",
+     "kcal": 0
+    }
+   ],
+   "fin": [],
+   "met": {
+    "sol": 40.6312,
+    "agua": 59.3688,
+    "gord": 5.4414,
+    "prot": 10.131749999999998,
+    "acu": 14.266100000000002,
+    "solDif": 10.79195,
+    "pod": 161.23025,
+    "pac": 332.20989999999995,
+    "kcalCalda": 155.091,
+    "custoKg": 41.08835516448355
+   },
+   "janela": [
+    -14.49178369535793,
+    -19.020466100157275
+   ],
+   "frozen": 61.95906779968544,
+   "pote": {
+    "kcal": 155.07549245075495,
+    "acu": 14.264673532646736,
+    "acuTecnico": 14.264673532646736,
+    "poliois": 0,
+    "acucarAdd": 0,
+    "prot": 10.130736926307367,
+    "gord": 5.440855914408559,
+    "gordSat": 3.5455454454554545,
+    "gordTrans": 0.0999900009999,
+    "fibra": 4.6112888711128885,
+    "sodio": 168.13643635636436,
+    "solidosTotais": 40.62713728627138,
+    "custoKg": 41.08835516448355
+   },
+   "selos": {
+    "ok": [
+     "FONTE DE FIBRAS",
+     "FONTE DE PROTEÍNA",
+     "SEM ADIÇÃO DE AÇÚCARES"
+    ],
+    "quase": [
+     "ALTO TEOR DE PROTEÍNAS (falta 1,9 g/100 g)"
+    ],
+    "lupa": []
+   },
+   "alerg": [
+    "LEITE"
+   ],
+   "temPoliol": false,
+   "rdc727": [
+    {
+     "r": "leite integral zero lactose",
+     "pct": 66.84331566843315
+    },
+    {
+     "r": "base proteica",
+     "pct": 12.4987501249875
+    },
+    {
+     "r": "leite em po desnatado zl (batavo pense zero)",
+     "pct": 11.538846115388461
+    },
+    {
+     "r": "cacau em pó alcalinizado",
+     "pct": 3.84961503849615
+    },
+    {
+     "r": "umectante glicerol",
+     "pct": 2.88971102889711
+    },
+    {
+     "r": "polidextrose",
+     "pct": 1.9198080191980802
+    },
+    {
+     "r": "cremobene premium (liga neutra)",
+     "pct": 0.2999700029997
+    },
+    {
+     "r": "sal",
+     "pct": 0.0999900009999
+    },
+    {
+     "r": "edulcorante glicosídeos de esteviol",
+     "pct": 0.059994000599940006
+    }
+   ],
+   "preco": 20.5,
+   "cmv": 7.600278064977008
+  }
+ ],
+ "ingredientes": [
+  {
+   "nome": "AGUA",
+   "rotulo": "água",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 0,
+    "acucares": 0,
+    "gordura": 0,
+    "gordSat": 0,
+    "gordTrans": 0,
+    "proteinas": 0,
+    "fibra": 0,
+    "solidosTotais": 0,
+    "solidosDif": 0,
+    "sodio": 0,
+    "pod": 0,
+    "pac": 0
+   },
+   "custoKg": 0,
+   "conferir": [
+    "sem preço no cadastro"
+   ]
+  },
+  {
+   "nome": "BASE MEC PROTEIN",
+   "rotulo": "base proteica",
+   "alerg": [
+    "LEITE"
+   ],
+   "composto": true,
+   "obs": "ingrediente composto — a lista interna dela precisa vir da ficha MEC3",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 336,
+    "acucares": 19,
+    "gordura": 12.5,
+    "gordSat": 9,
+    "gordTrans": 0.8,
+    "proteinas": 30,
+    "fibra": 14,
+    "solidosTotais": 97,
+    "solidosDif": 35.5,
+    "sodio": 340,
+    "pod": 16,
+    "pac": 190
+   },
+   "custoKg": 148.2,
+   "conferir": [
+    "ingrediente COMPOSTO — pedir a lista interna ao fabricante"
+   ]
+  },
+  {
+   "nome": "BISCOITO ALFAJOR DE CHOCOLATE (ZERO LACTOSE)",
+   "rotulo": "biscoito de alfajor de chocolate",
+   "alerg": [
+    "LEITE",
+    "GLÚTEN"
+   ],
+   "composto": true,
+   "obs": "ingrediente composto — lista interna (chocolate, farinha de arroz, gordura vegetal, doce de leite, amido de milho, polvilho doce, adoçante culinário, água, goma xantana, sal, psyllium, urucum) precisa ser desdobrada no rótulo do pote. CONTÉM GLÚTEN. Pode conter amêndoas, amendoim, avelã, castanha-de-caju, derivados de trigo, pistache, soja.",
+   "acucarAdd": 0.1,
+   "nut": {
+    "kcal": 437,
+    "acucares": 1.5,
+    "gordura": 28,
+    "gordSat": 21,
+    "gordTrans": 0.2,
+    "proteinas": 4.6,
+    "fibra": 3.9,
+    "solidosTotais": 83.6,
+    "solidosDif": 49.5,
+    "sodio": 207,
+    "pod": 2,
+    "pac": 2
+   },
+   "custoKg": 38.46,
+   "conferir": [
+    "ingrediente COMPOSTO — pedir a lista interna ao fabricante"
+   ]
+  },
+  {
+   "nome": "CACAU 22/24",
+   "rotulo": "cacau em pó alcalinizado",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 340,
+    "acucares": 0,
+    "gordura": 23,
+    "gordSat": 14.5,
+    "gordTrans": 0,
+    "proteinas": 0,
+    "fibra": 27.5,
+    "solidosTotais": 100,
+    "solidosDif": 77,
+    "sodio": 16.5,
+    "pod": 100,
+    "pac": 100
+   },
+   "custoKg": 130,
+   "conferir": []
+  },
+  {
+   "nome": "CREME DE LEITE FRESCO 35% ZL (VERDE CAMPO LACFREE)",
+   "rotulo": "creme de leite zero lactose",
+   "alerg": [
+    "LEITE"
+   ],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 335,
+    "acucares": 2.7,
+    "gordura": 35,
+    "gordSat": 24,
+    "gordTrans": 0,
+    "proteinas": 2.4,
+    "fibra": 0,
+    "solidosTotais": 41,
+    "solidosDif": 0.9,
+    "sodio": 79,
+    "pod": 75,
+    "pac": 190
+   },
+   "custoKg": 57.8,
+   "conferir": []
+  },
+  {
+   "nome": "CREMOBENE PREMIUM (LIGA NEUTRA)",
+   "rotulo": "—",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 670,
+    "acucares": 0,
+    "gordura": 68,
+    "gordSat": 0,
+    "gordTrans": 0,
+    "proteinas": 1,
+    "fibra": 25,
+    "solidosTotais": 94,
+    "solidosDif": 25,
+    "sodio": 0,
+    "pod": 0,
+    "pac": 0
+   },
+   "custoKg": 105.84,
+   "conferir": [
+    "sem nome de rótulo definido"
+   ]
+  },
+  {
+   "nome": "DELÍCIA DE AMENDOIM PROTEICO",
+   "rotulo": "creme de amendoim proteico",
+   "alerg": [
+    "AMENDOIM",
+    "LEITE"
+   ],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 591,
+    "acucares": 6.8,
+    "gordura": 49,
+    "gordSat": 6.8,
+    "gordTrans": 0,
+    "proteinas": 17,
+    "fibra": 2.1,
+    "solidosTotais": 97,
+    "solidosDif": 24.2,
+    "sodio": 76,
+    "pod": 80,
+    "pac": 100
+   },
+   "custoKg": 94.25,
+   "conferir": []
+  },
+  {
+   "nome": "DOCE DE LEITE VIÇOSA ZERO",
+   "rotulo": "—",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 188,
+    "acucares": 33,
+    "gordura": 7.2,
+    "gordSat": 1.6,
+    "gordTrans": 0,
+    "proteinas": 8.4,
+    "fibra": 0.6,
+    "solidosTotais": 65,
+    "solidosDif": 16.4,
+    "sodio": 188,
+    "pod": 69,
+    "pac": 261
+   },
+   "custoKg": 99.75,
+   "conferir": [
+    "sem nome de rótulo definido"
+   ]
+  },
+  {
+   "nome": "ERITRITOL",
+   "rotulo": "eritritol",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 20,
+    "acucares": 100,
+    "gordura": 0,
+    "gordSat": 0,
+    "gordTrans": 0,
+    "proteinas": 0,
+    "fibra": 0,
+    "solidosTotais": 100,
+    "solidosDif": 0,
+    "sodio": 0,
+    "pod": 70,
+    "pac": 280
+   },
+   "custoKg": 53.76,
+   "conferir": []
+  },
+  {
+   "nome": "GLICEROL (GLICERINA BIDESTILADA)",
+   "rotulo": "umectante glicerol",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 400,
+    "acucares": 100,
+    "gordura": 0,
+    "gordSat": 0,
+    "gordTrans": 0,
+    "proteinas": 0,
+    "fibra": 0,
+    "solidosTotais": 100,
+    "solidosDif": 0,
+    "sodio": 0,
+    "pod": 60,
+    "pac": 372
+   },
+   "custoKg": 24,
+   "conferir": []
+  },
+  {
+   "nome": "GUSTO LIMONE SICILIA (PÓ)",
+   "rotulo": "preparado de limão siciliano",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 436,
+    "acucares": 33,
+    "gordura": 1,
+    "gordSat": 0.5,
+    "gordTrans": 0,
+    "proteinas": 0.5,
+    "fibra": 1,
+    "solidosTotais": 97,
+    "solidosDif": 61.5,
+    "sodio": 50,
+    "pod": 100,
+    "pac": 212
+   },
+   "custoKg": 359.62,
+   "conferir": []
+  },
+  {
+   "nome": "LEITE EM PO DESNATADO ZL (BATAVO PENSE ZERO)",
+   "rotulo": "—",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 350,
+    "acucares": 50,
+    "gordura": 1,
+    "gordSat": 0.5,
+    "gordTrans": 0,
+    "proteinas": 35,
+    "fibra": 0,
+    "solidosTotais": 96,
+    "solidosDif": 10,
+    "sodio": 385,
+    "pod": 51,
+    "pac": 190
+   },
+   "custoKg": 65.7,
+   "conferir": [
+    "sem nome de rótulo definido"
+   ]
+  },
+  {
+   "nome": "LEITE ZERO LACTOSE (INTEGRAL)",
+   "rotulo": "leite integral zero lactose",
+   "alerg": [
+    "LEITE"
+   ],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 66,
+    "acucares": 4.6,
+    "gordura": 4,
+    "gordSat": 2.7,
+    "gordTrans": 0,
+    "proteinas": 3.5,
+    "fibra": 0,
+    "solidosTotais": 12.6,
+    "solidosDif": 0.5,
+    "sodio": 62,
+    "pod": 75,
+    "pac": 190
+   },
+   "custoKg": 9.8,
+   "conferir": []
+  },
+  {
+   "nome": "MALTITOL",
+   "rotulo": "maltitol",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 240,
+    "acucares": 99,
+    "gordura": 0,
+    "gordSat": 0,
+    "gordTrans": 0,
+    "proteinas": 0,
+    "fibra": 0,
+    "solidosTotais": 99,
+    "solidosDif": 0,
+    "sodio": 0,
+    "pod": 80,
+    "pac": 100
+   },
+   "custoKg": 37.78,
+   "conferir": []
+  },
+  {
+   "nome": "MANGA",
+   "rotulo": "polpa de manga",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 60,
+    "acucares": 14,
+    "gordura": 0.3,
+    "gordSat": 0,
+    "gordTrans": 0,
+    "proteinas": 1,
+    "fibra": 1.5,
+    "solidosTotais": 17,
+    "solidosDif": 3,
+    "sodio": 2,
+    "pod": 130,
+    "pac": 170
+   },
+   "custoKg": 22,
+   "conferir": []
+  },
+  {
+   "nome": "MARACUJA (POLPA)",
+   "rotulo": "polpa de maracujá",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 68,
+    "acucares": 14,
+    "gordura": 0.3,
+    "gordSat": 0,
+    "gordTrans": 0,
+    "proteinas": 1,
+    "fibra": 1.5,
+    "solidosTotais": 16,
+    "solidosDif": 2,
+    "sodio": 2,
+    "pod": 130,
+    "pac": 170
+   },
+   "custoKg": 30,
+   "conferir": []
+  },
+  {
+   "nome": "MIX OFICIAL",
+   "rotulo": "—",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 122.092,
+    "acucares": 41.944,
+    "gordura": 0,
+    "gordSat": 0,
+    "gordTrans": 0,
+    "proteinas": 0.324,
+    "fibra": 54.622,
+    "solidosTotais": 96.89,
+    "solidosDif": 54.622,
+    "sodio": 11,
+    "pod": 174.099,
+    "pac": 241.312
+   },
+   "custoKg": 49.134,
+   "conferir": [
+    "sem nome de rótulo definido",
+    "feito na casa — ver composição na seção do Mix Oficial"
+   ]
+  },
+  {
+   "nome": "MORANGO",
+   "rotulo": "polpa de morango",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 32,
+    "acucares": 5,
+    "gordura": 0.3,
+    "gordSat": 0,
+    "gordTrans": 0,
+    "proteinas": 1,
+    "fibra": 2,
+    "solidosTotais": 9,
+    "solidosDif": 4,
+    "sodio": 2,
+    "pod": 130,
+    "pac": 170
+   },
+   "custoKg": 11.29,
+   "conferir": []
+  },
+  {
+   "nome": "PASTA CAFÉ SELECTA (BALDE 2 KG)",
+   "rotulo": "pasta de café",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 210,
+    "acucares": 40,
+    "gordura": 0.5,
+    "gordSat": 0.2,
+    "gordTrans": 0,
+    "proteinas": 0.5,
+    "fibra": 0.5,
+    "solidosTotais": 56,
+    "solidosDif": 15,
+    "sodio": 50,
+    "pod": 90,
+    "pac": 120
+   },
+   "custoKg": 90,
+   "conferir": []
+  },
+  {
+   "nome": "PASTA FRAGOLA MEC3 (18047)",
+   "rotulo": "pasta de morango",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 47,
+   "nut": {
+    "kcal": 262.4,
+    "acucares": 49.7,
+    "gordura": 0.1,
+    "gordSat": 0,
+    "gordTrans": 0,
+    "proteinas": 0.2,
+    "fibra": 0,
+    "solidosTotais": 70,
+    "solidosDif": 20.3,
+    "sodio": 24,
+    "pod": 80,
+    "pac": 82
+   },
+   "custoKg": 142.27,
+   "conferir": []
+  },
+  {
+   "nome": "PASTA PISTACCHIO 100% CALIFÓRNIA",
+   "rotulo": "pasta de pistache",
+   "alerg": [
+    "PISTACHE"
+   ],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 591,
+    "acucares": 5.7,
+    "gordura": 48,
+    "gordSat": 12,
+    "gordTrans": 0,
+    "proteinas": 29,
+    "fibra": 9,
+    "solidosTotais": 96,
+    "solidosDif": 13.3,
+    "sodio": 0,
+    "pod": 100,
+    "pac": 100
+   },
+   "custoKg": 450,
+   "conferir": []
+  },
+  {
+   "nome": "POLIDEXTROSE",
+   "rotulo": "polidextrose",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 100,
+    "acucares": 5,
+    "gordura": 0,
+    "gordSat": 0,
+    "gordTrans": 0,
+    "proteinas": 0,
+    "fibra": 90,
+    "solidosTotais": 95,
+    "solidosDif": 90,
+    "sodio": 20,
+    "pod": 0,
+    "pac": 1200
+   },
+   "custoKg": 28.92,
+   "conferir": []
+  },
+  {
+   "nome": "SAL",
+   "rotulo": "sal",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 0,
+    "acucares": 0,
+    "gordura": 0,
+    "gordSat": 0,
+    "gordTrans": 0,
+    "proteinas": 0,
+    "fibra": 0,
+    "solidosTotais": 98.7,
+    "solidosDif": 98.7,
+    "sodio": 38758,
+    "pod": 0,
+    "pac": 0
+   },
+   "custoKg": 3,
+   "conferir": []
+  },
+  {
+   "nome": "STEVIA",
+   "rotulo": "edulcorante glicosídeos de esteviol",
+   "alerg": [],
+   "composto": false,
+   "obs": "",
+   "acucarAdd": 0,
+   "nut": {
+    "kcal": 0,
+    "acucares": 100,
+    "gordura": 0,
+    "gordSat": 0,
+    "gordTrans": 0,
+    "proteinas": 0,
+    "fibra": 0,
+    "solidosTotais": 100,
+    "solidosDif": 0,
+    "sodio": 0,
+    "pod": 14600,
+    "pac": 0
+   },
+   "custoKg": 3100,
+   "conferir": []
+  }
+ ],
+ "pendencias": [
+  {
+   "ingrediente": "AGUA",
+   "itens": [
+    "sem preço no cadastro"
+   ]
+  },
+  {
+   "ingrediente": "BASE MEC PROTEIN",
+   "itens": [
+    "ingrediente COMPOSTO — pedir a lista interna ao fabricante"
+   ]
+  },
+  {
+   "ingrediente": "BISCOITO ALFAJOR DE CHOCOLATE (ZERO LACTOSE)",
+   "itens": [
+    "ingrediente COMPOSTO — pedir a lista interna ao fabricante"
+   ]
+  },
+  {
+   "ingrediente": "CREMOBENE PREMIUM (LIGA NEUTRA)",
+   "itens": [
+    "sem nome de rótulo definido"
+   ]
+  },
+  {
+   "ingrediente": "DOCE DE LEITE VIÇOSA ZERO",
+   "itens": [
+    "sem nome de rótulo definido"
+   ]
+  },
+  {
+   "ingrediente": "LEITE EM PO DESNATADO ZL (BATAVO PENSE ZERO)",
+   "itens": [
+    "sem nome de rótulo definido"
+   ]
+  },
+  {
+   "ingrediente": "MIX OFICIAL",
+   "itens": [
+    "sem nome de rótulo definido",
+    "feito na casa — ver composição na seção do Mix Oficial"
+   ]
+  }
+ ]
+}

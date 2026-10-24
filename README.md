@@ -35,3 +35,18 @@ O banco é a capacidade `db` do artifact: `claude.use("db")`, coleções lidas c
 - Meta de novembro: 1.000 potes/mês, cobrindo custo fixo de R$ 5.000 e pró-labore
 - Gramatura: 140 g por pote, exceto Sorbet Morango, que é 120 g
 - Três linhas, nunca uma quarta: Fresh, Special, Boost
+
+## Produção
+
+`producao/` é o pacote de transferência do Balanceador, gerado em 24/10/2026.
+Ele tem a sua própria documentação e é a **fonte de verdade de formulação**:
+
+- `producao/AGENTS-producao.md` — as regras do Gabriel em citação literal, as oito
+  armadilhas do motor, os números do sistema e o estado operacional. Leia antes de
+  tocar em qualquer receita, custo ou gramatura.
+- `producao/sistema/Balanceador de Receitas.html` — roda offline no navegador,
+  salva em localStorage. 449 testes em `testes-balanceador.js` contra `baseline.json`.
+- `producao/dados/backup_beco_gelato_2026-10-24.json` — backup v9, importável pela
+  aba Dados.
+- `producao/documentos/` — receituário, dossiê da nutricionista, CMV por produto,
+  compras e estoque.
