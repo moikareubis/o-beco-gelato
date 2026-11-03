@@ -22,7 +22,7 @@ Essas não são preferências. Quebrar qualquer uma delas já custou retrabalho.
 
 ## Padrão visual
 
-**Ferramentas internas** (Cérebro, Balanceador): fundo branco sempre, só Instrument Sans, sem caixa alta, sem espaçamento entre letras, sem sombra. Acento `#44661F`.
+**Ferramentas internas** (Complexo Beco, Balanceador): fundo branco sempre, só Instrument Sans, sem caixa alta, sem espaçamento entre letras, sem sombra. Acento `#44661F`.
 
 **Peças externas** (deck, proposta, material de cliente): verde profundo `#0E1A13`, areia `#F0EADC`, caramelo `#C79A6E`, oliva `#A8B375`, menta `#6FBF92`, marrom `#4A4333`, cinza `#7E7463`.
 

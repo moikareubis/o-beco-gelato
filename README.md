@@ -14,12 +14,12 @@ Editar aqui, commitar, publicar de lá. Nunca editar o HTML publicado direto: o 
 
 | Pasta | O que é | Publicado em |
 | --- | --- | --- |
-| `cerebro/` | O segundo cérebro — 9 abas: Painel, Mapa de Bairros, Venda Direta, Pipeline do Ponto, Agenda de Ativação, Tabela Comercial, Beco no Seu Balcão, Linha Editorial, Camada B2B | Artifact `3jL2vGzJmqVT1oTDsAGvQu` |
+| `complexo/` | O painel operacional — 9 abas: Painel, Mapa de Bairros, Venda Direta, Pipeline do Ponto, Agenda de Ativação, Tabela Comercial, Beco no Seu Balcão, Linha Editorial, Camada B2B | Artifact `3jL2vGzJmqVT1oTDsAGvQu` |
 | `deck/` | Apresentação para investidor — 9 slides, tipo Slides | Artifact `T1zFa5debGfVfoNHkmnBWH` |
 | `docs/` | Plano de Guerra do Estágio 1 e demais documentos de estratégia | Artifact `MpJqToQ31bn8fBJYgqSJ2w` |
 | `editorial/` | Briefing, temário e calendário de conteúdo | — |
 
-## O Cérebro
+## O Complexo Beco
 
 Página única, sem build e sem dependência externa. Dois detalhes que não são óbvios e que já quebraram a ferramenta uma vez:
 
