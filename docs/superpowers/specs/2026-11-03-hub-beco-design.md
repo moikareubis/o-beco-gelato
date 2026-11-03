@@ -50,7 +50,7 @@ Todo playbook de área segue o mesmo template, curto (o objetivo é ler pouco, n
 3. **Com quem ela cruza** — quando a resposta exige olhar outra área (ex.: `eventos.md` sempre cruza com `financeiro.md` e `produtos.md` antes de montar cenário).
 4. **O que ela nunca faz** — regras duras específicas da área.
 5. **Formato de saída** — situação → oportunidade e por quê → prioridade → próximos passos com prazo → o que falta saber → pendência.
-6. **Postura proativa** — a área não espera só ser alimentada. Quando você pedir orientação sem trazer nada pronto ("o que eu faço agora em marketing"), ela propõe estratégia, campanha ou movimento de crescimento por conta própria, usando a memória da marca e referência de mercado (ex. como Oakberry cresce sem ser franquia) — não só reage ao que chega.
+6. **Postura proativa** — a área não espera só ser alimentada. Quando você pedir orientação sem trazer nada pronto ("o que eu faço agora em marketing"), ela propõe estratégia, campanha ou movimento de crescimento por conta própria, usando a memória da marca e referência de mercado (benchmarks: Oakberry e Bacio di Latte — como crescem em rede forte sem ser franquia) — não só reage ao que chega.
 
 O cruzamento entre áreas (regra 3) é a única forma de orquestração: não existe um arquivo "orquestrador" central além do `INDEX.md`.
 
@@ -73,6 +73,12 @@ Toda decisão relevante registrada em `log/YYYY-MM-decisoes.md`: data, área, o 
 Conversa resolve para decidir, mas não para acompanhar ao longo do tempo — o que sai dela some no histórico do chat. Por isso toda decisão registrada no log também é escrita, pela mesma interação, no banco do próprio artifact Complexo Beco (coleção `hub_log`), não só no markdown do repo. O Complexo Beco ganha uma 11ª aba, **"Painel do HUB"**, que lê essa coleção e mostra: a timeline das últimas decisões/análises por área (data, área, decisão, resultado quando já houver) e um resumo de meta/progresso reaproveitando os números que a aba "Novembro" já calcula — sem duplicar estado.
 
 O markdown (`hub/log/*.md`) continua existindo e sendo a cópia barata que Claude relê em conversa; o banco do artifact é o espelho que você vê no navegador/celular sem precisar me perguntar. Toda escrita de decisão grava nos dois.
+
+## Instagram e benchmark de público
+
+`marketing.md` e `trafego.md` ganham uma dependência nova, diferente das outras: não é um arquivo de `memoria/`, é uma conexão viva via plugin Bright Data (skill `brand-listening`). Quando a pergunta envolve postagens, público ou comparação com referência de mercado (Oakberry, Bacio di Latte), a área consulta o Instagram na hora — não existe um snapshot salvo em `memoria/` que fica velho. Achado que valha registrar (um padrão de público, uma lacuna de conteúdo frente à referência) entra no loop normal de decisão (`log/`), do mesmo jeito que qualquer outra decisão — não ganha estrutura própria.
+
+Isso exige o plugin Bright Data habilitado e com chave de API própria (serviço pago, fora do que já está configurado); sem ele, a área cai de volta no modo manual — você cola print/dado na conversa.
 
 ## Acesso remoto (fora desta sessão de código)
 
