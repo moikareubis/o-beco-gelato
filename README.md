@@ -18,6 +18,7 @@ Editar aqui, commitar, publicar de lá. Nunca editar o HTML publicado direto: o 
 | `deck/` | Apresentação para investidor — 9 slides, tipo Slides | Artifact `T1zFa5debGfVfoNHkmnBWH` |
 | `docs/` | Plano de Guerra do Estágio 1 e demais documentos de estratégia | Artifact `MpJqToQ31bn8fBJYgqSJ2w` |
 | `editorial/` | Briefing, temário e calendário de conteúdo | — |
+| `hub/` | A camada de análise por área (HUB Beco) — memória central e playbooks | — (não é publicado; é lido em conversa) |
 
 ## O Complexo Beco
 
@@ -27,6 +28,10 @@ Página única, sem build e sem dependência externa. Dois detalhes que não sã
 2. **Conteúdo gerado mora na fonte (`SEEDCLI`, `SEEDEV`); o banco guarda só o que o usuário editou**, com sobrescrita por campo e marcação de removido (`{removido:true}`). Republicar nunca pode apagar edição de usuário.
 
 O banco é a capacidade `db` do artifact: `claude.use("db")`, coleções lidas com `db.collection(path).get()`.
+
+## O HUB Beco
+
+O Complexo Beco registra e calcula; não analisa nem recomenda. O HUB Beco é a camada de análise por área (marketing, tráfego, eventos, comercial B2B, expansão, loja, portfólio, financeiro) que você alimenta em conversa — ele lê a memória central em `hub/memoria/`, os playbooks em `hub/areas/`, e os números do dia do Complexo Beco, sem duplicar nenhum dos dois. Desenho completo em [`docs/superpowers/specs/2026-11-03-hub-beco-design.md`](docs/superpowers/specs/2026-11-03-hub-beco-design.md).
 
 ## Estado em 24/10/2026
 
