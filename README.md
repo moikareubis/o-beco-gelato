@@ -14,7 +14,7 @@ Editar aqui, commitar, publicar de lá. Nunca editar o HTML publicado direto: o 
 
 | Pasta | O que é | Publicado em |
 | --- | --- | --- |
-| `complexo/` | O painel operacional — 9 abas: Painel, Mapa de Bairros, Venda Direta, Pipeline do Ponto, Agenda de Ativação, Tabela Comercial, Beco no Seu Balcão, Linha Editorial, Camada B2B | Artifact `3jL2vGzJmqVT1oTDsAGvQu` |
+| `complexo/` | O painel operacional — 11 abas: Novembro, Pendências, Mapa de Bairros, Tabela Comercial, Linha Editorial, Camada B2B, Agenda de Ativação, Centro de Custo, Preço e Rotas, Estoque e Insumos, Painel do HUB | Artifact `3jL2vGzJmqVT1oTDsAGvQu` |
 | `deck/` | Apresentação para investidor — 9 slides, tipo Slides | Artifact `T1zFa5debGfVfoNHkmnBWH` |
 | `docs/` | Plano de Guerra do Estágio 1 e demais documentos de estratégia | Artifact `MpJqToQ31bn8fBJYgqSJ2w` |
 | `editorial/` | Briefing, temário e calendário de conteúdo | — |
@@ -27,7 +27,7 @@ Página única, sem build e sem dependência externa. Dois detalhes que não sã
 1. **Nada de `eval()` nem `new Function()`.** A política de segurança onde o artifact roda bloqueia os dois. Qualquer coisa que monte código em texto e execute falha em silêncio.
 2. **Conteúdo gerado mora na fonte (`SEEDCLI`, `SEEDEV`); o banco guarda só o que o usuário editou**, com sobrescrita por campo e marcação de removido (`{removido:true}`). Republicar nunca pode apagar edição de usuário.
 
-O banco é a capacidade `db` do artifact: `claude.use("db")`, coleções lidas com `db.collection(path).get()`.
+O banco é a capacidade `db` do artifact: `claude.use("db")`, coleções lidas com `db.collection(path).get()`. A coleção `hub_log` é escrita pelo HUB (ver seção abaixo), não pelo Complexo Beco; a aba Painel do HUB só lê.
 
 ## O HUB Beco
 

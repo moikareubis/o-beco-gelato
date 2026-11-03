@@ -1,11 +1,11 @@
 # Decisões — memória central
 
-Regras duras e benchmarks de referência. São o "o que nunca faz" e o "com quem comparar" de toda área.
+Fatos decididos e estáveis — regras duras e benchmarks de referência, não números do dia. São o "o que nunca faz" e o "com quem comparar" de toda área.
 
 ## Regras duras
 
 1. **Bancada ganha de tabela.** Nunca mudar formulação que o Gabriel validou na bancada por argumento de custo. Nota de compra não é decisão de fórmula.
-2. **Quem decide a arquitetura de cada sabor é o Gabriel.** O papel do HUB é balancear, custear e validar dentro disso.
+2. **Quem decide a arquitetura de cada sabor é o Gabriel.** Balancear, custear e validar a fórmula é trabalho do Balanceador, não do HUB — o HUB nunca propõe receita nem reabre decisão de bancada.
 3. **Ficha técnica de amostra: só cadastrar e explicar.** Nunca propor receita nem onde usar.
 4. **As únicas restrições reais da linha são zero açúcar adicionado e zero lactose** — e zero lactose não vale para a linha Boost, cuja base proteica contém lactose.
 5. **Glúten, óleo de palma, palmiste, gordura vegetal, corante e aromatizante não são restrições do Gabriel.** Não inventar essas.

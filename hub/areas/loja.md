@@ -6,7 +6,7 @@ Pergunta de execução no ponto de venda: apresentação, abordagem da equipe, a
 
 ## Depende de
 
-`memoria/produtos.md`
+`memoria/produtos.md`, `memoria/decisoes.md` (regra do becalendario — quais sabores nunca entram em promoção)
 
 ## Cruza com
 

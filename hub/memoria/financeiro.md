@@ -20,4 +20,4 @@ Fatos decididos e estáveis — número de caixa do dia mora no Complexo Beco, n
 
 ## Regra dura de margem
 
-- Margem mínima do revendedor (ponto parceiro): 32% sobre o preço de compra.
+- Margem mínima do revendedor (ponto parceiro): 32%.

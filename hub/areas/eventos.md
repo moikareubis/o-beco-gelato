@@ -6,7 +6,7 @@ Convites e propostas de evento/ativação (feira, pop-up, parceria de exposiçã
 
 ## Depende de
 
-`memoria/produtos.md`, `memoria/financeiro.md`
+`memoria/produtos.md`, `memoria/financeiro.md`, `memoria/decisoes.md` (regra do becalendario e a regra de afirmação nutricional — nenhum número de ficha aberta vai pro evento)
 
 ## Cruza com
 

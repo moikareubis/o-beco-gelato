@@ -23,3 +23,15 @@ Leia só este arquivo sempre. A partir dele: abra só a(s) área(s) relevante(s)
 ## log/
 
 - `log/YYYY-MM-decisoes.md` — append-only. Só ler quando a pergunta for sobre precedente.
+
+## Registro — depois de toda análise com recomendação ou decisão
+
+Não é opcional e não precisa de pergunta separada: toda vez que uma área (ver acima) devolver uma recomendação, prioridade ou decisão — não uma análise solta — registre nos dois lugares, com os mesmos dados:
+
+1. **Acrescente** uma entrada em `log/YYYY-MM-decisoes.md` (nunca reescreva uma existente).
+2. **Grave** na coleção `hub_log` do artifact Complexo Beco (`ArtifactData`, `action: "set"`, `doc_id` no formato `YYYY-MM-DD-<area>-<slug-curto>`), com os campos:
+   - `data` (string `YYYY-MM-DD`), `area`, `decisao` (título curto) — sempre.
+   - `situacao`, `oportunidade`, `prioridade`, `proximos_passos` (lista de `{passo, prazo}`), `o_que_falta` (lista de texto), `pendencia` (texto) — quando a resposta tiver essas partes (formato de saída de cada área).
+   - `resultado` — **string vazia `""` enquanto não houver resultado**, nunca `"—"` nem omitido. Preencher quando Gabriel contar o que aconteceu.
+
+Se a conversa não tiver como gravar no banco (ex.: Project no claude.ai, sem ferramenta de arquivo/banco), devolva a entrada pronta, no mesmo formato, para Gabriel copiar — e avise que ela só entra de verdade quando alguém colar numa sessão com acesso ao repo e ao artifact.
