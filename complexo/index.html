@@ -44,7 +44,7 @@ body{background:var(--bg);color:var(--ink);font-family:"Instrument Sans",system-
 </style>
 
 <div id="shell">
-  <nav id="nav" aria-label="Ferramentas do cérebro"></nav>
+  <nav id="nav" aria-label="Ferramentas do Complexo Beco"></nav>
   <main id="host"></main>
 </div>
 
@@ -2340,13 +2340,26 @@ body{background:var(--bg);color:var(--ink);font-family:"Instrument Sans",system-
   });
 })();
 }},
-  painel_hub: {css: ":root{\n  color-scheme:light;\n  --bg:#FCFCFB; --card:#FFFFFF; --sunken:#F4F5F0;\n  --ink:#1A1C19; --muted:#565B52; --subtle:#6B7065;\n  --line:#E8EAE3; --line-strong:#D6D9CE;\n  --accent:#44661F; --accent-soft:#EFF3E6;\n  --warm:#8A5206; --warm-soft:#FBF1E1;\n}\n*{box-sizing:border-box}\nbody{font-variant-numeric:tabular-nums;background:var(--bg);color:var(--ink);\n  font-family:\"Instrument Sans\",system-ui,-apple-system,sans-serif;font-size:15px;line-height:1.55;\n  -webkit-font-smoothing:antialiased}\n.wrap{max-width:980px;margin:0 auto;padding-inline:18px;padding-block:0 80px}\nheader.top{position:sticky;top:0;z-index:20;background:var(--bg);border-bottom:1px solid var(--line);\n  margin-inline:-18px;padding:14px 18px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}\nh1{font-size:18px;font-weight:600;margin:0;letter-spacing:-.02em}\n.save{font-size:12.5px;color:var(--subtle);margin-left:auto}\n.save[data-s=\"saving\"]{color:var(--warm)} .save[data-s=\"saved\"]{color:var(--accent)} .save[data-s=\"off\"]{color:var(--warm)}\n.sec{font-size:13.5px;font-weight:600;margin:30px 0 10px;letter-spacing:-.01em}\n.sec small{font-weight:400;color:var(--subtle);margin-left:7px;font-size:13px}\n.lead{font-size:14.5px;color:var(--muted);max-width:78ch;margin:0 0 6px}\n\n.mbig{background:var(--card);border:1px solid var(--line-strong);border-radius:12px;padding:18px 20px}\n.mnum b{font-size:40px;font-weight:600;letter-spacing:-.03em;line-height:1}\n.mnum span{font-size:15px;color:var(--subtle)}\n.bar{height:8px;border-radius:999px;background:var(--sunken);margin-top:14px;overflow:hidden}\n.bar i{display:block;height:100%;background:var(--warm);border-radius:999px}\n.bar i.ok{background:var(--accent)}\n.msub{font-size:13px;color:var(--subtle);margin-top:8px}\n\n.item{background:var(--card);border:1px solid var(--line-strong);border-radius:12px;padding:13px 15px;margin-bottom:8px}\n.item .meta{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}\n.item .area{font-size:11.5px;color:var(--accent);background:var(--accent-soft);border-radius:999px;padding:2px 9px;font-weight:500}\n.item .data{font-size:12.5px;color:var(--subtle)}\n.item .decisao{font-weight:600;font-size:14.5px;margin-top:6px}\n.item .premissa{font-size:13.5px;color:var(--muted);margin-top:3px}\n.item .resultado{font-size:13.5px;margin-top:6px;padding-top:6px;border-top:1px solid var(--line)}\n.item .resultado.aberto{color:var(--subtle)}\n.vazio{color:var(--subtle);font-size:14.5px;padding:18px 0}\n", html: "<div class=\"wrap\"><header class=\"top\"><h1>Painel do HUB<\/h1><span class=\"save\" id=\"hubsave\" data-s=\"\">carregando…<\/span><\/header><p class=\"lead\">O que as áreas do HUB decidiram e analisaram, fora da conversa — para você acompanhar sem reabrir o chat.<\/p><div class=\"sec\">Meta de novembro<small>mesmos números da aba Novembro<\/small><\/div><div id=\"hub-meta\"><\/div><div class=\"sec\">Decisões e análises<small>mais recente primeiro<\/small><\/div><div id=\"hub-log\"><\/div><\/div>", init: function(){
+  painel_hub: {css: ":root{\n  color-scheme:light;\n  --bg:#FCFCFB; --card:#FFFFFF; --sunken:#F4F5F0;\n  --ink:#1A1C19; --muted:#565B52; --subtle:#6B7065;\n  --line:#E8EAE3; --line-strong:#D6D9CE;\n  --accent:#44661F; --accent-soft:#EFF3E6;\n  --warm:#8A5206; --warm-soft:#FBF1E1;\n}\n*{box-sizing:border-box}\nbody{font-variant-numeric:tabular-nums;background:var(--bg);color:var(--ink);\n  font-family:\"Instrument Sans\",system-ui,-apple-system,sans-serif;font-size:15px;line-height:1.55;\n  -webkit-font-smoothing:antialiased}\n.wrap{max-width:980px;margin:0 auto;padding-inline:18px;padding-block:0 80px}\nheader.top{position:sticky;top:0;z-index:20;background:var(--bg);border-bottom:1px solid var(--line);\n  margin-inline:-18px;padding:14px 18px;display:flex;align-items:center;gap:12px;flex-wrap:wrap}\nh1{font-size:18px;font-weight:600;margin:0;letter-spacing:-.02em}\n.save{font-size:12.5px;color:var(--subtle);margin-left:auto}\n.save[data-s=\"saving\"]{color:var(--warm)} .save[data-s=\"saved\"]{color:var(--accent)} .save[data-s=\"off\"]{color:var(--warm)}\n.sec{font-size:13.5px;font-weight:600;margin:30px 0 10px;letter-spacing:-.01em}\n.sec small{font-weight:400;color:var(--subtle);margin-left:7px;font-size:13px}\n.lead{font-size:14.5px;color:var(--muted);max-width:78ch;margin:0 0 6px}\n\n.mbig{background:var(--card);border:1px solid var(--line-strong);border-radius:12px;padding:18px 20px}\n.mnum b{font-size:40px;font-weight:600;letter-spacing:-.03em;line-height:1}\n.mnum span{font-size:15px;color:var(--subtle)}\n.bar{height:8px;border-radius:999px;background:var(--sunken);margin-top:14px;overflow:hidden}\n.bar i{display:block;height:100%;background:var(--warm);border-radius:999px}\n.bar i.ok{background:var(--accent)}\n.msub{font-size:13px;color:var(--subtle);margin-top:8px}\n\n.item{background:var(--card);border:1px solid var(--line-strong);border-radius:12px;padding:13px 15px;margin-bottom:8px}\n.item .meta{display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}\n.item .area{font-size:11.5px;color:var(--accent);background:var(--accent-soft);border-radius:999px;padding:2px 9px;font-weight:500}\n.item .data{font-size:12.5px;color:var(--subtle)}\n.item .decisao{font-weight:600;font-size:14.5px;margin-top:6px}\n.item .premissa{font-size:13.5px;color:var(--muted);margin-top:3px}\n.item .resultado{font-size:13.5px;margin-top:6px;padding-top:6px;border-top:1px solid var(--line)}\n.item .resultado.aberto{color:var(--subtle)}\n.vazio{color:var(--subtle);font-size:14.5px;padding:18px 0}\n\n.foco{background:var(--accent-soft);border:1px solid var(--accent);border-radius:12px;padding:17px 19px}\n.foco .tag{font-size:11.5px;color:var(--accent);font-weight:500}\n.foco .tit{font-weight:600;font-size:16.5px;margin-top:5px;letter-spacing:-.01em}\n.foco .bloco{margin-top:13px}\n.foco .bloco b{display:block;font-size:12px;color:var(--muted);font-weight:500;margin-bottom:3px}\n.foco .bloco p{margin:0;font-size:14px;color:var(--ink);max-width:76ch}\n.foco ul{margin:4px 0 0;padding-left:18px}\n.foco li{font-size:14px;margin-bottom:3px;color:var(--ink)}\n\n.areas-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:10px}\n.area-card{background:var(--card);border:1px solid var(--line-strong);border-radius:12px;padding:13px 15px}\n.area-card .an{font-weight:600;font-size:14.5px}\n.area-card .ad{font-size:13px;color:var(--muted);margin-top:3px;line-height:1.4}\n.area-card .as{display:flex;gap:7px;margin-top:11px;font-size:12px;flex-wrap:wrap}\n.area-card .tag{border-radius:999px;padding:2px 9px;background:var(--sunken);color:var(--subtle)}\n.area-card .tag.aberta{background:var(--warm-soft);color:var(--warm)}\n\n.pend-item{display:flex;gap:11px;align-items:baseline;padding:10px 0;border-bottom:1px solid var(--line)}\n.pend-item:last-child{border-bottom:0}\n.pend-item .area{font-size:11.5px;color:var(--accent);background:var(--accent-soft);border-radius:999px;padding:2px 9px;font-weight:500;flex:none}\n.pend-item .texto{font-size:14px;color:var(--ink)}\n", html: "<div class=\"wrap\"><header class=\"top\"><h1>Painel do HUB<\/h1><span class=\"save\" id=\"hubsave\" data-s=\"\">carregando…<\/span><\/header><p class=\"lead\">O espaço pra ver a empresa de uma vez: o que está em cima da mesa, as 8 áreas, o que falta decidir e o histórico de análises.<\/p><div class=\"sec\">Em cima da mesa agora<\/div><div id=\"hub-foco\"><\/div><div class=\"sec\">Meta de novembro<small>mesmos números da aba Novembro<\/small><\/div><div id=\"hub-meta\"><\/div><div class=\"sec\">As 8 áreas<\/div><div id=\"hub-areas\"><\/div><div class=\"sec\">Pendências abertas<small>aguardando sua decisão<\/small><\/div><div id=\"hub-pend\"><\/div><div class=\"sec\">Histórico<small>mais recente primeiro<\/small><\/div><div id=\"hub-log\"><\/div><\/div>", init: function(){
 (function(){
   "use strict";
   var META=1000;
+  var ROTAS_IDS=["parceiro","mae","ifood","direto"];
+  var AREAS_HUB=[
+    ["marketing","Marca & Conteúdo","Instagram, linha editorial, referências, campanhas"],
+    ["trafego","Tráfego & Performance","Investimento em anúncio, testes, ajuste"],
+    ["eventos","Eventos & Ativações","Convites, custo, ponto de equilíbrio, formato"],
+    ["comercial-b2b","Comercial & Parcerias B2B","Propostas, negociação, condição comercial"],
+    ["expansao","Expansão de Pontos","Onde abrir ponto novo, critério, prioridade de bairro/canal"],
+    ["loja","Operação de Loja/Ponto","Padrão de atendimento, apresentação, ação no balcão"],
+    ["portfolio","Portfólio & Preço","Que sabor/linha continua, lança ou sai; reposicionamento de preço"],
+    ["financeiro-unit","Financeiro & Unit Economics","Margem por canal/ponto, não só “quanto saiu do caixa”"]
+  ];
+
   function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e;}
   function setSave(s,x){var e=document.getElementById("hubsave");if(e){e.dataset.s=s;e.textContent=x;}}
   function dataCurta(iso){if(!iso)return "";var p=String(iso).slice(0,10).split("-");return p.length===3?(p[2]+"/"+p[1]):String(iso);}
+  function aberto(it){return !it.resultado;}
 
   function renderMeta(totalPotes){
     var box=document.getElementById("hub-meta"); if(!box) return; box.innerHTML="";
@@ -2360,6 +2373,85 @@ body{background:var(--bg);color:var(--ink);font-family:"Instrument Sans",system-
     barra.appendChild(ins); topo.appendChild(barra);
     topo.appendChild(el("div","msub", pct+"% da meta de novembro — mesmo número da aba Novembro"));
     box.appendChild(topo);
+  }
+
+  function renderFoco(itens){
+    var box=document.getElementById("hub-foco"); if(!box) return; box.innerHTML="";
+    var abertos=itens.filter(aberto).slice().sort(function(a,b){return String(b.data||"").localeCompare(String(a.data||""));});
+    if(!abertos.length){
+      var vz=el("div","item");
+      vz.appendChild(el("div","vazio","Nada em aberto agora. Quando uma área analisar algo e precisar da sua decisão, aparece aqui."));
+      box.appendChild(vz);
+      return;
+    }
+    var it=abertos[0];
+    var card=el("div","foco");
+    card.appendChild(el("div","tag",(it.area||"—")+" · "+dataCurta(it.data)));
+    card.appendChild(el("div","tit",it.decisao||""));
+    function bloco(label,txt){
+      if(!txt) return;
+      var b=el("div","bloco");
+      b.appendChild(el("b",null,label));
+      b.appendChild(el("p",null,txt));
+      card.appendChild(b);
+    }
+    bloco("Situação",it.situacao);
+    bloco("Oportunidade",it.oportunidade);
+    bloco("Prioridade",it.prioridade);
+    if(it.proximos_passos && it.proximos_passos.length){
+      var bp=el("div","bloco"); bp.appendChild(el("b",null,"Próximos passos"));
+      var ul=el("ul");
+      it.proximos_passos.forEach(function(p){
+        ul.appendChild(el("li",null, (p.passo||"")+(p.prazo?" — "+p.prazo:"")));
+      });
+      bp.appendChild(ul); card.appendChild(bp);
+    }
+    if(it.o_que_falta && it.o_que_falta.length){
+      var bf=el("div","bloco"); bf.appendChild(el("b",null,"O que falta saber"));
+      var ul2=el("ul");
+      it.o_que_falta.forEach(function(x){ul2.appendChild(el("li",null,x));});
+      bf.appendChild(ul2); card.appendChild(bf);
+    }
+    bloco("Pendência",it.pendencia);
+    box.appendChild(card);
+    if(abertos.length>1){
+      var resto=abertos.length-1;
+      box.appendChild(el("p","msub", resto+(resto>1?" outras pendências abertas":" outra pendência aberta")+" na lista abaixo."));
+    }
+  }
+
+  function renderAreas(itens){
+    var box=document.getElementById("hub-areas"); if(!box) return; box.innerHTML="";
+    var grid=el("div","areas-grid");
+    AREAS_HUB.forEach(function(a){
+      var destes=itens.filter(function(it){return it.area===a[0];});
+      var ab=destes.filter(aberto).length;
+      var card=el("div","area-card");
+      card.appendChild(el("div","an",a[1]));
+      card.appendChild(el("div","ad",a[2]));
+      var st=el("div","as");
+      st.appendChild(el("span","tag", destes.length?(destes.length+" análise"+(destes.length>1?"s":"")):"sem análise ainda"));
+      if(ab) st.appendChild(el("span","tag aberta", ab+" aberta"+(ab>1?"s":"")));
+      card.appendChild(st);
+      grid.appendChild(card);
+    });
+    box.appendChild(grid);
+  }
+
+  function renderPend(itens){
+    var box=document.getElementById("hub-pend"); if(!box) return; box.innerHTML="";
+    var abertos=itens.filter(function(it){return aberto(it) && it.pendencia;})
+      .slice().sort(function(a,b){return String(b.data||"").localeCompare(String(a.data||""));});
+    if(!abertos.length){
+      box.appendChild(el("div","vazio","Nenhuma pendência aberta."));
+      return;
+    }
+    abertos.forEach(function(it){
+      var row=el("div","pend-item");
+      row.appendChild(el("span","area",it.area||"—"));
+      row.appendChild(el("span","texto",it.pendencia));
+      box.appendChild(row);
+    });
   }
 
   function renderLog(itens){
@@ -2383,24 +2475,31 @@ body{background:var(--bg);color:var(--ink);font-family:"Instrument Sans",system-
       });
   }
 
-  renderMeta(0); renderLog([]);
+  function renderTudo(itens, totalPotes){
+    renderFoco(itens);
+    renderMeta(totalPotes);
+    renderAreas(itens);
+    renderPend(itens);
+    renderLog(itens);
+  }
+
+  renderTudo([], 0);
 
   (window.claude&&window.claude.use?window.claude.use("db"):Promise.resolve(null))
     .then(function(d){
       if(!d){setSave("off","sem conexão com o banco");return null;}
+      var tp=0;
       return d.doc("novembro/estado").get().then(function(doc){
-        var tp=0;
         if(doc&&doc.exists){
           var v=doc.data()||{}; var potes=v.potes||{};
-          for(var k in potes) tp+=Number(potes[k])||0;
+          ROTAS_IDS.forEach(function(k){tp+=Number(potes[k])||0;});
         }
-        renderMeta(tp);
         return d.collection("hub_log").get();
       }).then(function(snap){
         var itens=((snap&&snap.docs)||[]).filter(function(doc){return doc.exists;}).map(function(doc){
           return doc.data()||{};
         });
-        renderLog(itens);
+        renderTudo(itens, tp);
         setSave("saved","pronto");
       });
     })
