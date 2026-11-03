@@ -12,7 +12,7 @@ Hoje cada decisão (evento, campanha, negociação) é pensada do zero, sem mem�
 
 ## Relação com o que já existe
 
-- **Complexo Beco** (artifact `3jL2vGzJmqVT1oTDsAGvQu`, fonte em `complexo/` — pasta renomeada de `cerebro/` para abrir espaço para o HUB) continua sendo o registro operacional do dia a dia: estoque, financeiro, metas do mês, pendências táticas. O HUB **lê** esses dados quando precisa de número atual; não os duplica.
+- **Complexo Beco** (artifact `3jL2vGzJmqVT1oTDsAGvQu`, fonte em `complexo/` — pasta renomeada de `cerebro/` para abrir espaço para o HUB) continua sendo o registro operacional do dia a dia: estoque, financeiro, metas do mês, pendências táticas. O HUB **lê** esses dados quando precisa de número atual; não os duplica. O HUB também **escreve** nele: toda decisão registrada no log entra na coleção `hub_log` do artifact, para alimentar a aba "Painel do HUB" (ver seção própria abaixo).
 - **Balanceador** continua sendo a única fonte de fórmula/formulação. O HUB nunca propõe receita nem reabre decisão de bancada — regra dura herdada do `AGENTS.md` atual.
 - **AGENTS.md / README.md** do repo precisam de uma atualização: o nome `cerebro/` passa a ser do HUB; o que hoje é chamado de "segundo cérebro" no README (o dashboard) passa a ser chamado apenas de "Complexo Beco".
 
@@ -66,6 +66,12 @@ Isso é o que mantém o custo de token baixo: o padrão é ler 3–4 arquivos pe
 ## Loop de decisão → execução → resultado
 
 Toda decisão relevante registrada em `log/YYYY-MM-decisoes.md`: data, área, o que foi decidido, premissa usada, resultado (vazio até você contar o que aconteceu). Quando uma área responde a uma pergunta parecida com uma já registrada, ela pode citar o precedente — só quando for pertinente.
+
+## Visibilidade: Painel do HUB
+
+Conversa resolve para decidir, mas não para acompanhar ao longo do tempo — o que sai dela some no histórico do chat. Por isso toda decisão registrada no log também é escrita, pela mesma interação, no banco do próprio artifact Complexo Beco (coleção `hub_log`), não só no markdown do repo. O Complexo Beco ganha uma 11ª aba, **"Painel do HUB"**, que lê essa coleção e mostra: a timeline das últimas decisões/análises por área (data, área, decisão, resultado quando já houver) e um resumo de meta/progresso reaproveitando os números que a aba "Novembro" já calcula — sem duplicar estado.
+
+O markdown (`hub/log/*.md`) continua existindo e sendo a cópia barata que Claude relê em conversa; o banco do artifact é o espelho que você vê no navegador/celular sem precisar me perguntar. Toda escrita de decisão grava nos dois.
 
 ## Fora do escopo desta fase
 
