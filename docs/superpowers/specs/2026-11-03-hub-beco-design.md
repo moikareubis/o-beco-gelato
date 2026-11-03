@@ -50,6 +50,7 @@ Todo playbook de área segue o mesmo template, curto (o objetivo é ler pouco, n
 3. **Com quem ela cruza** — quando a resposta exige olhar outra área (ex.: `eventos.md` sempre cruza com `financeiro.md` e `produtos.md` antes de montar cenário).
 4. **O que ela nunca faz** — regras duras específicas da área.
 5. **Formato de saída** — situação → oportunidade e por quê → prioridade → próximos passos com prazo → o que falta saber → pendência.
+6. **Postura proativa** — a área não espera só ser alimentada. Quando você pedir orientação sem trazer nada pronto ("o que eu faço agora em marketing"), ela propõe estratégia, campanha ou movimento de crescimento por conta própria, usando a memória da marca e referência de mercado (ex. como Oakberry cresce sem ser franquia) — não só reage ao que chega.
 
 O cruzamento entre áreas (regra 3) é a única forma de orquestração: não existe um arquivo "orquestrador" central além do `INDEX.md`.
 
@@ -72,6 +73,12 @@ Toda decisão relevante registrada em `log/YYYY-MM-decisoes.md`: data, área, o 
 Conversa resolve para decidir, mas não para acompanhar ao longo do tempo — o que sai dela some no histórico do chat. Por isso toda decisão registrada no log também é escrita, pela mesma interação, no banco do próprio artifact Complexo Beco (coleção `hub_log`), não só no markdown do repo. O Complexo Beco ganha uma 11ª aba, **"Painel do HUB"**, que lê essa coleção e mostra: a timeline das últimas decisões/análises por área (data, área, decisão, resultado quando já houver) e um resumo de meta/progresso reaproveitando os números que a aba "Novembro" já calcula — sem duplicar estado.
 
 O markdown (`hub/log/*.md`) continua existindo e sendo a cópia barata que Claude relê em conversa; o banco do artifact é o espelho que você vê no navegador/celular sem precisar me perguntar. Toda escrita de decisão grava nos dois.
+
+## Acesso remoto (fora desta sessão de código)
+
+O markdown de `hub/` mora no repo git, que esta sessão de código lê — mas você acessa Claude no dia a dia pelo app/site do claude.ai, não por aqui. Para isso funcionar remotamente: os arquivos de `hub/` (menos `log/`, que cresce e não precisa estar sempre carregado) entram como conhecimento de um **Project no claude.ai** dedicado ao Beco Gelato. Você abre esse Project de qualquer celular/computador e conversa com as áreas normalmente; a "Postura proativa" (seção acima) funciona igual, porque está escrita nos próprios arquivos do playbook, não em algo específico desta sessão.
+
+Isso cria uma responsabilidade nova: toda vez que `hub/memoria/*.md` ou `hub/areas/*.md` mudar no repo (aqui ou numa sessão futura), o conhecimento do Project precisa ser atualizado também — os dois podem divergir se um for editado sem o outro. A aba "Painel do HUB" (seção anterior) não depende disso: ela lê direto do banco do artifact, então funciona do celular com ou sem o Project estar atualizado.
 
 ## Fora do escopo desta fase
 
