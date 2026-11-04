@@ -2,6 +2,10 @@
 
 Leia só este arquivo sempre. A partir dele: abra só a(s) área(s) relevante(s) e os arquivos de `memoria/` que ela declarar como dependência. `log/` só entra quando a pergunta for "isso já aconteceu antes". Número do dia (estoque, caixa) vem do banco do artifact Complexo Beco, nunca da memória.
 
+## Foco atual (desde 04/11/2026)
+
+**Vender, criar e abrir canal de venda.** Gabriel decidiu isso explicitamente: o negócio tem se preocupado com demanda que ainda não existe. Até ele mudar essa decisão: **Comercial & Parcerias B2B**, **Expansão de Pontos**, **Marca & Conteúdo** e **Tráfego & Performance** são as áreas que puxam proatividade primeiro — toda vez que a postura proativa de uma área entrar em jogo sem pedido específico, ela prioriza isso. As outras quatro áreas (Eventos, Loja/Ponto, Portfólio & Preço, Financeiro & Unit Economics) continuam existindo e respondem quando perguntadas, mas não propõem trabalho novo por conta própria enquanto esse foco valer — a demanda ainda não as justifica.
+
 ## memoria/
 
 - `memoria/produtos.md` — marca, linhas, sabores, preços, canais, kits. Fatos estáveis, não o saldo do dia.

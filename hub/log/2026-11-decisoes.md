@@ -77,3 +77,26 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **Decisão:** Gabriel confirma 15g de proteína como número fechado — bio reescrita e entregue pronta pra colar
 - **Premissa:** confirmado em conversa, respondendo à análise registrada mais cedo hoje (ver entrada anterior).
 - **Resultado:** (ainda sem resultado — aguardando Gabriel colar no Instagram e, depois, o efeito no perfil)
+
+---
+
+- **Data:** 2026-11-04
+- **Área:** hub
+- **Decisão:** Foco atual definido — vender, criar canal e vender; comercial e marketing vêm primeiro
+- **Situação:** Gabriel identificou que parte da energia estava indo pra demanda que ainda não existe (ex.: unit economics detalhado, operação de loja). O que falta hoje é canal de venda, não controle fino.
+- **Prioridade:** Comercial & Parcerias B2B, Expansão de Pontos, Marca & Conteúdo e Tráfego & Performance puxam proatividade primeiro. As outras 4 áreas respondem quando perguntadas, não propõem sozinhas por enquanto.
+- **Premissa:** decisão de Gabriel em conversa, registrada em `hub/INDEX.md` (seção Foco atual) para valer em toda sessão futura, não só nesta.
+- **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-04
+- **Área:** expansao
+- **Decisão:** Segundo ponto de venda este mês — primeiro freezer chegou e já tem destino
+- **Situação:** O primeiro freezer chegou e já tem destino definido. Novembro fecha com 2 pontos de venda físicos, não só 1.
+- **Oportunidade e por quê:** É o primeiro gancho de conteúdo real de expansão do mês — a Camada B2B já tem a pauta pronta pra isso ("Chegou freezer em [bairro]").
+- **Próximos passos:** (1, hoje) confirmar bairro/cliente do novo ponto pra cruzar com o Mapa de Bairros e sugerir o conteúdo certo. (2, esta semana) reservar o freezer no Mapa de Bairros assim que souber o bairro.
+- **O que falta saber:** qual bairro/cliente é o destino do freezer.
+- **Pendência:** aguardando Gabriel confirmar o bairro do segundo ponto.
+- **Premissa:** relatado por Gabriel em conversa, 04/11/2026.
+- **Resultado:** (ainda sem resultado)
