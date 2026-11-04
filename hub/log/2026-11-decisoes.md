@@ -69,3 +69,11 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **Pendência:** aguardando Gabriel aprovar a reescrita da bio.
 - **Premissa:** dado real, puxado via Bright Data em 04/11/2026: perfis @obecogelato, @oakberry e @baciodilatte.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-04
+- **Área:** marketing
+- **Decisão:** Gabriel confirma 15g de proteína como número fechado — bio reescrita e entregue pronta pra colar
+- **Premissa:** confirmado em conversa, respondendo à análise registrada mais cedo hoje (ver entrada anterior).
+- **Resultado:** (ainda sem resultado — aguardando Gabriel colar no Instagram e, depois, o efeito no perfil)
