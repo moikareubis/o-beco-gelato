@@ -30,3 +30,29 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **Decisão:** Gabriel confirma — aceitar Siqueira Bem · Summer Edition, recusar Elas Move · Baixio
 - **Premissa:** confirmado em conversa, respondendo à recomendação registrada mais cedo hoje (ver entrada anterior). Próximos passos e o que falta saber continuam os mesmos.
 - **Resultado:** (ainda sem resultado — evento é em 28/11)
+
+---
+
+- **Data:** 2026-11-03
+- **Área:** marketing
+- **Decisão:** Estratégia proativa — usar o Siqueira Bem como prova social antes do evento, sem gastar em produção nova
+- **Situação:** Novembro: a tarefa única do conteúdo é converter quem já conhece o Beco em comprador direto. Hoje não há pauta publicada usando o evento confirmado de 28/11.
+- **Oportunidade e por quê:** Oakberry e Bacio di Latte constroem desejo mostrando a rede crescendo — prova social de presença, não só produto. O Beco já tem um gancho pronto e grátis: a presença confirmada no Siqueira Bem.
+- **Próximos passos:** (1, esta semana) postar sobre a participação no Siqueira Bem, sem citar número de proteína — ficha do Boost ainda não fechou. (2, toda semana) reforçar a promo de segunda a quinta nos Stories. (3, esta semana) pedir pros pontos parceiros liberarem divulgar onde encontrar o Beco.
+- **O que falta saber:** confirmar com a Amanda se pode postar sobre o evento antes da data combinada.
+- **Pendência:** aguardando Gabriel aprovar a pauta do Siqueira Bem antes de ir ao ar.
+- **Premissa:** gerada proativamente, sem dado de Instagram ao vivo — Bright Data não está habilitado. Baseada na memória da marca e nos benchmarks Oakberry/Bacio di Latte.
+- **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-03
+- **Área:** trafego
+- **Decisão:** Estratégia proativa — testar tráfego pago pequeno apontando pro WhatsApp, não pro iFood
+- **Situação:** Não há investimento em anúncio rodando hoje. A regra de CTA já definida é WhatsApp primeiro, iFood depois.
+- **Oportunidade e por quê:** Antes de qualquer verba paga, faz sentido testar pequeno e medir no canal mais rentável. A meta de novembro já pede medir pedidos no WhatsApp por dia — a métrica já existe.
+- **Próximos passos:** (1, esta semana) definir valor de teste — sugestão R$150–300 — para Stories patrocinados direcionando pro WhatsApp. (2, uma semana depois) medir pedidos no WhatsApp por dia antes/depois do teste.
+- **O que falta saber:** se há verba separada pra isso; se vale habilitar Bright Data pra benchmark de CPM da região.
+- **Pendência:** aguardando Gabriel decidir se testa tráfego pago essa semana e com qual valor.
+- **Premissa:** gerada proativamente, sem dado de Instagram ao vivo — Bright Data não está habilitado.
+- **Resultado:** (ainda sem resultado)
