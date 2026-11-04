@@ -13,6 +13,7 @@ Fatos decididos e estáveis — regras duras e benchmarks de referência, não n
 7. **Nenhuma afirmação nutricional vai para peça comercial ou de investidor antes de a ficha fechar.**
 8. **Nunca uma quarta linha:** todo sabor novo entra em Fresh, Special ou Boost.
 9. **Lançamento de sabor roda sozinho por cerca de um mês**, sem outro sabor por cima.
+10. **Proteína é atributo da linha Boost, não da marca.** Nunca entra em peça ou bio de conta geral como se fosse de todos os sabores — Fresh e Special não são proteicos. Proteína aparece quando o assunto é especificamente Boost.
 
 ## Padrão visual
 
