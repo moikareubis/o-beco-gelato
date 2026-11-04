@@ -34,3 +34,4 @@ Fatos decididos e estáveis — regras duras e benchmarks de referência, não n
 ## Benchmarks de referência
 
 - **Oakberry** e **Bacio di Latte** — crescimento em rede de pontos forte, sem ser franquia. Toda área, ao propor estratégia proativamente, cita um dos dois (ou ambos) quando fizer sentido comparar.
+- **Caffeine Army** (@caffeinearmy, 926K, verificado) e **BOLD** (@boldsnacks, 601K, verificado) — não são gelato, mas se posicionam bem no mercado de performance/nutrição. Referência de **tom de voz**: direto, coloquial, frase curta e cortada, "você" no meio — não texto corrido educado. Útil especialmente pra conteúdo da linha Boost, onde falar de performance faz sentido (ver regra dura 10).
