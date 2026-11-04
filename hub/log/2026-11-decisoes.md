@@ -22,3 +22,11 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **Pendência:** aguardando Gabriel confirmar — aceitar Siqueira Bem e recusar Baixio.
 - **Premissa:** dados do convite conforme registrados na Agenda de Ativação do Complexo Beco em 04/10.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-03
+- **Área:** eventos
+- **Decisão:** Gabriel confirma — aceitar Siqueira Bem · Summer Edition, recusar Elas Move · Baixio
+- **Premissa:** confirmado em conversa, respondendo à recomendação registrada mais cedo hoje (ver entrada anterior). Próximos passos e o que falta saber continuam os mesmos.
+- **Resultado:** (ainda sem resultado — evento é em 28/11)

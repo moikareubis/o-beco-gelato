@@ -2360,6 +2360,7 @@ body{background:var(--bg);color:var(--ink);font-family:"Instrument Sans",system-
   function setSave(s,x){var e=document.getElementById("hubsave");if(e){e.dataset.s=s;e.textContent=x;}}
   function dataCurta(iso){if(!iso)return "";var p=String(iso).slice(0,10).split("-");return p.length===3?(p[2]+"/"+p[1]):String(iso);}
   function aberto(it){return !it.resultado;}
+  function chave(it){return String(it.atualizado||it.data||"");}
 
   function renderMeta(totalPotes){
     var box=document.getElementById("hub-meta"); if(!box) return; box.innerHTML="";
@@ -2377,7 +2378,7 @@ body{background:var(--bg);color:var(--ink);font-family:"Instrument Sans",system-
 
   function renderFoco(itens){
     var box=document.getElementById("hub-foco"); if(!box) return; box.innerHTML="";
-    var abertos=itens.filter(aberto).slice().sort(function(a,b){return String(b.data||"").localeCompare(String(a.data||""));});
+    var abertos=itens.filter(aberto).slice().sort(function(a,b){return chave(b).localeCompare(chave(a));});
     if(!abertos.length){
       var vz=el("div","item");
       vz.appendChild(el("div","vazio","Nada em aberto agora. Quando uma área analisar algo e precisar da sua decisão, aparece aqui."));
@@ -2441,7 +2442,7 @@ body{background:var(--bg);color:var(--ink);font-family:"Instrument Sans",system-
   function renderPend(itens){
     var box=document.getElementById("hub-pend"); if(!box) return; box.innerHTML="";
     var abertos=itens.filter(function(it){return aberto(it) && it.pendencia;})
-      .slice().sort(function(a,b){return String(b.data||"").localeCompare(String(a.data||""));});
+      .slice().sort(function(a,b){return chave(b).localeCompare(chave(a));});
     if(!abertos.length){
       box.appendChild(el("div","vazio","Nenhuma pendência aberta."));
       return;
@@ -2460,7 +2461,7 @@ body{background:var(--bg);color:var(--ink);font-family:"Instrument Sans",system-
       box.appendChild(el("div","vazio","Nenhuma decisão registrada ainda."));
       return;
     }
-    itens.slice().sort(function(a,b){return String(b.data||"").localeCompare(String(a.data||""));})
+    itens.slice().sort(function(a,b){return chave(b).localeCompare(chave(a));})
       .forEach(function(it){
         var card=el("div","item");
         var m=el("div","meta");

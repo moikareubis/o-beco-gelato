@@ -33,5 +33,8 @@ Não é opcional e não precisa de pergunta separada: toda vez que uma área (ve
    - `data` (string `YYYY-MM-DD`), `area`, `decisao` (título curto) — sempre.
    - `situacao`, `oportunidade`, `prioridade`, `proximos_passos` (lista de `{passo, prazo}`), `o_que_falta` (lista de texto), `pendencia` (texto) — quando a resposta tiver essas partes (formato de saída de cada área).
    - `resultado` — **string vazia `""` enquanto não houver resultado**, nunca `"—"` nem omitido. Preencher quando Gabriel contar o que aconteceu.
+   - `atualizado` (string ISO, `new Date().toISOString()`) — sempre que já existir outra entrada da mesma `area` no mesmo dia. É o que desempata qual aparece primeiro em "Em cima da mesa".
 
 Se a conversa não tiver como gravar no banco (ex.: Project no claude.ai, sem ferramenta de arquivo/banco), devolva a entrada pronta, no mesmo formato, para Gabriel copiar — e avise que ela só entra de verdade quando alguém colar numa sessão com acesso ao repo e ao artifact.
+
+**Quando a resposta muda o estado de uma entrada já registrada** (Gabriel confirma, recusa ou pede ajuste em algo que já estava no log) — isso não é uma análise nova, é a continuação da mesma: acrescente uma entrada curta no `log/` contando o que mudou, e no `hub_log` either (a) `update` o campo `pendencia` do doc original para `""` quando a pergunta em aberto foi respondida, ou (b) `set` um doc novo (`atualizado` obrigatório aqui) quando valer a pena um registro com data própria. Nunca apague ou reescreva os campos de análise (`situacao`, `oportunidade` etc.) de uma entrada existente.
