@@ -56,3 +56,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **Pendência:** aguardando Gabriel decidir se testa tráfego pago essa semana e com qual valor.
 - **Premissa:** gerada proativamente, sem dado de Instagram ao vivo — Bright Data não está habilitado.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-04
+- **Área:** marketing
+- **Decisão:** Análise real do Instagram — a bio contraria a própria regra de escrita da marca
+- **Situação:** @obecogelato tem 3.462 seguidores, ritmo de postagem de cerca de 1x por semana (12 posts entre agosto e novembro). A bio abre com o atributo: "Até 15g de proteína • Baixo em calorias", antes da linha de prazer "Prazer e performance no mesmo pote".
+- **Oportunidade e por quê:** Os dois benchmarks fazem o oposto, em escala muito maior. @oakberry (225K seguidores, verificado) não cita nenhum atributo de saúde na bio — é puro território de categoria ("Existe açaí e existe OAKBERRY") mais CTA pro próprio app de pedido. @baciodilatte (698K, verificado) também zero atributo — pura história de ingrediente e artesania ("um ingrediente qualquer faz um gelato, mas não faz um Bacio di Latte"). Os dois provam que virar referência de categoria não precisa do atributo na vitrine — é exatamente a regra que o Beco já tinha decidido e não está seguindo na própria bio.
+- **Próximos passos:** (1, esta semana) reescrever a bio — prazer abre, atributo fecha ou sai da bio. (2, esta semana) 3.462 seguidores hoje; meta de 100 contatos de WhatsApp é só 3% de conversão — vale CTA de bio pro WhatsApp, como os dois benchmarks fazem com link de pedido/app próprio.
+- **O que falta saber:** confirmar se "15g de proteína" da bio bate com a ficha fechada atual — a memória registra 12g pra Brigadeiro/Café, conferir a divergência antes de mudar qualquer número.
+- **Pendência:** aguardando Gabriel aprovar a reescrita da bio.
+- **Premissa:** dado real, puxado via Bright Data em 04/11/2026: perfis @obecogelato, @oakberry e @baciodilatte.
+- **Resultado:** (ainda sem resultado)
