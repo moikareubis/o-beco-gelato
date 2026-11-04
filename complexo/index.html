@@ -264,12 +264,19 @@ body{background:var(--bg);color:var(--ink);font-family:"Instrument Sans",system-
   function semestreDe(id){var p=id.split("-");var m=parseInt(p[1],10);return p[0]+" — "+(m<=6?"1º":"2º")+" semestre";}
   function anoDe(id){return id.split("-")[0];}
 
-  function calc(potes){
+  function calc(doc){
+    doc = doc || {};
+    var potes = doc.potes || {};
     var tp=0, fat=0, ctb=0;
     ROTAS.forEach(function(r){
-      var q=Number((potes||{})[r.id])||0;
+      var q=Number(potes[r.id])||0;
       tp+=q; fat+=q*r.p; ctb+=q*r.c;
     });
+    if(doc.real){
+      var rp=Number(doc.real.potes), rf=Number(doc.real.faturamento);
+      if(!isNaN(rp)){ tp=rp; ctb=rp*10.08; }
+      if(!isNaN(rf)){ fat=rf; }
+    }
     return {potes:tp, faturamento:fat, contribuicao:ctb};
   }
 
@@ -316,7 +323,7 @@ body{background:var(--bg);color:var(--ink);font-family:"Instrument Sans",system-
     });
     t.appendChild(tb); box.appendChild(t);
 
-    var c2=calc(potes);
+    var c2=calc(dados[MES_ATUAL]);
     var res=el("div","resumo");
     function bloco(rot,val){var d=el("div","rb");d.appendChild(el("span","rt",rot));d.appendChild(el("b",null,val));return d;}
     res.appendChild(bloco("Potes no mês", String(c2.potes)));
@@ -328,14 +335,16 @@ body{background:var(--bg);color:var(--ink);font-family:"Instrument Sans",system-
   function agrupar(){
     var grupos={};
     Object.keys(dados).forEach(function(mesId){
-      var c=calc((dados[mesId]||{}).potes);
+      var doc=dados[mesId]||{};
+      var c=calc(doc);
       var chave, label;
       if(vista==="mensal"){ chave=mesId; label=mesLabel(mesId); }
       else if(vista==="trimestral"){ chave=trimestreDe(mesId); label=chave; }
       else if(vista==="semestral"){ chave=semestreDe(mesId); label=chave; }
       else { chave=anoDe(mesId); label=chave; }
-      if(!grupos[chave]) grupos[chave]={potes:0,faturamento:0,contribuicao:0,label:label,chave:chave};
+      if(!grupos[chave]) grupos[chave]={potes:0,faturamento:0,contribuicao:0,label:label,chave:chave,real:false};
       grupos[chave].potes+=c.potes; grupos[chave].faturamento+=c.faturamento; grupos[chave].contribuicao+=c.contribuicao;
+      if(doc.real) grupos[chave].real=true;
     });
     return Object.keys(grupos).map(function(k){return grupos[k];}).sort(function(a,b){return b.chave.localeCompare(a.chave);});
   }
@@ -362,7 +371,7 @@ body{background:var(--bg);color:var(--ink);font-family:"Instrument Sans",system-
     var tb=el("tbody");
     grupos.forEach(function(g){
       var row=el("tr");
-      row.appendChild(el("td",null,g.label));
+      row.appendChild(el("td",null, g.label + (g.real ? " · dado real" : "")));
       row.appendChild(el("td","r num",String(g.potes)));
       row.appendChild(el("td","r num",rs0(g.faturamento)));
       row.appendChild(el("td","r num",rs0(g.contribuicao)));
