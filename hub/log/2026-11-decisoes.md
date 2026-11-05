@@ -100,3 +100,22 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **Pendência:** aguardando Gabriel confirmar o bairro do segundo ponto.
 - **Premissa:** relatado por Gabriel em conversa, 04/11/2026.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-05
+- **Área:** expansao
+- **Decisão:** Segundo ponto confirmado — Vilas do Atlântico, 2 freezers Metalfrio 144L
+- **Premissa:** Gabriel confirmou o bairro em conversa. Plotagem do freezer já está pronta (feita fora do HUB); fica pendente só aprovar a proposta de plotagem com o fornecedor — ação do próprio Gabriel.
+- **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-05
+- **Área:** eventos
+- **Decisão:** Material do Siqueira Bem organizado em checklist
+- **Situação:** Copinho (2.000) e colher de amostra (5.000) já em estoque; logística de R$250 já orçada; windbanner gerado no Canva para o stand (https://canva.link/0hs2ez6gbkcakf4 — conferir antes de produzir).
+- **Próximos passos:** decidir a cota (gratuita ou Areia R$1.700); escolher sabor a levar (sugestão Boost, sem citar grama de proteína); publicar post anunciando a participação.
+- **O que falta saber:** estrutura/horário com a Amanda; ponto de energia na areia pro carrinho.
+- **Pendência:** aguardando Gabriel decidir cota e sabor.
+- **Resultado:** (ainda sem resultado)
