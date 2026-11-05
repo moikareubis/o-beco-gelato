@@ -119,3 +119,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** estrutura/horário com a Amanda; ponto de energia na areia pro carrinho.
 - **Pendência:** aguardando Gabriel decidir cota e sabor.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-05
+- **Área:** marketing
+- **Decisão:** Recomendação — renegociar escopo com a Nomads (realocar, não pedir desconto)
+- **Situação:** Contrato Nomads: R$3.000/mês, inclui Planejamento Estratégico, Gestão de Redes Sociais, Copywriting, Design, Audiovisual, 1 ensaio fotográfico a cada 2 meses. Gestão de Tráfego condicional ("quando previsto na proposta comercial"). Equipe: Carla (Head de Marketing), Eduardo (Social Media), Gabrielle (Designer). Aviso de cancelamento: 30 dias.
+- **Oportunidade e por quê:** Parte do que o contrato cobre (Planejamento Estratégico, parte do Copywriting) já está sendo feita pelo HUB. A única coisa que só a Nomads entrega de verdade é produção física: fotografia, audiovisual, design. Pedir desconto tira poder de barganha e não ajuda a vender mais; realocar a capacidade liberada pra tráfego pago (hoje condicional/pouco claro no contrato) e pra aumentar o ritmo de publicação (perfil posta ~1x/semana com contrato full-service) serve direto a prioridade de vender.
+- **Próximos passos:** (1, hoje) enviar mensagem pronta pra Carla propondo a conversa. (2, na reunião) confirmar se Gestão de Tráfego está de fato ativa hoje.
+- **O que falta saber:** se a Nomads já roda tráfego pago hoje ou não; quem define a verba de tráfego se topar.
+- **Pendência:** aguardando Gabriel enviar a proposta e marcar a conversa com a Carla.
+- **Premissa:** lido do contrato WELCOME_O_Beco_Gelato_assinado (Nomads), enviado por Gabriel em 05/11/2026.
+- **Resultado:** (ainda sem resultado)
