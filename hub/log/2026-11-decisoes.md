@@ -168,3 +168,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **Próximos passos:** (1, hoje) montar os 6 kits no catálogo do iFood com preço +14,4% (Dupla R$55,90, Kit Mood R$109,90, Monte seu Kit R$158,90, Kit Fresh R$97,90, Kit Special R$158,90, Kit Boost R$109,90). (2, hoje/amanhã) postar anunciando delivery, CTA WhatsApp primeiro. (3, esta semana) aproveitar gancho dos 2 pontos novos (Vilas do Atlântico) e Siqueira Bem na mesma comunicação de prova social.
 - **Premissa:** relatado por Gabriel em conversa, 05/11/2026. Meta já registrada em `memoria/financeiro.md`.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-05
+- **Área:** marketing
+- **Decisão:** Lembrete dinâmico de Stories — rotina automática 3x/dia (manhã/tarde/noite)
+- **Situação:** Gabriel não tem equipe de marketing e esquece de gravar Stories no momento certo; pediu lembrete no celular que não seja roteiro fixo repetido, e sim um ângulo de storytelling que mude com o calendário de conteúdo, a memória do HUB e os assuntos que ele traz em conversa (ex.: "vamos melhorar nossa entrega?").
+- **Oportunidade e por quê:** O calendário "Do momento ao hábito" (`memoria/calendario-conteudo.md`) já define a sequência diária de Stories (situação → desejo → confiança → compra) e o momento/sabor de cada dia da semana — faltava só o gatilho pra isso virar rotina de fato sem depender de alguém lembrar manualmente.
+- **Próximos passos:** (1, 06/11) acompanhar os 3 primeiros disparos reais (9h/13h/19h, horário da Bahia) e validar se o ângulo convence. (2, quando Gabriel revisar) decidir se mantém os conectores que a rotina herdou por padrão (Gmail, Google Calendar, Canva, Claude_Docs, Claude_Code_Remote — nenhum é usado pelo prompt) ou limpa com `clear_mcp_connections`. (3, contínuo) ajustar horário/cron ou o texto do prompt se o tom não acertar.
+- **O que falta saber:** se 3x/dia é a cadência certa ou se Gabriel quer mais/menos disparos, e se horários fixos (9h/13h/19h) cobrem bem momentos variáveis do calendário (ex. "pós-treino" de terça nem sempre é no mesmo horário).
+- **Pendência:** validar os primeiros disparos reais (a partir de 06/11, 9h) antes de confiar 100% no automático.
+- **Premissa:** rotina criada via `schedule`/`RemoteTrigger`, repo `o-beco-gelato`, cron `0 12,16,22 * * *` (UTC) = 9h/13h/19h Bahia. Gerenciar em https://claude.ai/code/routines/trig_014C7iqrXNJHJv19Dvfxiz3M.
+- **Resultado:** (ainda sem resultado)
