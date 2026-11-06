@@ -193,3 +193,25 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** nada que bloqueie — é escolha de nome, composição/preço/desconto continuam os mesmos.
 - **Pendência:** aguardando Gabriel escolher/confirmar os nomes (ou pedir ajuste) antes de atualizar cardápio e memória.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-06
+- **Área:** marketing
+- **Decisão:** Gabriel confirma os nomes principais — Dupla do Agora, Mood do Dia, Monte seu Mood, Modo Treino, Modo Sofá, Modo Refresca
+- **Premissa:** confirmado em conversa, respondendo à recomendação registrada mais cedo hoje (ver entrada anterior). `memoria/produtos.md` já atualizado com os nomes novos.
+- **Próximos passos:** atualizar cardápio/catálogo do iFood e qualquer menção no Complexo Beco com os nomes novos.
+- **Resultado:** (ainda sem resultado — aguardando cardápio do iFood atualizado)
+
+---
+
+- **Data:** 2026-11-06
+- **Área:** financeiro-unit
+- **Decisão:** Achado — cardápio do iFood com preço errado (Special/Boost a R$25,90 em vez de R$29,90) e desconto total real de 26,2%, mais que o dobro dos 12% documentados
+- **Situação:** Gabriel mandou print do Portal do Parceiro iFood (pedidos de hoje, 06/11, primeiro dia de delivery). Pedido 9710: venda R$103,60 (4 potes a R$25,90 cada — Brigadeiro Proteico, Café Proteico, Alfajor, Torta de Limão, todos Special/Boost), líquido R$76,45. Pedido 4056: venda R$51,80, líquido R$38,23. Os dois com desconto total de 26,2% — não é variação pontual, é a taxa real.
+- **Oportunidade e por quê:** Dois problemas somados. (1) R$25,90 é o preço de iFood da linha Fresh (`memoria/produtos.md`); Special e Boost deveriam valer R$29,90 — o cardápio parece ter sido montado com o preço errado, 2 dos 4 potes custando R$4 a menos do que deveria cada. (2) O desconto total real (26,2%) é mais que o dobro dos 12% registrados em `produtos.md`, que foram a base do markup de +14,4% ("pra empatar com a retirada"). Hipótese mais provável, a confirmar no Portal: delivery feito pelo próprio iFood (começou hoje) tem plano de comissão mais caro que o de só retirada/listagem. Cruzando com o CMV real (`producao/AGENTS-producao.md`, insumo+embalagem): pedido 9710 sobrou R$40,79 (39,4% da venda) depois de iFood + Simples (4,5%) + CMV, antes de mão de obra/energia/frete/fixo — contra R$68,87 (57,6%) se preço e comissão estivessem como o planejado.
+- **Prioridade:** alta — é dinheiro saindo hoje, no primeiro dia de delivery.
+- **Próximos passos:** (1, hoje) corrigir no cardápio do iFood o preço de Special/Boost para R$29,90. (2, hoje/amanhã) conferir no Portal do Parceiro qual plano de comissão está ativo e se mudou com a entrada do delivery. (3, após confirmar) decidir se reprecifica o iFood de novo ou se reforça CTA pro WhatsApp (comissão zero).
+- **O que falta saber:** qual plano de comissão está de fato ativo no iFood; se os pedidos cancelados hoje já tinham pote montado (prejuízo de CMV sem receita).
+- **Pendência:** aguardando Gabriel confirmar o plano de comissão e corrigir o preço do cardápio.
+- **Resultado:** (ainda sem resultado)
