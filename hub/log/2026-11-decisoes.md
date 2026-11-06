@@ -181,3 +181,15 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **Pendência:** validar os primeiros disparos reais (a partir de 06/11, 9h) antes de confiar 100% no automático.
 - **Premissa:** rotina criada via `schedule`/`RemoteTrigger`, repo `o-beco-gelato`, cron `0 12,16,22 * * *` (UTC) = 9h/13h/19h Bahia. Gerenciar em https://claude.ai/code/routines/trig_014C7iqrXNJHJv19Dvfxiz3M.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-06
+- **Área:** marketing
+- **Decisão:** Recomendação — renomear os 6 kits trazendo sentimento de momento do dia, não linha/produto
+- **Situação:** Os 6 kits (`memoria/produtos.md`) têm nomes funcionais (Dupla, Kit Mood, Monte seu Kit, Kit Fresh, Kit Special, Kit Boost) que descrevem composição, não motivo de compra. Gabriel pediu nomes que tragam "o sentimento de momento do dia", na linha de "monte seu mood" / "de acordo com sua rotina".
+- **Oportunidade e por quê:** O calendário "Do momento ao hábito" já vende por momento (pós-treino, pós-almoço, tarde quente, volta da praia), não por linha — os nomes dos kits ficavam um passo atrás disso. Duas famílias: "Mood" (mistos, qualquer linha) — Mood do Dia (4 potes, curado) e Monte seu Mood (6 potes, livre) — e "Modo" (monolinha) — Modo Treino (Boost), Modo Sofá (Special), Modo Refresca (Fresh) — e Dupla do Agora (2 potes) fecha o par com "pra ter em casa" que o calendário já definia.
+- **Próximos passos:** (1, quando Gabriel confirmar) atualizar `memoria/produtos.md` com os nomes finais. (2) atualizar cardápio/catálogo do iFood e qualquer menção no Complexo Beco. (3) usar os nomes novos a partir do próximo lembrete de Stories da rotina automática.
+- **O que falta saber:** nada que bloqueie — é escolha de nome, composição/preço/desconto continuam os mesmos.
+- **Pendência:** aguardando Gabriel escolher/confirmar os nomes (ou pedir ajuste) antes de atualizar cardápio e memória.
+- **Resultado:** (ainda sem resultado)
