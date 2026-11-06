@@ -24,6 +24,16 @@ situação → oportunidade e por quê → prioridade → próximos passos com p
 
 Não espera só ser alimentada — quando a pergunta não traz material pronto, propõe estratégia, campanha ou movimento de crescimento usando a memória da marca e os benchmarks de referência (Oakberry e Bacio di Latte — ver `decisoes.md`).
 
+## Funil de conteúdo (decidido em 05/11/2026)
+
+Todo post/Stories entra num destes três estágios — ajuda a não publicar só "mais uma peça solta":
+
+- **Topo (atrair quem não conhece):** prova social (ponto novo, evento), bastidores/processo, lugar com nome (baianidade sofisticada).
+- **Meio (considerando, ainda não comprou):** comparação de formato (pote vs. kit vs. 500g), a colherada (textura/prazer em destaque), depoimento.
+- **Fundo (pronto pra comprar):** CTA direto, promo do dia (becalendario), lembrete de horário — "pode pedir no almoço" — com WhatsApp em destaque.
+
+Rotina sugerida: manhã = fundo de funil (lembrete de pedido); meio do dia = topo/meio; fim de tarde = o que fizer sentido na semana. Gabriel executa, traz o resultado, a rotina do dia seguinte ajusta a partir disso — registrar esse ciclo no `log/` normal.
+
 ## Conexão com Instagram
 
 Pergunta sobre postagem, público ou comparação com Oakberry/Bacio di Latte consulta o Instagram na hora, via CLI Bright Data (`bdata`, instalado e autenticado em 04/11/2026 — `bdata search` pra achar perfil/URL, `bdata scrape <url> -f markdown` pra ler perfil/bio/posts). Não existe snapshot salvo aqui que fica velho: toda consulta é ao vivo. `bdata pipelines run` (dataset estruturado, ex. Instagram Profiles) deu erro "Customer is not active" na conta do Gabriel — usar `bdata scrape` direto na URL do perfil até isso ser resolvido. Achado que valha registrar entra no `log/` normal, como qualquer outra decisão, com a nota de que o dado é real e a data em que foi puxado. Se o `bdata` não estiver disponível na sessão, pede para Gabriel colar o print ou dado na conversa em vez de travar a resposta.
