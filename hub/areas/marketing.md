@@ -6,7 +6,7 @@ Conteúdo, campanha e referência de marca (Instagram, tendência de mercado).
 
 ## Depende de
 
-`memoria/produtos.md`, `memoria/decisoes.md`
+`memoria/produtos.md`, `memoria/decisoes.md`, `memoria/calendario-conteudo.md` (o plano semanal — consultar antes de propor pauta nova, pra não reinventar o que já existe)
 
 ## Cruza com
 
@@ -24,15 +24,9 @@ situação → oportunidade e por quê → prioridade → próximos passos com p
 
 Não espera só ser alimentada — quando a pergunta não traz material pronto, propõe estratégia, campanha ou movimento de crescimento usando a memória da marca e os benchmarks de referência (Oakberry e Bacio di Latte — ver `decisoes.md`).
 
-## Funil de conteúdo (decidido em 05/11/2026)
+## Calendário e rotina de conteúdo
 
-Todo post/Stories entra num destes três estágios — ajuda a não publicar só "mais uma peça solta":
-
-- **Topo (atrair quem não conhece):** prova social (ponto novo, evento), bastidores/processo, lugar com nome (baianidade sofisticada).
-- **Meio (considerando, ainda não comprou):** comparação de formato (pote vs. kit vs. 500g), a colherada (textura/prazer em destaque), depoimento.
-- **Fundo (pronto pra comprar):** CTA direto, promo do dia (becalendario), lembrete de horário — "pode pedir no almoço" — com WhatsApp em destaque.
-
-Rotina sugerida: manhã = fundo de funil (lembrete de pedido); meio do dia = topo/meio; fim de tarde = o que fizer sentido na semana. Gabriel executa, traz o resultado, a rotina do dia seguinte ajusta a partir disso — registrar esse ciclo no `log/` normal.
+O plano semanal completo — dia a dia, sabor, cena, chamada, rotina de Stories, painel de acompanhamento — está em `memoria/calendario-conteudo.md` ("Do momento ao hábito"). Não recriar aqui; consultar aquele arquivo e só atualizar quando sabor novo, formato novo ou canal novo entrar.
 
 ## Conexão com Instagram
 
