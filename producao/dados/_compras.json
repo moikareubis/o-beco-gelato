@@ -1,0 +1,358 @@
+{
+ "pote": 140,
+ "fator": 1.0309278350515465,
+ "sabores": [
+  "Café Proteico",
+  "Pistache",
+  "Manga com Maracujá",
+  "Sorbet Morango",
+  "Torta de Limão",
+  "Alfajor",
+  "Brigadeiro Proteico"
+ ],
+ "consumo": {
+  "Café Proteico": {
+   "LEITE ZERO LACTOSE (INTEGRAL)": 84.78572419213167,
+   "BASE MEC PROTEIN": 15.921594008598772,
+   "LEITE EM PO DESNATADO ZL (BATAVO PENSE ZERO)": 14.691877398178542,
+   "PASTA CAFÉ SELECTA (BALDE 2 KG)": 7.352410891775692,
+   "GLICEROL (GLICERINA BIDESTILADA)": 3.676205445887846,
+   "POLIDEXTROSE": 2.446488835467616,
+   "CREMOBENE PREMIUM (LIGA NEUTRA)": 0.37538717581249137,
+   "SAL": 0.11649946835560077,
+   "STEVIA": 0.07766631223706717,
+   "DELÍCIA DE AMENDOIM PROTEICO": 14.88604317877121
+  },
+  "Pistache": {
+   "LEITE ZERO LACTOSE (INTEGRAL)": 94.50721649484537,
+   "POLIDEXTROSE": 9.153896164205443,
+   "MALTITOL": 3.8834710999659463,
+   "ERITRITOL": 5.7125166403516925,
+   "INULINA": 1.4042908888269716,
+   "STEVIA": 0.052010773660258205,
+   "PASTA PISTACCHIO 100% CALIFÓRNIA": 12.989690721649486,
+   "CREME DE LEITE FRESCO 35% ZL (VERDE CAMPO LACFREE)": 8.948453608247423,
+   "LEITE EM PO DESNATADO ZL (BATAVO PENSE ZERO)": 4.762886597938145,
+   "GLICEROL (GLICERINA BIDESTILADA)": 2.1649484536082477,
+   "CREMOBENE PREMIUM (LIGA NEUTRA)": 0.7505154639175259
+  },
+  "Manga com Maracujá": {
+   "MANGA": 69.1340206185567,
+   "MARACUJA (POLPA)": 33.91752577319588,
+   "POLIDEXTROSE": 19.2569889477106,
+   "MALTITOL": 3.8834710999659463,
+   "ERITRITOL": 2.8259187022073626,
+   "INULINA": 1.4042908888269716,
+   "STEVIA": 0.052010773660258205,
+   "CREMOBENE PREMIUM (LIGA NEUTRA)": 0.4329896907216495,
+   "GLICEROL (GLICERINA BIDESTILADA)": 2.1649484536082477
+  },
+  "Sorbet Morango": {
+   "MORANGO": 77.81443298969073,
+   "POLIDEXTROSE": 15.038543698337516,
+   "MALTITOL": 6.37998823565834,
+   "ERITRITOL": 6.498250828147736,
+   "INULINA": 2.307049317358596,
+   "STEVIA": 0.08544627101328134,
+   "GLICEROL (GLICERINA BIDESTILADA)": 1.8556701030927836,
+   "CREMOBENE PREMIUM (LIGA NEUTRA)": 0.3711340206185567,
+   "PASTA FRAGOLA MEC3 (18047)": 1.2371134020618557
+  },
+  "Torta de Limão": {
+   "LEITE ZERO LACTOSE (INTEGRAL)": 88.61855670103093,
+   "POLIDEXTROSE": 14.328968143401134,
+   "MALTITOL": 4.854338874957432,
+   "ERITRITOL": 3.5323983777592027,
+   "INULINA": 1.7553636110337143,
+   "STEVIA": 0.06501346707532275,
+   "CREME DE LEITE FRESCO 35% ZL (VERDE CAMPO LACFREE)": 14.721649484536083,
+   "GUSTO LIMONE SICILIA (PÓ)": 8.659793814432991,
+   "LEITE EM PO DESNATADO ZL (BATAVO PENSE ZERO)": 4.762886597938145,
+   "GLICEROL (GLICERINA BIDESTILADA)": 2.1649484536082477,
+   "CREMOBENE PREMIUM (LIGA NEUTRA)": 0.865979381443299
+  },
+  "Alfajor": {
+   "LEITE ZERO LACTOSE (INTEGRAL)": 84.57680412371136,
+   "DOCE DE LEITE VIÇOSA ZERO": 22.268041237113405,
+   "POLIDEXTROSE": 9.742268041237116,
+   "CREME DE LEITE FRESCO 35% ZL (VERDE CAMPO LACFREE)": 8.350515463917526,
+   "LEITE EM PO DESNATADO ZL (BATAVO PENSE ZERO)": 6.958762886597939,
+   "MALTITOL": 4.175257731958763,
+   "GLICEROL (GLICERINA BIDESTILADA)": 2.0876288659793816,
+   "CREMOBENE PREMIUM (LIGA NEUTRA)": 0.8350515463917527,
+   "SAL": 0.1391752577319588,
+   "STEVIA": 0.041752577319587626,
+   "BISCOITO ALFAJOR DE CHOCOLATE (ZERO LACTOSE)": 15.448453608247425
+  },
+  "Brigadeiro Proteico": {
+   "LEITE ZERO LACTOSE (INTEGRAL)": 96.48453608247424,
+   "BASE MEC PROTEIN": 18.041237113402065,
+   "LEITE EM PO DESNATADO ZL (BATAVO PENSE ZERO)": 16.655670103092785,
+   "CACAU 22/24": 5.556701030927836,
+   "GLICEROL (GLICERINA BIDESTILADA)": 4.171134020618556,
+   "POLIDEXTROSE": 2.7711340206185566,
+   "CREMOBENE PREMIUM (LIGA NEUTRA)": 0.4329896907216495,
+   "SAL": 0.14432989690721654,
+   "STEVIA": 0.0865979381443299
+  }
+ },
+ "insumos": [
+  {
+   "nome": "BASE MEC PROTEIN",
+   "custoKg": 148.2,
+   "estoque": 11500,
+   "fornecedor": "MEC3",
+   "marca": "Base MEC Protein",
+   "embalagem": "",
+   "origem": "ficha"
+  },
+  {
+   "nome": "BISCOITO ALFAJOR DE CHOCOLATE (ZERO LACTOSE)",
+   "custoKg": 38.46,
+   "estoque": 0,
+   "fornecedor": "",
+   "marca": "",
+   "embalagem": "caixa 4 un",
+   "origem": "nota 8,00/4 un"
+  },
+  {
+   "nome": "CACAU 22/24",
+   "custoKg": 130,
+   "estoque": 0,
+   "fornecedor": "",
+   "marca": "",
+   "embalagem": "",
+   "origem": ""
+  },
+  {
+   "nome": "CREME DE LEITE FRESCO 35% ZL (VERDE CAMPO LACFREE)",
+   "custoKg": 57.8,
+   "estoque": 1500,
+   "fornecedor": "Verde Campo",
+   "marca": "Lacfree",
+   "embalagem": "500 g",
+   "origem": "nota 28,90/500 g"
+  },
+  {
+   "nome": "CREMOBENE PREMIUM (LIGA NEUTRA)",
+   "custoKg": 105.84,
+   "estoque": 1989.8,
+   "fornecedor": "Biobene",
+   "marca": "Cremobene Premium",
+   "embalagem": "",
+   "origem": "conversa"
+  },
+  {
+   "nome": "DELÍCIA DE AMENDOIM PROTEICO",
+   "custoKg": 94.25,
+   "estoque": 1627,
+   "fornecedor": "",
+   "marca": "",
+   "embalagem": "",
+   "origem": "—"
+  },
+  {
+   "nome": "DOCE DE LEITE VIÇOSA ZERO",
+   "custoKg": 99.75,
+   "estoque": 0,
+   "fornecedor": "Viçosa",
+   "marca": "Viçosa Zero",
+   "embalagem": "pote 400 g",
+   "origem": "nota 39,90/400 g"
+  },
+  {
+   "nome": "ERITRITOL",
+   "custoKg": 53.76,
+   "estoque": 5000,
+   "fornecedor": "",
+   "marca": "",
+   "embalagem": "1 kg",
+   "origem": "cotação Huakang 25 kg R$ 14,75"
+  },
+  {
+   "nome": "GLICEROL (GLICERINA BIDESTILADA)",
+   "custoKg": 24,
+   "estoque": 900,
+   "fornecedor": "",
+   "marca": "",
+   "embalagem": "",
+   "origem": ""
+  },
+  {
+   "nome": "GUSTO LIMONE SICILIA (PÓ)",
+   "custoKg": 359.62,
+   "estoque": 1917.7,
+   "fornecedor": "MEC3",
+   "marca": "Gusto Limone Sicilia",
+   "embalagem": "",
+   "origem": "ficha"
+  },
+  {
+   "nome": "INULINA",
+   "custoKg": 90,
+   "estoque": 600,
+   "fornecedor": "",
+   "marca": "",
+   "embalagem": "",
+   "origem": ""
+  },
+  {
+   "nome": "LEITE EM PO DESNATADO ZL (BATAVO PENSE ZERO)",
+   "custoKg": 65.7,
+   "estoque": 0,
+   "fornecedor": "Batavo",
+   "marca": "Pense Zero",
+   "embalagem": "",
+   "origem": "conversa"
+  },
+  {
+   "nome": "LEITE ZERO LACTOSE (INTEGRAL)",
+   "custoKg": 9.8,
+   "estoque": 6000,
+   "fornecedor": "Leitíssimo",
+   "marca": "",
+   "embalagem": "",
+   "origem": "conversa"
+  },
+  {
+   "nome": "MALTITOL",
+   "custoKg": 37.78,
+   "estoque": 0,
+   "fornecedor": "",
+   "marca": "",
+   "embalagem": "",
+   "origem": "cotação Yusweet 25 kg R$ 17,95"
+  },
+  {
+   "nome": "MANGA",
+   "custoKg": 22,
+   "estoque": 0,
+   "fornecedor": "",
+   "marca": "",
+   "embalagem": "",
+   "origem": ""
+  },
+  {
+   "nome": "MARACUJA (POLPA)",
+   "custoKg": 30,
+   "estoque": 0,
+   "fornecedor": "",
+   "marca": "",
+   "embalagem": "",
+   "origem": ""
+  },
+  {
+   "nome": "MORANGO",
+   "custoKg": 11.29,
+   "estoque": 0,
+   "fornecedor": "",
+   "marca": "",
+   "embalagem": "",
+   "origem": ""
+  },
+  {
+   "nome": "PASTA CAFÉ SELECTA (BALDE 2 KG)",
+   "custoKg": 90,
+   "estoque": 0,
+   "fornecedor": "",
+   "marca": "Selecta",
+   "embalagem": "balde 2 kg",
+   "origem": "conversa"
+  },
+  {
+   "nome": "PASTA FRAGOLA MEC3 (18047)",
+   "custoKg": 142.27,
+   "estoque": 2962,
+   "fornecedor": "MEC3",
+   "marca": "MEC3 18047",
+   "embalagem": "",
+   "origem": "ficha"
+  },
+  {
+   "nome": "PASTA PISTACCHIO 100% CALIFÓRNIA",
+   "custoKg": 450,
+   "estoque": 2280,
+   "fornecedor": "",
+   "marca": "",
+   "embalagem": "",
+   "origem": "—"
+  },
+  {
+   "nome": "POLIDEXTROSE",
+   "custoKg": 28.92,
+   "estoque": 11000,
+   "fornecedor": "",
+   "marca": "",
+   "embalagem": "10 kg",
+   "origem": "cotação Bailong 25 kg R$ 12,85"
+  },
+  {
+   "nome": "SAL",
+   "custoKg": 3,
+   "estoque": 0,
+   "fornecedor": "",
+   "marca": "",
+   "embalagem": "",
+   "origem": ""
+  },
+  {
+   "nome": "STEVIA",
+   "custoKg": 3100,
+   "estoque": 0,
+   "fornecedor": "",
+   "marca": "",
+   "embalagem": "",
+   "origem": ""
+  }
+ ],
+ "embalagem": [
+  {
+   "nome": "Pote 150 ml com tampa",
+   "porPote": 1,
+   "preco": 1.07,
+   "saldo": 1217
+  },
+  {
+   "nome": "Colher tradicional",
+   "porPote": 1,
+   "preco": 0.26,
+   "saldo": 4217
+  },
+  {
+   "nome": "Lacre de sabor",
+   "porPote": 1,
+   "preco": 0.34,
+   "saldo": 717
+  },
+  {
+   "nome": "Pote 80 ml (amostra)",
+   "porPote": 0,
+   "preco": 0,
+   "saldo": 2000
+  },
+  {
+   "nome": "Colher de amostra",
+   "porPote": 0,
+   "preco": 0,
+   "saldo": 5000
+  }
+ ],
+ "potesContagem": {
+  "Pistache": 46,
+  "Café Proteico": 40,
+  "Alfajor": 38,
+  "Manga com Maracujá": 60,
+  "Brigadeiro Proteico": 51,
+  "Sorbet Morango": 32,
+  "Torta de Limão": 58
+ },
+ "pedido7": {
+  "Brigadeiro Proteico": 20,
+  "Café Proteico": 15,
+  "Manga com Maracujá": 15,
+  "Pistache": 20,
+  "Torta de Limão": 20,
+  "Sorbet Morango": 15,
+  "Alfajor": 20
+ }
+}

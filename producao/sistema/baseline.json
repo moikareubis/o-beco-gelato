@@ -1,0 +1,340 @@
+{
+ "pote": 140,
+ "gerado": "2026-10-12",
+ "nota": "Regravado 12/10/2026. Nucleo Arkeo saiu das 4 receitas nao proteicas e entrou Cremobene Premium na dose tabelada por gordura (Pistache 5,2 / Torta 6,0 / sorbets 3,0 g/kg). A goma cai de 7,44 g/kg para 0,75-1,50 porque o Arkeo e nucleo (62% de goma a 12 g/kg) e o Cremobene e liga concentrada (25% a 3-6 g/kg). POD, PAC e janela quase nao se mexem; o custo cai R$ 1,46 a 1,74 por kg. Pote 135 g, overrun 21%. Precos do pedido #000224673 postos (com frete).",
+ "receitas": {
+  "Brigadeiro Proteico": {
+   "soma": 1000.1,
+   "solT": 40.631,
+   "gord": 5.441,
+   "prot": 10.132,
+   "acu": 14.266,
+   "pod": 161.23,
+   "pac": 332.21,
+   "frozen": 76.59,
+   "kcalPote": 217.106,
+   "protPote": 14.183,
+   "fibraPote": 6.456,
+   "acucarAdd": 0,
+   "gordSat": 3.546,
+   "sodio": 168.136,
+   "custoPote": 5.752,
+   "selos": [
+    "FONTE DE FIBRAS",
+    "FONTE DE PROTEÍNA",
+    "SEM ADIÇÃO DE AÇÚCARES"
+   ],
+   "lupa": []
+  },
+  "Alfajor": {
+   "soma": 1000,
+   "solT": 37.13,
+   "gord": 6.141,
+   "prot": 5.371,
+   "acu": 15.587,
+   "pod": 147.923,
+   "pac": 368.999,
+   "frozen": 75.446,
+   "kcalPote": 227.472,
+   "protPote": 7.411,
+   "fibraPote": 8.794,
+   "acucarAdd": 0.01,
+   "gordSat": 5.124,
+   "sodio": 139.408,
+   "custoPote": 4.791,
+   "selos": [
+    "ALTO TEOR DE FIBRAS"
+   ],
+   "lupa": []
+  },
+  "Torta de Limão": {
+   "soma": 1000,
+   "solT": 39.404,
+   "gord": 6.527,
+   "prot": 3.633,
+   "acu": 14.621,
+   "pod": 170,
+   "pac": 351.846,
+   "frozen": 75.709,
+   "kcalPote": 199.833,
+   "protPote": 5.087,
+   "fibraPote": 14.285,
+   "acucarAdd": 0,
+   "gordSat": 4.152,
+   "sodio": 63.881,
+   "custoPote": 6.244,
+   "selos": [
+    "ALTO TEOR DE FIBRAS",
+    "SEM ADIÇÃO DE AÇÚCARES"
+   ],
+   "lupa": []
+  },
+  "Sorbet Morango": {
+   "soma": 1000,
+   "solT": 31.928,
+   "gord": 0.394,
+   "prot": 0.709,
+   "acu": 16.289,
+   "pod": 232.316,
+   "pac": 388.137,
+   "frozen": 76.146,
+   "kcalPote": 82.8,
+   "protPote": 0.992,
+   "fibraPote": 19.454,
+   "acucarAdd": 0.47,
+   "gordSat": 0,
+   "sodio": 4.028,
+   "custoPote": 2.983,
+   "selos": [
+    "ALTO TEOR DE FIBRAS"
+   ],
+   "lupa": []
+  },
+  "Manga com Maracujá": {
+   "soma": 1000,
+   "solT": 31.962,
+   "gord": 0.418,
+   "prot": 0.756,
+   "acu": 16.879,
+   "pod": 226.577,
+   "pac": 389.191,
+   "frozen": 76.069,
+   "kcalPote": 104.133,
+   "protPote": 1.058,
+   "fibraPote": 19.601,
+   "acucarAdd": 0,
+   "gordSat": 0,
+   "sodio": 4.148,
+   "custoPote": 3.666,
+   "selos": [
+    "ALTO TEOR DE FIBRAS",
+    "SEM ADIÇÃO DE AÇÚCARES"
+   ],
+   "lupa": []
+  },
+  "Pistache": {
+   "soma": 1000,
+   "solT": 38.216,
+   "gord": 9.496,
+   "prot": 6.25,
+   "acu": 13.876,
+   "pod": 148.02,
+   "pac": 330.149,
+   "frozen": 77.645,
+   "kcalPote": 214.567,
+   "protPote": 8.75,
+   "fibraPote": 10.492,
+   "acucarAdd": 0,
+   "gordSat": 4.352,
+   "sodio": 59.521,
+   "custoPote": 8.477,
+   "selos": [
+    "ALTO TEOR DE FIBRAS",
+    "FONTE DE PROTEÍNA",
+    "SEM ADIÇÃO DE AÇÚCARES"
+   ],
+   "lupa": []
+  },
+  "Café Proteico": {
+   "soma": 1000,
+   "solT": 39.318,
+   "gord": 4.497,
+   "prot": 9.986,
+   "acu": 16.291,
+   "pod": 180.367,
+   "pac": 353.727,
+   "frozen": 75.613,
+   "kcalPote": 275.441,
+   "protPote": 14.994,
+   "fibraPote": 4.728,
+   "acucarAdd": 0,
+   "gordSat": 3.341,
+   "sodio": 155.128,
+   "custoPote": 6.46,
+   "selos": [
+    "FONTE DE FIBRAS",
+    "FONTE DE PROTEÍNA",
+    "SEM ADIÇÃO DE AÇÚCARES"
+   ],
+   "lupa": []
+  }
+ },
+ "mixes": {
+  "MIX BECO": {
+   "soma": 1000,
+   "pod": 208.444,
+   "pac": 240.737,
+   "acucares": 42.002,
+   "solidosTotais": 96.893,
+   "custoKg": 52.185,
+   "fibra": 54.567,
+   "kcal": 121.97,
+   "poliois": 38.476
+  },
+  "MIX BECO 2": {
+   "soma": 1000,
+   "pod": 208.444,
+   "pac": 240.737,
+   "acucares": 42.002,
+   "solidosTotais": 96.893,
+   "custoKg": 52.185,
+   "fibra": 54.567,
+   "kcal": 121.97,
+   "poliois": 38.476
+  },
+  "MIX BECO 3": {
+   "soma": 990.9,
+   "pod": 206.792,
+   "pac": 240.675,
+   "acucares": 41.83,
+   "solidosTotais": 96.86,
+   "custoKg": 53.601,
+   "fibra": 54.657,
+   "kcal": 122.374,
+   "poliois": 38.328
+  },
+  "MIX OFICIAL": {
+   "soma": 999,
+   "pod": 174.099,
+   "pac": 241.312,
+   "acucares": 41.944,
+   "solidosTotais": 96.89,
+   "custoKg": 49.134,
+   "fibra": 54.622,
+   "kcal": 122.092,
+   "poliois": 38.515
+  }
+ },
+ "ingredientes": {
+  "MIX BECO 2": {
+   "custoKg": 52.185,
+   "prot": 0.324,
+   "gord": 0,
+   "acu": 42.002,
+   "fibra": 54.567,
+   "solT": 96.893,
+   "pod": 208.444,
+   "pac": 240.737
+  },
+  "BASE MEC PROTEIN": {
+   "custoKg": 148.2,
+   "prot": 30,
+   "gord": 12.5,
+   "acu": 19,
+   "fibra": 14,
+   "solT": 97,
+   "pod": 16,
+   "pac": 190
+  },
+  "MORANGO": {
+   "custoKg": 11.29,
+   "prot": 1,
+   "gord": 0.3,
+   "acu": 5,
+   "fibra": 2,
+   "solT": 9,
+   "pod": 130,
+   "pac": 170
+  },
+  "MANGA": {
+   "custoKg": 22,
+   "prot": 1,
+   "gord": 0.3,
+   "acu": 14,
+   "fibra": 1.5,
+   "solT": 17,
+   "pod": 130,
+   "pac": 170
+  },
+  "MARACUJA (POLPA)": {
+   "custoKg": 30,
+   "prot": 1,
+   "gord": 0.3,
+   "acu": 14,
+   "fibra": 1.5,
+   "solT": 16,
+   "pod": 130,
+   "pac": 170
+  },
+  "GLICEROL (GLICERINA BIDESTILADA)": {
+   "custoKg": 24,
+   "prot": 0,
+   "gord": 0,
+   "acu": 100,
+   "fibra": 0,
+   "solT": 100,
+   "pod": 60,
+   "pac": 372
+  },
+  "INULINA": {
+   "custoKg": 90,
+   "prot": 4,
+   "gord": 0,
+   "acu": 6,
+   "fibra": 87,
+   "solT": 97,
+   "pod": 0,
+   "pac": 333
+  },
+  "POLIDEXTROSE": {
+   "custoKg": 28.92,
+   "prot": 0,
+   "gord": 0,
+   "acu": 5,
+   "fibra": 90,
+   "solT": 95,
+   "pod": 0,
+   "pac": 1200
+  },
+  "ERITRITOL": {
+   "custoKg": 53.76,
+   "prot": 0,
+   "gord": 0,
+   "acu": 100,
+   "fibra": 0,
+   "solT": 100,
+   "pod": 70,
+   "pac": 280
+  },
+  "MALTITOL": {
+   "custoKg": 37.78,
+   "prot": 0,
+   "gord": 0,
+   "acu": 99,
+   "fibra": 0,
+   "solT": 99,
+   "pod": 80,
+   "pac": 100
+  },
+  "STEVIA": {
+   "custoKg": 3100,
+   "prot": 0,
+   "gord": 0,
+   "acu": 100,
+   "fibra": 0,
+   "solT": 100,
+   "pod": 14600,
+   "pac": 0
+  },
+  "NUCLEO UNIVERSAL ZERO ACUCAR G.A H.Q (ARKEO)": {
+   "custoKg": 179.9,
+   "prot": 0,
+   "gord": 0,
+   "acu": 0,
+   "fibra": 62,
+   "solT": 95,
+   "pod": 0,
+   "pac": 0
+  },
+  "CREME DE LEITE FRESCO 35% ZL (VERDE CAMPO LACFREE)": {
+   "custoKg": 57.8,
+   "prot": 2.4,
+   "gord": 35,
+   "acu": 2.7,
+   "fibra": 0,
+   "solT": 41,
+   "pod": 75,
+   "pac": 190
+  }
+ }
+}
