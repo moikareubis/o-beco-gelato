@@ -132,3 +132,19 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **Pendência:** aguardando Gabriel enviar a proposta e marcar a conversa com a Carla.
 - **Premissa:** lido do contrato WELCOME_O_Beco_Gelato_assinado (Nomads), enviado por Gabriel em 05/11/2026.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-05
+- **Área:** marketing
+- **Decisão:** Nomads fica só com design estático; Gabriel já contatou e pediu proposta nova
+- **Premissa:** Gabriel decidiu que foto e audiovisual também saem do escopo da Nomads — fica só design estático. Alvo de redução: R$1.000–1.500/mês (hoje R$3.000). Nomads vai reformular e apresentar.
+- **Resultado:** (ainda sem resultado — aguardando a proposta da Nomads)
+
+---
+
+- **Data:** 2026-11-05
+- **Área:** eventos
+- **Decisão:** Siqueira Bem — bancada e boneco já encomendados, só o windbanner falta
+- **Premissa:** atualização de Gabriel em conversa. Pendência (próxima entrada) continua a mesma: cota, sabor e aprovação do windbanner.
+- **Resultado:** (ainda sem resultado)

@@ -5,9 +5,10 @@ Fatos decididos e estáveis — número de caixa do dia mora no Complexo Beco, n
 ## Meta de novembro de 2026
 
 - Potes totais: 1.000/mês. Potes por venda direta: 400.
+- **Potes no delivery (iFood + entrega): meta de 500 potes este mês** (dado em 05/11, delivery começa 06/11).
 - Contatos na lista de WhatsApp: meta de 100.
 - Tarefa única do conteúdo no mês: transformar quem já conhece o Beco em comprador direto.
-- O que medir: pedidos no WhatsApp por dia, pedidos no iFood por dia, contatos novos na lista, potes por venda direta no mês.
+- O que medir: pedidos no WhatsApp por dia, pedidos no iFood por dia, contatos novos na lista, potes por venda direta no mês, potes no delivery no mês.
 - O que não medir agora: alcance, seguidores.
 
 ## Parâmetros estáveis
