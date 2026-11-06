@@ -148,3 +148,23 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **Decisão:** Siqueira Bem — bancada e boneco já encomendados, só o windbanner falta
 - **Premissa:** atualização de Gabriel em conversa. Pendência (próxima entrada) continua a mesma: cota, sabor e aprovação do windbanner.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-05
+- **Área:** portfolio
+- **Decisão:** Mousse de Maracujá com Cereais (Special) lança semana que vem; Baunilha com Laranja (Boost) entra cerca de um mês depois
+- **Situação:** Gabriel tinha os dois lançamentos planejados em sequência curta, o que quebraria a regra dura de lançamento rodar sozinho por cerca de um mês.
+- **Premissa:** Gabriel confirmou espaçar em conversa — regra dura 9 aplicada.
+- **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-05
+- **Área:** comercial-b2b
+- **Decisão:** Plano de lançamento do delivery (06/11) — meta de 500 potes no mês
+- **Situação:** Delivery (iFood + entrega) começa 06/11. Meta: 500 potes no mês. Kits precisam ser montados no catálogo do iFood antes de liberar.
+- **Oportunidade e por quê:** Kits já decididos (Dupla, Kit Mood, Monte seu Kit, Kit Fresh/Special/Boost) viram ticket maior no delivery em vez de só pote avulso.
+- **Próximos passos:** (1, hoje) montar os 6 kits no catálogo do iFood com preço +14,4% (Dupla R$55,90, Kit Mood R$109,90, Monte seu Kit R$158,90, Kit Fresh R$97,90, Kit Special R$158,90, Kit Boost R$109,90). (2, hoje/amanhã) postar anunciando delivery, CTA WhatsApp primeiro. (3, esta semana) aproveitar gancho dos 2 pontos novos (Vilas do Atlântico) e Siqueira Bem na mesma comunicação de prova social.
+- **Premissa:** relatado por Gabriel em conversa, 05/11/2026. Meta já registrada em `memoria/financeiro.md`.
+- **Resultado:** (ainda sem resultado)
