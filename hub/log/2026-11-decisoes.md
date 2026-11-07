@@ -215,3 +215,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** qual plano de comissão está de fato ativo no iFood; se os pedidos cancelados hoje já tinham pote montado (prejuízo de CMV sem receita).
 - **Pendência:** aguardando Gabriel confirmar o plano de comissão e corrigir o preço do cardápio.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-07
+- **Área:** comercial-b2b
+- **Decisão:** Rascunho de proposta de ponto parceiro adaptado para Vilas do Atlântico (2 freezers Metalfrio 144L já instalados)
+- **Situação:** Gabriel foi fechar a proposta comercial desse ponto — o 2º ponto físico do mês (`hub/log` 05/11) — e descreveu o material que já tem (`Beco-Gelato-Ponto-Parceiro.pdf`, modelo genérico de 1 freezer, estilo de captação) como "muito amadora", precisando de ajuste. Escrevi um rascunho adaptado em `comercial/propostas/2026-11-vilas-do-atlantico.md`: tom de fechamento (não captação, já que os freezers já estão instalados), pedido mínimo e margem recalculados proporcionalmente para 2 unidades (240 potes mín., R$ 2.803/ciclo, giro de referência 600 potes/mês e R$ 7.008/mês de margem), regras adaptadas ao tempo verbal de "já instalado".
+- **Oportunidade e por quê:** Fechar esse ponto formaliza o 2º ponto físico do mês e destrava o conteúdo de expansão já mapeado (`hub/log` 04/11). Encontrei um achado que trava o fechamento: existem **três versões diferentes** de preço/condição de ponto parceiro, nenhuma reconciliada com outra — `memoria/produtos.md` (R$ 15,50–17,50, margem mínima 32%, sem data), o artifact "Jornada do Ponto Parceiro" (17/09: R$ 20,00–22,00 por nível de freezer V/M/P, desconto por volume, venda sugerida fixa R$ 34,90) e o `Beco-Gelato-Ponto-Parceiro.pdf` (13/10, o mais recente por data de arquivo: R$ 18,70–20,50, margem 37,5–37,7%, venda sugerida por linha R$ 29,90/32,90). Usei o PDF de 13/10 como base do rascunho por ser o mais recente, mas isso é dedução por data de arquivo, não confirmação de Gabriel. A Jornada também traz uma lógica que o PDF não tem: preço de compra cai conforme o freezer é maior (desconto por volume) — se ainda vale, Vilas do Atlântico deveria pagar menos por pote, não o mesmo preço em dobro de volume como ficou no rascunho.
+- **Prioridade:** alta — Gabriel pediu pra eu trabalhar nisso hoje, enquanto ele resolve outra coisa, pra ajustar junto ao voltar.
+- **Próximos passos:** (1, hoje, com Gabriel) escolher qual das três tabelas de preço é a vigente e atualizar `memoria/produtos.md` pra bater com ela. (2, hoje) decidir se a lógica de desconto por volume da Jornada ainda vale e, se sim, recalcular o preço de compra de Vilas do Atlântico pra baixo (não só dobrar o pedido mínimo mantendo o preço). (3, hoje) confirmar se já saiu um primeiro pedido faturado pra esse ponto desde que os freezers chegaram.
+- **O que falta saber:** preço vigente de ponto parceiro; se a lógica de desconto por volume (Jornada) ainda está em uso; status do primeiro pedido faturado; dia de rota de entrega do bairro Vilas do Atlântico.
+- **Pendência:** aguardando Gabriel voltar da academia pra revisar o rascunho e decidir os três pontos acima.
+- **Resultado:** (ainda sem resultado)
