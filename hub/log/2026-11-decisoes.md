@@ -227,4 +227,29 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **Próximos passos:** (1, hoje, com Gabriel) escolher qual das três tabelas de preço é a vigente e atualizar `memoria/produtos.md` pra bater com ela. (2, hoje) decidir se a lógica de desconto por volume da Jornada ainda vale e, se sim, recalcular o preço de compra de Vilas do Atlântico pra baixo (não só dobrar o pedido mínimo mantendo o preço). (3, hoje) confirmar se já saiu um primeiro pedido faturado pra esse ponto desde que os freezers chegaram.
 - **O que falta saber:** preço vigente de ponto parceiro; se a lógica de desconto por volume (Jornada) ainda está em uso; status do primeiro pedido faturado; dia de rota de entrega do bairro Vilas do Atlântico.
 - **Pendência:** aguardando Gabriel voltar da academia pra revisar o rascunho e decidir os três pontos acima.
+- **Resultado:** Gabriel corrigiu — os 2 freezers não vão pro mesmo ponto. Estão com ele, ainda sem instalar em lugar nenhum; freezer 1 (Vilas do Atlântico, arte de plotagem já aprovada, falta plotar) com instalação prevista 15–20/11, freezer 2 em ponto ainda não definido, previsão fim de novembro/início de dezembro. Reescrevi o rascunho pros números padrão de 1 freezer (120 potes mín.), tirando a duplicação por 2 unidades.
+
+---
+
+- **Data:** 2026-11-07
+- **Área:** comercial-b2b
+- **Decisão:** Gap identificado — hub não tinha nenhuma lista agregada de pendências; `memoria/pendencias.md` nunca foi usado
+- **Situação:** Gabriel perguntou "o que falta fazer agora, de tudo que eu trouxe" — e notou que o hub guarda pendência dentro de cada entrada de log, mas não tem um passo a passo único. Conferi: `memoria/pendencias.md` existia desde a criação do hub (03/11) e nunca recebeu uma linha. Toda pendência real estava só espalhada nos campos `pendencia`/`proximos_passos` das 18 entradas abertas do `hub_log`.
+- **Oportunidade e por quê:** Sem essa lista, toda vez que Gabriel pergunta "o que falta" alguém (eu) precisa reconstruir manualmente varrendo o log inteiro — não escala pro ritmo de "vender, criar, abrir canal" que é o foco do mês.
+- **Próximos passos:** (1, feito agora) populei `memoria/pendencias.md` com a lista agregada e priorizada (Agora / Esta semana / Em aberto sem prazo), puxada das 18 entradas abertas. (2, contínuo) manter esse arquivo atualizado toda vez que uma pendência nascer ou se resolver, junto com o registro normal em `hub_log` — não é um sistema novo, é usar o arquivo que já existia no design do hub.
+- **O que falta saber:** nada — ação já aplicada.
+- **Pendência:** nenhuma — resolvida nesta mesma conversa.
+- **Resultado:** `memoria/pendencias.md` atualizado e em uso a partir de hoje.
+
+---
+
+- **Data:** 2026-11-07
+- **Área:** comercial-b2b
+- **Decisão:** PDF de captação (genérico, produto antes do preço) escrito em `comercial/pdf-captacao-ponto-parceiro.md`
+- **Situação:** Gabriel vai montar uma rotina de 10 propostas/dia pra pontos específicos e precisa de um material que venda o produto (quem somos, diferencial, linha, prova de rede crescendo, modelo comercial) antes do preço aparecer — "quando a pessoa vê tudo, no final o preço seja só um aditivo". O material que já existia (`Beco-Gelato-Ponto-Parceiro.pdf`) começa direto no modelo comercial, sem a camada de marca/diferencial na frente.
+- **Oportunidade e por quê:** Escrevi o conteúdo completo de um PDF de 9 páginas nessa ordem (capa → quem somos → diferencial → linha → prova de rede crescendo → modelo comercial → tabela de preço → Turma Fundadora → fechamento), puxando a voz e as regras duras já decididas (`memoria/decisoes.md`, `memoria/produtos.md`) — zero açúcar adicionado/zero lactose como fecho, nunca abertura; nenhum número de proteína até a ficha fechar; paleta de peça externa já definida. A página de prova social (rede crescendo) fica com placeholder — não inventei número de pontos.
+- **Prioridade:** alta — é o material que sustenta a meta de 10 propostas/dia.
+- **Próximos passos:** (1, quando o preço fechar) preencher a página 7 (tabela) nos dois documentos — este e `comercial/propostas/2026-11-vilas-do-atlantico.md` — numa passada só. (2) diagramar no Canva, mesma identidade visual do PDF já existente. (3) preencher a página 5 com o número real de pontos confirmados antes de imprimir cada leva.
+- **O que falta saber:** preço de ponto parceiro vigente (mesma pendência das entradas anteriores); número real de pontos pra página de prova social.
+- **Pendência:** aguardando Gabriel confirmar o preço pra fechar a tabela e liberar a diagramação.
 - **Resultado:** (ainda sem resultado)
