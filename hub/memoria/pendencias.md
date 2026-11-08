@@ -11,7 +11,7 @@ Lista viva — atualizada toda vez que uma pendência nasce ou se resolve (ver `
 - **eventos** — cobrar o carrinho de ativação com o Maurício (amanhã, 09/11) — é o mesmo carrinho que falta pro Siqueira Bem (28/11) e, se o convite da LIVE fechar, pro evento novo também.
 - **eventos** — convite pra ativar o Gelato no evento da LIVE: aguardando o contato final do organizador pra passar as informações.
 - **financeiro-unit** — corrigir preço de Special/Boost no cardápio do iFood (R$25,90 → R$29,90) e confirmar no Portal do Parceiro qual plano de comissão está ativo (achado 06/11, dinheiro saindo todo dia que não corrige).
-- **financeiro-unit** — fazer o financeiro hoje à noite (07/11).
+- **financeiro-unit** — fazer o financeiro amanhã à noite (08/11).
 - **portfolio** — Mousse de Maracujá com Cereais (Special) lança "semana que vem" — confirmar se a produção/ficha está pronta pro prazo.
 
 ## Esta semana
