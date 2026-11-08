@@ -253,3 +253,14 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** preço de ponto parceiro vigente (mesma pendência das entradas anteriores); número real de pontos pra página de prova social.
 - **Pendência:** aguardando Gabriel confirmar o preço pra fechar a tabela e liberar a diagramação.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-07
+- **Área:** hub
+- **Decisão:** Captura do dump operacional do dia — convite de evento, carrinho, plotagem, financeiro e ideia de rotina de fim de semana
+- **Situação:** Gabriel passou uma lista rápida de itens em aberto, sem pedir análise, só pra não perder: (1) convite pra ativar o Gelato num evento da LIVE, aguardando contato final do organizador; (2) amanhã (09/11) cobrar o carrinho de ativação com o Maurício — é o mesmo carrinho que falta pro Siqueira Bem (28/11); (3) cobrar a nova plotagem do freezer (já era pendência conhecida, de 06/11); (4) fazer o financeiro hoje à noite; (5) ideia ainda não decidida — abrir sábado (e talvez domingo) como dia de venda, já que "nada funciona" nesses dias e são bons pra gelato, cogitando trocar a escala da Lorena (folga segunda em vez de sábado). Tudo adicionado em `memoria/pendencias.md`.
+- **Próximos passos:** (1, amanhã) cobrar carrinho com Maurício. (2, hoje à noite) financeiro. (3, esta semana) cobrar plotagem. (4, quando Gabriel quiser) analisar a ideia da rotina de fim de semana — ainda não é decisão, é algo a lembrar de olhar.
+- **O que falta saber:** detalhes do convite da LIVE (ainda sem contato final); se a troca de escala da Lorena é viável do lado dela.
+- **Pendência:** nenhuma análise pendente — são só itens a executar/lembrar, já listados em `memoria/pendencias.md`.
+- **Resultado:** (ainda sem resultado)
