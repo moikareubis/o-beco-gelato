@@ -289,7 +289,7 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **Próximos passos:** (1, hoje/amanhã) confirmar com o organizador da LIVE se o evento é sexta 13/11 ou sábado 14/11. (2, esta semana) confirmar plotagem feita na quarta (11/11). (3, esta semana) acompanhar produção do windbanner.
 - **O que falta saber:** data real do primeiro evento LIVE; se o carrinho de ativação aguenta as 3 datas sem precisar de um segundo.
 - **Pendência:** aguardando Gabriel confirmar a data certa do evento de novembro.
-- **Resultado:** (ainda sem resultado)
+- **Resultado:** Gabriel confirmou — é sábado, 14/11 mesmo (foi lapso dizer "sexta").
 
 ---
 
