@@ -264,3 +264,42 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** detalhes do convite da LIVE (ainda sem contato final); se a troca de escala da Lorena é viável do lado dela.
 - **Pendência:** nenhuma análise pendente — são só itens a executar/lembrar, já listados em `memoria/pendencias.md`.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-09
+- **Área:** comercial-b2b
+- **Decisão:** Carol recusou o freezer 1 (Vilas do Atlântico) — os 2 freezers estão de novo sem destino
+- **Situação:** O espaço da Carol não é ambiente controlado (sem ar-condicionado) — não faz sentido instalar o freezer lá. Isso invalida a proposta registrada em `comercial/propostas/2026-11-vilas-do-atlantico.md` (marcada como cancelada no arquivo) e o destino do freezer 1 registrado em `hub/log` 05/11. Gabriel precisa, sem falta amanhã (10/11), abordar clientes por e-mail/direct e checar leads do Instagram que já demonstraram interesse — ele precisa dos 2 freezers vendendo pra começar a ter renda com isso.
+- **Oportunidade e por quê:** É o motivo real pelo qual o PDF de captação (`comercial/pdf-captacao-ponto-parceiro.md`, escrito 07/11) importa agora — sustenta justamente esse tipo de abordagem em volume. Mas o preço de ponto parceiro ainda não foi confirmado por Gabriel (pendência desde 07/11), o que trava a tabela da página 7 do PDF. Vale avaliar se dá pra abordar os leads amanhã mesmo sem preço fechado (gerando interesse, preço como segunda conversa) ou se é melhor travar o preço primeiro — risco de falar número errado dois dias seguidos com leads diferentes.
+- **Prioridade:** alta — renda do negócio B2B depende de ter pelo menos 1 freezer vendendo, e hoje tem zero.
+- **Próximos passos:** (1, amanhã 10/11, sem falta) abordar clientes por e-mail/direct e revisar leads do Instagram. (2, antes ou durante isso) decidir com Gabriel se trava o preço de ponto parceiro primeiro ou aborda sem número fechado.
+- **O que falta saber:** preço de ponto parceiro vigente (mesma pendência de 07/11); se a Carol é só um "não" pontual ou se o critério de "ambiente controlado" precisa virar filtro explícito pra próximos leads (ar-condicionado como requisito).
+- **Pendência:** aguardando Gabriel decidir a abordagem de amanhã e confirmar o preço.
+- **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-09
+- **Área:** eventos
+- **Decisão:** Evento na LIVE confirmado (2x) e plotagem com data — mas a data do primeiro evento não bate com o dia da semana
+- **Situação:** Gabriel confirmou dois eventos na LIVE (marca de roupa fitness): o primeiro, que ele descreveu como "sexta-feira, dia 14" — mas 14/11/2026 cai num **sábado**, não sexta-feira, segundo o calendário. O segundo evento é 12/12. Windbanner do Siqueira Bem já está em produção no Canva. Plotagem do freezer agendada pra quarta-feira (11/11).
+- **Oportunidade e por quê:** Sequência de eventos fica: 14/11 (LIVE, data a confirmar), 28/11 (Siqueira Bem), 12/12 (LIVE) — três ativações em um mês, todas competindo pelo mesmo carrinho (ver pendência do Maurício). Vale mapear se o carrinho dá conta das três datas sem conflito.
+- **Prioridade:** média-alta — evento mais próximo (14/11) precisa da data certa confirmada antes de qualquer outra coisa (convite, material, carrinho) ser planejada em cima dela.
+- **Próximos passos:** (1, hoje/amanhã) confirmar com o organizador da LIVE se o evento é sexta 13/11 ou sábado 14/11. (2, esta semana) confirmar plotagem feita na quarta (11/11). (3, esta semana) acompanhar produção do windbanner.
+- **O que falta saber:** data real do primeiro evento LIVE; se o carrinho de ativação aguenta as 3 datas sem precisar de um segundo.
+- **Pendência:** aguardando Gabriel confirmar a data certa do evento de novembro.
+- **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-09
+- **Área:** marketing
+- **Decisão:** Pedido de conteúdo institucional urgente (saudabilidade, gelato × sorvete, tabela nutricional) — acha um bloqueio real antes de soltar a tabela
+- **Situação:** Gabriel quer "correr" com conteúdo institucional estratégico: saudabilidade, qualidade do gelato, diferença entre gelato e sorvete, como consumir, prós e contras, equilíbrio nutricional — e acha que soltar a tabela nutricional do produto vai ajudar bastante.
+- **Oportunidade e por quê:** O conteúdo institucional (categoria, diferença gelato×sorvete, como consumir) pode avançar sem travar em nada — é posicionamento de marca, já alinhado com a regra de escrita decidida (`memoria/produtos.md`: sobremesa primeiro, atributo só no fim). Mas a tabela nutricional esbarra numa regra dura já registrada no hub: `memoria/decisoes.md` regra 7 — "nenhuma afirmação nutricional vai para peça comercial ou de investidor antes de a ficha fechar" — e `producao/AGENTS-producao.md` já registra que a ficha de dois sabores Boost está abaixo do prometido (Café Proteico 1,4%, Brigadeiro Proteico 13%). Publicar a tabela nesse estado é risco real: número errado em peça pública é pior que não publicar nada.
+- **Prioridade:** alta pro conteúdo institucional (sem bloqueio); **bloqueada** pra tabela nutricional até a ficha fechar.
+- **Próximos passos:** (1, esta semana) produzir o conteúdo institucional que não depende de número (categoria, diferença gelato×sorvete, como consumir, prós e contras). (2, antes de soltar a tabela) fechar a ficha técnica dos sabores Boost com os números reais — ou publicar só os sabores com ficha fechada, deixando Boost de fora por enquanto.
+- **O que falta saber:** se a ficha técnica de Café Proteico e Brigadeiro Proteico tem previsão de fechar; se Gabriel quer publicar a tabela parcial (sem Boost) enquanto isso.
+- **Pendência:** aguardando Gabriel decidir entre esperar a ficha fechar ou publicar parcial.
+- **Resultado:** (ainda sem resultado)

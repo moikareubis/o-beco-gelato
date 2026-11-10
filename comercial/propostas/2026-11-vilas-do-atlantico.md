@@ -1,4 +1,8 @@
 # O Beco Gelato — Proposta Ponto Parceiro
+## Vilas do Atlântico · Freezer 1 — **CANCELADO (09/11)**
+
+> **A Carol recusou.** O espaço dela não é ambiente controlado (sem ar-condicionado) — não faz sentido pro freezer. Este documento fica só como referência/template; o freezer 1 está de novo sem destino. Ver `hub/memoria/pendencias.md` e `hub/log/2026-11-decisoes.md` (09/11) pro estado atual.
+
 ## Vilas do Atlântico · Freezer 1 (de 2 — o segundo vai pra outro ponto, fim de novembro/início de dezembro)
 
 > Rascunho de trabalho, baseado em `Beco-Gelato-Ponto-Parceiro.pdf` (modelo genérico de 1 freezer). **Correção 07/11:** os 2 freezers não vão para o mesmo ponto — são 2 pontos distintos, sequenciais. Este documento é só do freezer 1 (Vilas do Atlântico, instalação prevista 15–20/11, arte já aprovada, falta plotar). Volta a usar os números padrão de 1 freezer, sem dobrar nada.
