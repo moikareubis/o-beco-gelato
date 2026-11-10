@@ -303,3 +303,26 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** se a ficha técnica de Café Proteico e Brigadeiro Proteico tem previsão de fechar; se Gabriel quer publicar a tabela parcial (sem Boost) enquanto isso.
 - **Pendência:** aguardando Gabriel decidir entre esperar a ficha fechar ou publicar parcial.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-09
+- **Área:** eventos
+- **Decisão:** Prazo real do carrinho — adesivo precisa ser encomendado amanhã (10/11) pra colar sexta (13/11), véspera do evento
+- **Situação:** Carrinho de ativação previsto pronto na quinta (12/11). Gabriel se corrigiu em tempo real: o adesivo/plotagem do carrinho precisa ser encomendado amanhã (10/11), não na sexta, pra chegar a tempo de ser colado sexta-feira (13/11) — véspera do evento da LIVE (sábado, 14/11).
+- **Próximos passos:** (1, amanhã 10/11, sem falta) encomendar o adesivo do carrinho. (2, sexta 13/11, sem falta) colar o adesivo no carrinho pronto.
+- **Pendência:** nenhuma — só prazo a cumprir.
+- **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-09
+- **Área:** eventos
+- **Decisão:** Recomendação — brinde do evento LIVE (14/11): amostra do Boost + desconto WhatsApp, em vez de boné
+- **Situação:** Gabriel está pensando num brinde pequeno pro evento de sábado (sacola térmica, quantidade limitada por pessoa — "não pode ser muita"), cogitou sortear boné mas já desconfiou que não quer. Ele pediu explicitamente que eu traga sugestão em vez de só registrar a dúvida — feedback direto, vale pra daqui pra frente em qualquer área, não só nas 4 do foco atual.
+- **Oportunidade e por quê:** Loja é de roupa fitness — público já alinhado com a linha Boost (regra dura 10: proteína é atributo do Boost). Em vez de merch genérico (boné, sem ligação com o produto), sacola térmica com amostra real do Boost (prova de produto, equipe já leva degustação pra evento) + cartão de desconto na primeira compra via WhatsApp — converte presença em contato real, batendo direto na meta de 100 contatos de novembro que ainda está em aberto (`memoria/financeiro.md`) e segue a regra de CTA já decidida (WhatsApp primeiro). Pra algo maior, sortear 1 Kit Modo Treino (kit Boost recém-nomeado) em vez de comprar merch novo.
+- **Prioridade:** média — evento é sábado, dá pra decidir até lá.
+- **Próximos passos:** Gabriel decide se usa a sugestão, ajusta ou prefere outra coisa.
+- **O que falta saber:** quantas pessoas são esperadas no evento, pra calcular quantidade de sacolas/amostras.
+- **Pendência:** aguardando Gabriel decidir o brinde.
+- **Resultado:** (ainda sem resultado)
