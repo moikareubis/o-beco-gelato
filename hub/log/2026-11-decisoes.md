@@ -365,3 +365,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** nada.
 - **Pendência:** nenhuma.
 - **Resultado:** Feito — conferido visualmente no cardápio, preços e sabores batendo com o original.
+
+---
+
+- **Data:** 2026-11-10
+- **Área:** comercial-b2b
+- **Decisão:** Recomendação — plano priorizado pra vender mais, em cima do que já está parado ou pronto
+- **Situação:** Gabriel pediu pra otimizar estratégias de venda. Em vez de propor algo novo do zero, priorizei o que já existe parado ou pronto sem uso: B2B com 2 freezers sem destino desde 09/11, combos novos no iFood (10/11) ainda não anunciados, brinde do evento LIVE (14/11) ainda não decidido, achado de comissão real do iFood (26,2%) ainda sem resolução, e a ideia de abrir sábado ainda sem decisão.
+- **Oportunidade e por quê:** Ordem de prioridade dada: (1) destravar preço de ponto parceiro e retomar abordagem B2B — maior vazamento, dinheiro já investido nos freezers rendendo zero; (2) anunciar os combos novos pra base de WhatsApp/Instagram — conversão quase grátis, gente que já compra; (3) decidir o brinde do evento de sábado — só 4 dias restantes; (4) reforçar CTA WhatsApp enquanto a comissão real do iFood não é resolvida — protege margem sem depender do iFood; (5) decidir se testa abrir sábado — alavanca de volume sem investimento novo. Conteúdo institucional segue em paralelo, mas é efeito de médio prazo, não destrava venda essa semana.
+- **Prioridade:** alta.
+- **Próximos passos:** (1, hoje) decidir preço de ponto parceiro. (2, hoje) anunciar os combos novos nos canais próprios. (3, esta semana) decidir o brinde do evento de sábado. (4, contínuo) reforçar CTA WhatsApp nos Stories. (5, quando quiser) decidir o teste de sábado.
+- **O que falta saber:** nada novo — são pendências já registradas, só priorizadas.
+- **Pendência:** nenhuma nova.
+- **Resultado:** (ainda sem resultado)
