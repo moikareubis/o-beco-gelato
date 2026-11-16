@@ -339,3 +339,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** se Gabriel quer que algum dos 5 gaps vire pendência ativa agora ou fique só registrado.
 - **Pendência:** nenhuma nova — os gaps identificados não são pendências até Gabriel decidir que quer agir sobre eles.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-10
+- **Área:** comercial-b2b
+- **Decisão:** 3 combos criados de verdade no catálogo do iFood — Dupla do Agora (R$54,90), Mood do Dia (R$107,90), Beco Completo (R$174,91, com sacola térmica de brinde)
+- **Situação:** Gabriel pediu pra eu acessar o Portal do Parceiro iFood e montar os combos sem ele precisar fazer manualmente. Ele logou na sessão do navegador, e eu operei o cardápio a partir daí. Mudança de escopo no meio: Gabriel pediu 3 combos por quantidade (2, 4, 7 — todos os sabores), não os 6 kits antigos por linha; calculado com Special/Boost a R$29,90 mesmo o avulso no catálogo estando em R$27,90 (ele decidiu não corrigir o avulso, só usar R$29,90 como referência interna do combo — aceitando a inconsistência visual).
+- **Oportunidade e por quê:** Resolve de vez a pendência de "montar os combos no iFood" que vinha desde 05/11. Os 3 combos usam o mecanismo de "grupo de escolha" do iFood (máx. de potes = quantidade total do combo, não por sabor — o iFood não expõe um limite por sabor separado do limite total nessa tela simplificada). A sacola térmica do Beco Completo não virou item de cardápio — é brinde físico, só descrito no texto.
+- **Prioridade:** alta — resolvida.
+- **Próximos passos:** nenhum — combos publicados e confirmados visualmente no cardápio.
+- **O que falta saber:** nada.
+- **Pendência:** nenhuma.
+- **Resultado:** Feito — 3 combos ativos no cardápio real do iFood. Durante a operação, pausei a Torta de limão por engano por um instante (clique errado) e reativei na hora — sem impacto, mas registro pela transparência.

@@ -11,7 +11,7 @@ Lista viva — atualizada toda vez que uma pendência nasce ou se resolve (ver `
 - **eventos** — cobrar o carrinho de ativação com o Maurício (hoje, 09/11) — carrinho previsto pronto quinta (12/11).
 - **eventos** — **mandar fazer o adesivo/plotagem do carrinho amanhã (10/11), sem falta** — pra chegar a tempo de colar na sexta (13/11), véspera do evento da LIVE (sábado, 14/11).
 - **eventos** — plotagem do freezer agendada pra quarta-feira (11/11) — confirmar que aconteceu.
-- **financeiro-unit** — corrigir preço de Special/Boost no cardápio do iFood (R$25,90 → R$29,90) e confirmar no Portal do Parceiro qual plano de comissão está ativo (achado 06/11, ainda sem resultado — dinheiro saindo todo dia que não corrige).
+- **financeiro-unit** — confirmar no Portal do Parceiro qual plano de comissão está ativo (achado 06/11). **Nota 10/11:** conferi ao vivo no cardápio — Special/Boost avulso está em R$27,90, não R$25,90 como o achado registrou; parece que algo já foi ajustado parcialmente, mas não até o R$29,90 documentado. Gabriel decidiu (10/11) não corrigir o avulso por ora, só usar R$29,90 como referência interna dos combos.
 - **financeiro-unit** — financeiro de 08/11 à noite — confirmar se foi feito.
 - **portfolio** — Mousse de Maracujá com Cereais (Special), lançamento previsto pra semana de 09/11 — confirmar se a produção/ficha está pronta.
 
@@ -21,7 +21,7 @@ Lista viva — atualizada toda vez que uma pendência nasce ou se resolve (ver `
 - **eventos** — evento na LIVE confirmado, marca de roupa fitness: **sábado, 14/11** (Gabriel confirmou — era lapso, não sexta). Segundo evento na LIVE: 12/12.
 - **eventos** — Siqueira Bem · Summer Edition (28/11): windbanner já em produção no Canva (confirmar quando pronto), decidir cota (gratuita ou Areia R$1.700), escolher sabor (sugestão Boost), publicar post anunciando.
 - **eventos** — brinde/ativação pro evento da LIVE (sábado 14/11), ainda não decidido — Gabriel cogitou boné mas descartou. Sugestão registrada: sacola térmica com amostra do Boost + cartão de desconto pra primeira compra via WhatsApp (bate direto na meta de 100 contatos), dada só a quem interagir (segue Instagram), e sorteio de 1 Kit Modo Treino em vez de merch — a decidir com Gabriel.
-- **marketing** — atualizar cardápio/catálogo do iFood e Complexo Beco com os nomes novos dos 6 kits (Dupla do Agora, Mood do Dia, Monte seu Mood, Modo Treino, Modo Sofá, Modo Refresca) — nomes já confirmados por Gabriel, falta só aplicar.
+- **marketing** — atualizar o Complexo Beco (painel interno) com os nomes novos dos kits — **iFood já feito** (10/11: 3 combos criados direto no cardápio — Dupla do Agora R$54,90, Mood do Dia R$107,90, Beco Completo R$174,91 com sacola térmica; ver `memoria/produtos.md`). Modo Treino/Sofá/Refresca e Monte seu Mood seguem só como conceito pro canal direto/WhatsApp.
 - **marketing** — validar os 3 primeiros disparos reais da rotina automática de Stories (previstos 06/11, 9h/13h/19h Bahia — já deveriam ter rodado, confirmar) e decidir se mantém os conectores herdados (Gmail, Calendar, Canva, Docs) ou limpa.
 - **marketing** — aprovar o tom da 3ª versão da bio do Instagram (mais coloquial, 2 benchmarks novos — Caffeine Army, BOLD).
 - **trafego** — decidir se testa tráfego pago pequeno (R$150–300) apontando pro WhatsApp, e com qual valor.
