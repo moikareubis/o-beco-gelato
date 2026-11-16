@@ -13,6 +13,7 @@ Leia só este arquivo sempre. A partir dele: abra só a(s) área(s) relevante(s)
 - `memoria/decisoes.md` — regras duras, padrão visual, benchmarks de referência (Oakberry, Bacio di Latte).
 - `memoria/pendencias.md` — só pendência nascida de decisão do HUB, não duplica o Painel do Complexo Beco.
 - `memoria/calendario-conteudo.md` — o plano semanal de conteúdo e venda direta ("Do momento ao hábito"): calendário dia a dia, rotina de Stories, painel de acompanhamento.
+- `memoria/gtm.md` — visão consolidada de Go To Market (produto/mercado, posicionamento, objetivos, preço, marketing, vendas, distribuição, pós-venda, métricas, plano de ação), cada seção apontando pro arquivo/área fonte e com os gaps reais marcados. Não é fonte primária de nenhum fato — é o resumo que amarra os outros.
 
 ## areas/
 

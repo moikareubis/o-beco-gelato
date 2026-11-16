@@ -326,3 +326,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** quantas pessoas são esperadas no evento, pra calcular quantidade de sacolas/amostras.
 - **Pendência:** aguardando Gabriel decidir o brinde.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-16
+- **Área:** hub
+- **Decisão:** GTM consolidado escrito em `memoria/gtm.md`, a pedido de Gabriel
+- **Situação:** Gabriel trouxe um material genérico de framework de GTM (slides: dor do mercado, produto ideal, público-alvo, posicionamento, preço, marketing, vendas, distribuição, pós-venda, métricas, plano de ação) e pediu pra aplicar no Beco Gelato, nesta sessão.
+- **Oportunidade e por quê:** Montei `memoria/gtm.md` mapeando as 10 dimensões do framework pros fatos já decididos no hub (produtos, preços, canais, metas, calendário), cada seção apontando pro arquivo/área fonte — não é um documento novo de fatos, é o resumo que amarra o que já existe. No processo, ficaram explícitos 5 gaps reais que o hub não tinha resposta: (1) perfil formal de ponto parceiro B2B (surgiu com a recusa da Carol); (2) meta de mercado/marca além das metas de volume; (3) programa de fidelidade/pós-venda pro consumidor final; (4) orçamento de GTM consolidado; (5) a rotina de 10 propostas/dia de B2B ainda não roda de fato (trava na mesma pendência de preço de ponto parceiro).
+- **Prioridade:** média — é organização, não bloqueia nada que já estava em andamento.
+- **Próximos passos:** nenhum imediato — fica como referência; os gaps reais (3)-(5) são candidatos a pendência formal se Gabriel quiser agir sobre eles.
+- **O que falta saber:** se Gabriel quer que algum dos 5 gaps vire pendência ativa agora ou fique só registrado.
+- **Pendência:** nenhuma nova — os gaps identificados não são pendências até Gabriel decidir que quer agir sobre eles.
+- **Resultado:** (ainda sem resultado)
