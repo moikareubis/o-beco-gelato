@@ -352,3 +352,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** nada.
 - **Pendência:** nenhuma.
 - **Resultado:** Feito — 3 combos ativos no cardápio real do iFood. Durante a operação, pausei a Torta de limão por engano por um instante (clique errado) e reativei na hora — sem impacto, mas registro pela transparência.
+
+---
+
+- **Data:** 2026-11-10
+- **Área:** comercial-b2b
+- **Decisão:** Combos movidos pra categoria própria "Combos" — Gabriel pediu, já que tinham sido criados dentro de "Beco Special" por limitação da ferramenta
+- **Situação:** Gabriel notou que os 3 combos ficaram dentro da categoria "Beco Special" em vez de numa categoria própria. O iFood não deixa mover um combo já criado entre categorias nem editar a categoria depois — só na hora de criar. Também não há um jeito direto de criar uma categoria nova e vazia nessa versão simplificada do cardápio ("Criar categoria" não abre campo de nome).
+- **Oportunidade e por quê:** Solução encontrada: renomear a categoria "Menu Degustação" (já existia, vazia, sem uso) pra "Combos", recriar os 3 combos dentro dela com os mesmos dados exatos (nomes, sabores, preços), e remover as 3 cópias de dentro de "Beco Special". Cardápio final: Beco Fresh (2), Beco Boost (2), Beco Special (3, sem combos), Combos (3 — Dupla do Agora R$54,90, Mood do Dia R$107,90, Beco Completo R$174,91).
+- **Prioridade:** média — resolvida.
+- **Próximos passos:** nenhum.
+- **O que falta saber:** nada.
+- **Pendência:** nenhuma.
+- **Resultado:** Feito — conferido visualmente no cardápio, preços e sabores batendo com o original.
