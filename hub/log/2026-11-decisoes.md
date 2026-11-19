@@ -403,4 +403,17 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **Próximos passos:** Gabriel revisa o novo criativo (https://canva.com/d/tL5Ho_Dsq7xHcMH) e confirma se bate ou se precisa de mais um ajuste.
 - **O que falta saber:** se esse 2º criativo já serve ou se precisa de mais rodada.
 - **Pendência:** aguardando aprovação do criativo.
+- **Resultado:** Gabriel decidiu: produção do criativo visual fica com ele — duas tentativas via Canva não acertaram fonte/padrão da marca. Eu entrego o resto (estratégia, segmentação, copy pronto, briefing do criativo pra ele usar como referência).
+
+---
+
+- **Data:** 2026-11-19
+- **Área:** trafego
+- **Decisão:** Pacote completo de tráfego entregue — estratégia, segmentação e copy pronto pras 2 campanhas (engajamento + delivery/iFood), só falta o criativo visual (Gabriel produz)
+- **Situação:** Gabriel definiu a divisão de trabalho: ele produz o criativo visual (minha produção via Canva não bateu com o padrão da marca em duas tentativas), eu entrego todo o resto pronto pra ele plugar. Reescrevi `comercial/trafego-engajamento-delivery-2026-11.md` como pacote completo: configuração de campanha pro Meta Ads Manager (objetivo, público, posicionamento, orçamento), 3 variações de copy pra campanha de engajamento, 2 variações pra campanha de delivery/iFood, e um briefing do padrão visual da marca (tipografia, cores, composição) extraído das referências reais que Gabriel mandou, pra ele usar na hora de produzir.
+- **Oportunidade e por quê:** Fecha o ciclo de tráfego sem travar no criativo — assim que Gabriel tiver a peça pronta, ele só cola o copy e sobe. Salvei também uma lição de memória: produção de criativo visual que precisa bater exatamente com a identidade da marca não é algo que entrego bem via Canva/IA pra essa conta; nas próximas, vou pra estratégia/copy/briefing direto, sem insistir em gerar a peça final.
+- **Prioridade:** alta.
+- **Próximos passos:** (1) corrigir a bio do Instagram antes de ligar verba. (2) Gabriel produz os 2 criativos. (3) Gabriel cria as campanhas no Meta Ads Manager e iFood Ads com a config e o copy prontos. (4) decidir o teste de WhatsApp (R$150-300) junto. (5) confirmar o plano de comissão do iFood.
+- **O que falta saber:** nada novo.
+- **Pendência:** nenhuma da minha parte — aguardando Gabriel produzir o criativo e publicar.
 - **Resultado:** (ainda sem resultado)
