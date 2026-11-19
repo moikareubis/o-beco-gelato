@@ -378,3 +378,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** nada novo — são pendências já registradas, só priorizadas.
 - **Pendência:** nenhuma nova.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-19
+- **Área:** trafego
+- **Decisão:** Estratégia de campanha de engajamento/posicionamento + criativo pro delivery/iFood, verba R$500–1.000/mês, Gabriel publica direto
+- **Situação:** Gabriel pediu pra trabalhar a parte de tráfego: campanha de engajamento pra crescimento/posicionamento da marca, e um criativo pra rodar puxando pro delivery/iFood. Confirmou que publica ele mesmo (não a Nomads) e a verba é R$500–1.000/mês. Escrevi a estratégia completa em `comercial/trafego-engajamento-delivery-2026-11.md` e gerei o criativo no Canva.
+- **Oportunidade e por quê:** Puxei o Instagram ao vivo (`bdata scrape`, conexão já documentada em `areas/trafego.md`) antes de montar a campanha — achado: a bio ainda está na versão antiga ("15g de proteína" antes de "Prazer e performance"), quebrando a própria regra de escrita da marca. Qualquer clique de anúncio pago cai nessa bio — corrigir isso é o passo mais barato antes de ligar verba. Campanha de engajamento usa objetivo "Engajamento" (não Alcance), mantendo a regra de não medir alcance/seguidores. Criativo usa os 3 combos recém-lançados no iFood (10/11, ainda não divulgados) como gancho — mas empurra tráfego pro canal de comissão mais alta (26,2%, ainda sem confirmação), contra a regra padrão de CTA (WhatsApp primeiro). Decisão de Gabriel, registrada, não revertida.
+- **Prioridade:** alta.
+- **Próximos passos:** (1, antes de ligar verba) corrigir a bio do Instagram pra versão aprovada. (2) Gabriel sobe o criativo (link Canva: https://canva.link/4a567av4lyxprhx) e cria as campanhas no Meta Ads Manager. (3) decidir o teste de WhatsApp (R$150–300) junto, cabe na mesma verba. (4) confirmar o plano de comissão do iFood.
+- **O que falta saber:** se Gabriel quer corrigir a bio antes ou rodar a campanha em paralelo.
+- **Pendência:** aguardando Gabriel revisar o criativo e decidir sobre a bio.
+- **Resultado:** (ainda sem resultado)
