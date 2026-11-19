@@ -391,3 +391,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** se Gabriel quer corrigir a bio antes ou rodar a campanha em paralelo.
 - **Pendência:** aguardando Gabriel revisar o criativo e decidir sobre a bio.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-19
+- **Área:** trafego
+- **Decisão:** Criativo corrigido 2x — fonte errada e produto genérico na 1ª versão; Gabriel mandou referências reais, refiz com foto real do pote e tipografia certa
+- **Situação:** Gabriel recusou o 1º criativo ("muito feio... não é a fonte que usamos; não é nosso pote nem estilo de gelato que trabalhamos") e mandou 7 referências reais da marca (posts e peças publicitárias já existentes). Delas, dá pra confirmar: tipografia condensada bold tipo Anton/Druk (não a fonte genérica que o Canva tinha usado), pote real com embalagem de padrão camuflado verde-oliva/bege, fundo sempre em cor sólida (oliva, blush, marrom, nunca verde quase preto), headline curto de 1-2 linhas, logo "O BECO" caixa alta + "gelato" script sublinhado.
+- **Oportunidade e por quê:** Subi duas fotos reais do produto (pote de Alfajor e sacola de delivery) como assets no Canva e gerei de novo usando a foto real do pote como imagem principal, não mais produto inventado pela IA. Resultado: `comercial/trafego-engajamento-delivery-2026-11.md` segue valendo pra estratégia, só o link do criativo mudou.
+- **Prioridade:** alta.
+- **Próximos passos:** Gabriel revisa o novo criativo (https://canva.com/d/tL5Ho_Dsq7xHcMH) e confirma se bate ou se precisa de mais um ajuste.
+- **O que falta saber:** se esse 2º criativo já serve ou se precisa de mais rodada.
+- **Pendência:** aguardando aprovação do criativo.
+- **Resultado:** (ainda sem resultado)
