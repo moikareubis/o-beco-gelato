@@ -456,3 +456,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** escopo exato (só tendência de mercado/concorrência, ou também preço de insumo-chave, notícia regulatória) e cadência da automação, se ele quiser.
 - **Pendência:** aguardando Gabriel decidir se formaliza a área e autoriza a rotina agendada.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-21
+- **Área:** inteligencia-mercado
+- **Decisão:** Rotina agendada criada e ativa (segunda-feira, 8h Bahia) — pesquisa tendência/concorrente/preço de insumo/notícia e abre PR semanal no repositório o-beco-gelato
+- **Situação:** Gabriel confirmou "sim, formaliza e agenda" após a proposta da 9ª área. Formalizei a área (`hub/areas/inteligencia-mercado.md`), atualizei `INDEX.md` e o Painel do Complexo Beco (8 → 9 áreas), enviei os commits pendentes pro GitHub (autorizado por ele, repo estava 16 commits atrás) e criei a rotina via `RemoteTrigger`.
+- **Oportunidade e por quê:** A rotina clona `o-beco-gelato`, lê `hub/areas/inteligencia-mercado.md` e `hub/memoria/decisoes.md` pra saber o formato e as regras (regra dura 7 incluída), busca na web, registra achado no formato padrão em `hub/log/`, e abre PR — nunca dá merge sozinha. Tirei os conectores (Gmail, Canva, Calendar etc.) que vieram anexados por padrão, já que a tarefa só precisa de busca na web e git.
+- **Prioridade:** média.
+- **Próximos passos:** primeiro disparo automático segunda, 23/11 às 8h (Bahia). Gabriel revisa o PR quando chegar (https://claude.ai/code/routines/trig_01G5HUSoLsDWhBj2Y2ErDp55 pra ver/gerenciar a rotina).
+- **O que falta saber:** nada novo.
+- **Pendência:** nenhuma da minha parte — aguardando o primeiro PR da rotina pra revisão.
+- **Resultado:** (ainda sem resultado)
