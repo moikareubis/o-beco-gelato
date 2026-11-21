@@ -25,6 +25,7 @@ Leia só este arquivo sempre. A partir dele: abra só a(s) área(s) relevante(s)
 - `areas/loja.md` — Operação de Loja/Ponto. Consultar para execução no ponto de venda.
 - `areas/portfolio.md` — Portfólio & Preço. Consultar para lançar/descontinuar/reposicionar sabor ou linha.
 - `areas/financeiro-unit.md` — Financeiro & Unit Economics. Consultar para margem por canal/ponto.
+- `areas/inteligencia-mercado.md` — Inteligência de Mercado & Tendências. Consultar para tendência de consumo, concorrente, preço de insumo-chave, notícia do setor. Não depende do Foco atual (sempre proativa) e é alimentada por rotina agendada (ver `schedule`).
 
 ## log/
 

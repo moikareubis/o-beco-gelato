@@ -417,3 +417,42 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** nada novo.
 - **Pendência:** nenhuma da minha parte — aguardando Gabriel produzir o criativo e publicar.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-21
+- **Área:** financeiro-unit
+- **Decisão:** Nova área "CMV & Margem" criada dentro do Complexo Beco (não como artefato novo) — cruza o CMV real por sabor com o preço de cada canal pra mostrar margem de lucro
+- **Situação:** Gabriel mandou o JSON de um app separado que ele tinha ("O Beco Gelato — Hub de Gestão") e pediu pra não criar artefato novo, e sim incorporar aquele layout/funcionalidade no hub atual (Complexo Beco, seu "escritório virtual"). Esclareceu o pedido real: não quer uma área de Produção nova, quer **enxergar CMV, calcular custo e entender margem**. Mensagem seguinte confirmou: "cruzar com informações pra enxergar custo, margem de lucro".
+- **Oportunidade e por quê:** O Complexo Beco já tinha Vendas/Financeiro/Produção, mas o modelo de custo em Vendas era um custo fixo por canal (não por sabor) — não dava pra ver margem real por sabor. Li a estrutura completa do Complexo Beco (nav, páginas, roteador) e criei a página `cmv` dentro do mesmo arquivo: cruza o CMV por sabor (do export de produção 06-11 a 21-11: Alfajor 6.96, Brigadeiro 7.60, Torta de Limão 8.11, Café 8.33, Pistache 10.41, Sorbet Morango 4.31, Manga 5.45 — insumo+embalagem) com o preço de cada canal (parceiro 17.03, loja da mãe 18.34, iFood avulso 27.90 líquido da comissão, retirada/entrega 25.20), mostrando margem em R$ e % por combinação. CMV e a comissão do iFood (26,21% real vs 12% documentado — ainda sem confirmação) ficam editáveis e salvos no mesmo banco do artefato. Resumo aponta a pior/melhor combinação e avisa que Alfajor/Torta/Pistache têm margem inflada (falta custear o óleo de coco Purilev). Testei localmente (servidor já em uso, sem novo processo) antes de publicar — sem erros de console, cálculos confirmados manualmente. Publiquei na mesma URL do Complexo Beco (não um artefato novo), como pedido.
+- **Prioridade:** alta.
+- **Próximos passos:** Gabriel conferir a área nova no Complexo Beco (menu Financeiro → "CMV & Margem"). Quando o custo do óleo de coco Purilev for cadastrado no sistema de produção, atualizar o CMV de Alfajor/Torta/Pistache ali. Se quiser, posso cruzar isso também com os potes vendidos por mês (Vendas) pra estimar contribuição real mensal — hoje Vendas não quebra por sabor, só por canal.
+- **O que falta saber:** se Gabriel quer esse próximo passo (contribuição mensal real por sabor) ou se a visão teórica por pote já resolve.
+- **Pendência:** nenhuma da minha parte — aguardando Gabriel ver e validar a área nova.
+- **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-21
+- **Área:** financeiro-unit
+- **Decisão:** CMV & Margem atualizada — óleo de coco Purilev entrou no custo (R$35/500ml) e a página agora cruza com Vendas pra estimar contribuição mensal/acumulada por sabor
+- **Situação:** Gabriel informou o preço do óleo de coco Purilev (primeiro disse R$60/500ml, corrigiu em seguida pra R$35/500ml) — pendência que estava aberta desde o export de produção 06-21/11. Na sequência, confirmou que queria cruzar a área nova com Vendas pra ver contribuição real.
+- **Oportunidade e por quê:** Com densidade estimada de 0,92 g/mL (óleo de coco), R$35/500ml vira ~R$0,076/g. Aplicado à quantidade de óleo por pote de cada receita (19,5 g/kg no Alfajor pote 135g, 32,9 g/kg na Torta pote 140g, 20 g/kg no Pistache pote 140g), o acréscimo é R$0,20, R$0,35 e R$0,21 respectivamente — CMV novo: Alfajor R$7,16, Torta de Limão R$8,46, Pistache R$10,62. Adicionei também: mix de vendas por sabor (editável, hoje palpite igualitário 1/7, porque Vendas só registra potes por canal, não por sabor), e duas seções que cruzam esse mix com os potes vendidos no mês (lidos da página Vendas) e a margem por sabor/canal, pra estimar a contribuição do mês atual e a acumulada desde o início. Testei localmente sem erros antes de publicar.
+- **Prioridade:** média.
+- **Próximos passos:** Gabriel conferir se a densidade assumida (0,92 g/mL) bate com o peso real do vidro de óleo; se não, corrigir o CMV direto na tabela. Ajustar o mix de vendas por sabor pra algo mais realista que 1/7 cada.
+- **O que falta saber:** o mix real de vendas por sabor.
+- **Pendência:** nenhuma da minha parte — aguardando Gabriel conferir.
+- **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-21
+- **Área:** inteligencia-mercado (proposta — ainda não é uma das 8 áreas oficiais)
+- **Decisão:** Removida a Camada B2B do Complexo Beco (ficava sem conteúdo real, era lacuna vazia) e demonstrada, com busca real, a ideia de uma 9ª área de Inteligência de Mercado & Tendências — ainda não criada oficialmente, aguardando Gabriel confirmar escopo/cadência
+- **Situação:** Gabriel deu uma devolutiva dura sobre o estado do HUB/Complexo Beco: "muito fraco, muito fraco" — quer que funcione como uma empresa com funcionários de IA trabalhando o dia inteiro, não um painel passivo. Pediu mapa de bairro e tabela comercial mantidos, Camada B2B removida, Agenda de Ativação mantida por ora, e deixou claro que falta a camada de "o que posso/não posso fazer, insights, tendência, notícia" (ex.: abertura de loja, saída de insumo do mercado) atualizando-o sem ele precisar pedir.
+- **Oportunidade e por quê:** Removi a Camada B2B do nav (era um placeholder, nunca teve conteúdo — ver `producao/AGENTS...` não, na verdade era vazio desde a criação do Complexo Beco). Pra mostrar o que a camada de inteligência contínua seria na prática (não só descrever), fiz 2 buscas reais agora: (1) tendência de mercado — "indulgência permissiva" é o eixo do setor de sorvetes/gelato no Brasil, zero açúcar ganhando espaço (consumo de açúcar caiu 21,2% desde 2022), formatos menores e sabores pra Geração Z em alta, tensão regulatória em torno do rótulo "zero"/"natural" (relevante pra nossa regra dura 7 de claim nutricional), e Gelato Borelli como benchmark concreto (28 sabores zero, 7,5% do faturamento); (2) preço de mercado do óleo de coco — varejo online hoje gira R$38–50/500ml, o que valida o R$35/500ml que Gabriel informou como um preço competitivo, não subestimado.
+- **Prioridade:** média — é uma proposta de estrutura nova, não uma correção urgente.
+- **Próximos passos:** Gabriel decidir se formaliza essa 9ª área (nome, qual pergunta ela responde, como ela cruza com as outras 8) e se quer isso automatizado por rotina agendada (cloud routine, cadência diária/semanal a definir) em vez de só sob pedido. Nenhuma automação recorrente foi criada — carece do sim explícito dele antes.
+- **O que falta saber:** escopo exato (só tendência de mercado/concorrência, ou também preço de insumo-chave, notícia regulatória) e cadência da automação, se ele quiser.
+- **Pendência:** aguardando Gabriel decidir se formaliza a área e autoriza a rotina agendada.
+- **Resultado:** (ainda sem resultado)
