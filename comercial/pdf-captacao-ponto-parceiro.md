@@ -68,7 +68,7 @@ Sem número inflado e sem compromisso que a operação não sustente — só o q
 | | |
 |---|---|
 | Giro de referência | 300 potes/mês, ponto ativo |
-| Margem na venda sugerida | [confirmar %, ver preço] |
+| Margem na venda sugerida | 41,5% a 43,8% |
 | Investimento em freezer | R$ 0 — comodato |
 | Validação | 90 dias, sem multa |
 
@@ -83,18 +83,18 @@ Sem número inflado e sem compromisso que a operação não sustente — só o q
 
 ## Página 7 — A tabela (o preço é só a confirmação do que você já decidiu)
 
-*[CONFIRMAR — preencher quando Gabriel definir o preço vigente de ponto parceiro; ver pendência em `hub/log/2026-11-decisoes.md`, 07/11]*
+*Preço de atacado confirmado por Gabriel em 23/11/2026 (vale desde 26/10). Venda sugerida: a da Tabela Comercial (R$ 29,90 Fresh, R$ 32,90 Special e Boost).*
 
 | Sabor | Linha | Você paga | Venda sugerida | Sua margem | % |
 |---|---|---|---|---|---|
-| Sorbet Morango | FRESH | R$ — | R$ — | R$ — | —% |
-| Manga com Maracujá | FRESH | R$ — | R$ — | R$ — | —% |
-| Torta de Limão | SPECIAL | R$ — | R$ — | R$ — | —% |
-| Pistache | SPECIAL | R$ — | R$ — | R$ — | —% |
-| Café Proteico | BOOST | R$ — | R$ — | R$ — | —% |
-| Brigadeiro Proteico | BOOST | R$ — | R$ — | R$ — | —% |
+| Sorbet Morango | FRESH | R$ 17,50 | R$ 29,90 | R$ 12,40 | 41,5% |
+| Manga com Maracujá | FRESH | R$ 17,50 | R$ 29,90 | R$ 12,40 | 41,5% |
+| Torta de Limão | SPECIAL | R$ 18,50 | R$ 32,90 | R$ 14,40 | 43,8% |
+| Pistache | SPECIAL | R$ 18,50 | R$ 32,90 | R$ 14,40 | 43,8% |
+| Café Proteico | BOOST | R$ 18,50 | R$ 32,90 | R$ 14,40 | 43,8% |
+| Brigadeiro Proteico | BOOST | R$ 18,50 | R$ 32,90 | R$ 14,40 | 43,8% |
 
-**O que o pedido mínimo faz no seu caixa:** pedido de 120 potes (72 Fresh, 48 Special/Boost) — [recalcular quando o preço fechar: valor investido → valor de venda → margem por ciclo].
+**O que o pedido mínimo faz no seu caixa:** pedido de 120 potes (72 Fresh, 48 Special/Boost): você investe R$ 2.148, vende por R$ 3.732 e fica com R$ 1.584 de margem por ciclo (42,4%).
 
 ---
 
@@ -124,4 +124,4 @@ Responda esta proposta com o melhor dia e horário pra gente levar os seis sabor
 
 Esse documento é o **genérico de captação**, usado nas 10 propostas/dia pra quem ainda não conhece o produto. Quando um ponto específico já está encaminhado (caso Vilas do Atlântico, `comercial/propostas/2026-11-vilas-do-atlantico.md`), a página 9 (fechamento) muda de "vamos marcar a degustação" pra "próximos passos reais" daquele ponto — o resto (quem somos, diferencial, linha, modelo, tabela) é o mesmo em todos.
 
-**Pendência que trava a página 7 em todos os dois documentos:** preço de ponto parceiro vigente. Assim que Gabriel confirmar, atualizo os dois arquivos e `memoria/produtos.md` juntos, numa passada só.
+**Preço da página 7:** confirmado em 23/11 (R$ 18,50 Special e Boost, R$ 17,50 Fresh), já em `memoria/produtos.md` e na Tabela Comercial do Complexo Beco. A proposta de Vilas do Atlântico ficou sem atualizar porque o ponto recusou o freezer em 09/11.

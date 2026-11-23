@@ -495,3 +495,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** se o preço sugerido de balcão para o parceiro (R$ 29,90 Fresh / R$ 32,90 Special e Boost) continua.
 - **Pendência:** nenhuma sobre o preço; falta só atualizar as peças comerciais.
 - **Resultado:** Preço registrado em `memoria/produtos.md` e no Complexo Beco.
+
+---
+
+- **Data:** 2026-11-23
+- **Área:** comercial-b2b
+- **Decisão:** Tabela Comercial e PDF de captação atualizados com o preço de atacado novo
+- **Situação:** Com o preço de atacado confirmado (R$ 18,50 Special e Boost, R$ 17,50 Fresh), as duas peças de ponto parceiro foram refeitas. Venda sugerida de balcão mantida (R$ 29,90 Fresh, R$ 32,90 Special e Boost).
+- **Oportunidade e por quê:** A margem do revendedor subiu de cerca de 38% para 41,5% (Fresh) e 43,8% (Special e Boost), R$ 13,73 por pote na média. Na Tabela Comercial, o ganho mensal por freezer passou para R$ 824 (Beco P), R$ 1.648 (Beco M) e R$ 3.295 (Beco V). No PDF de captação, o pedido mínimo de 120 potes vira R$ 2.148 investidos, R$ 3.732 de venda e R$ 1.584 de margem. É argumento de venda mais forte para a retomada da prospecção.
+- **Prioridade:** alta.
+- **Próximos passos:** usar as peças atualizadas na próxima abordagem de ponto parceiro (próximo contato).
+- **O que falta saber:** se a venda sugerida de balcão continua R$ 29,90 / R$ 32,90.
+- **Pendência:** nenhuma.
+- **Resultado:** Peças atualizadas no Complexo Beco (Comercial & Parcerias) e em `comercial/pdf-captacao-ponto-parceiro.md`.
