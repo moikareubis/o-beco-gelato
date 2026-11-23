@@ -469,3 +469,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** nada novo.
 - **Pendência:** nenhuma da minha parte — aguardando o primeiro PR da rotina pra revisão.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-23
+- **Área:** financeiro-unit
+- **Decisão:** Complexo Beco reestruturado (9 áreas na lateral, dashboard, identidade do Hub de Gestão) e CMV recalculado a partir dos insumos reais; preço da loja da família 10% menor desde 26/10
+- **Situação:** Gabriel cobrou que o Hub estava fraco: abas soltas em vez de áreas, layout do JSON não aplicado, Painel sem análise e planilha preenchida com "pote fechado" em vez dos insumos. Refeito: a lateral agora são as 9 áreas, cada ferramenta mora na sua (Tabela → Comercial, Mapa → Expansão, Agenda → Eventos, Preço e Rotas → Portfólio, Estoque → Operação, CMV/Vendas/Centro de custo → Financeiro), a Visão geral é um dashboard com faturamento, potes, contribuição e resultado reais, e o visual segue o Hub de Gestão (oliva/marrom, Manrope + DM Sans). O Painel antigo mostrava "sem análise" porque duas entradas minhas de 21/11 gravaram os próximos passos como texto em vez de lista e quebraram a tela; corrigido no banco.
+- **Oportunidade e por quê:** CMV calculado como o Balanceador calcula (receita de 21/11 em g/kg × preço do insumo do backup de 24/10, 3% de perda, R$ 1,67 de embalagem): Sorbet 4,31 · Manga 5,56 · Alfajor 6,76 · Brigadeiro 7,60 · Torta 7,72 · Café 8,33 · Pistache 10,18. Os números de 21/11 estavam errados porque somavam o óleo de coco por cima do creme de leite que ele substituiu. Os 13 pedidos reais foram para o banco (coleção `pedidos`, R$ 24.859,60, 1.284 potes) e novos pedidos entram pelo próprio Hub. Achado: desde o pedido 000009 (26/10) a loja da família paga R$ 18,50 / R$ 17,50 em vez de R$ 20,50 / R$ 18,70, o que tirou R$ 824 de contribuição só em novembro. Outubro fechou R$ 347 acima do custo fixo; novembro está R$ 643 abaixo até o dia 20. Ponto de equilíbrio: 459 potes/mês. A planilha de precificação foi refeita sem tocar nas fórmulas do modelo: 62 insumos com preço, 7 fichas técnicas com cada insumo em gramas, custo operacional real (faturamento de set a nov, R$ 5.000 de fixo) e preço sugerido por sabor.
+- **Prioridade:** alta.
+- **Próximos passos:** confirmar se o preço da loja da família é desconto combinado ou erro de cobrança (antes do próximo pedido); lançar os potes do iFood de novembro em Financeiro › Vendas e resultado (fim do mês).
+- **O que falta saber:** se o preço de R$ 18,50 / R$ 17,50 continua; volume real do iFood.
+- **Pendência:** Gabriel confirmar o preço da loja da família.
+- **Resultado:** (ainda sem resultado)
