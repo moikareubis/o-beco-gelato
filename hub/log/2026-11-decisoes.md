@@ -482,3 +482,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** se o preço de R$ 18,50 / R$ 17,50 continua; volume real do iFood.
 - **Pendência:** Gabriel confirmar o preço da loja da família.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-23
+- **Área:** financeiro-unit
+- **Decisão:** Preço de atacado confirmado: R$ 18,50 (Special e Boost) e R$ 17,50 (Fresh)
+- **Situação:** Gabriel confirmou que o preço cobrado da loja da família desde o pedido 000009 (26/10) é o novo preço de venda no atacado, não desconto nem erro.
+- **Oportunidade e por quê:** Aplicado no Complexo Beco à loja da família e ao ponto parceiro (o preço de ponto parceiro estava pendente desde 07/11 com três tabelas em conflito). A sobra média por pote no atacado fica em R$ 9,94 (54% do preço); no iFood segue maior, R$ 11,52.
+- **Prioridade:** alta.
+- **Próximos passos:** atualizar a Tabela Comercial do Complexo Beco e o PDF de captação de ponto parceiro, que ainda mostram R$ 20,50 / R$ 18,70 e as margens do revendedor calculadas sobre eles (antes de qualquer nova abordagem B2B).
+- **O que falta saber:** se o preço sugerido de balcão para o parceiro (R$ 29,90 Fresh / R$ 32,90 Special e Boost) continua.
+- **Pendência:** nenhuma sobre o preço; falta só atualizar as peças comerciais.
+- **Resultado:** Preço registrado em `memoria/produtos.md` e no Complexo Beco.

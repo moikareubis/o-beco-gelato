@@ -1614,13 +1614,13 @@ const AREAS = [
 const LEGADO = {painel_hub:"visao", cmv:"financeiro", vendas:"financeiro-vendas", direto:"portfolio", producao:"operacao",
                 mapa:"expansao", tabela:"comercial", agenda:"eventos", b2b:"comercial"};
 const CANAIS = [
-  {id:"familia", nome:"Loja da família", nota:"preço dos pedidos desde 26/10"},
-  {id:"parceiro", nome:"Ponto parceiro", nota:"Tabela Comercial; preço vigente a confirmar"},
+  {id:"familia", nome:"Loja da família", nota:"preço de atacado desde 26/10"},
+  {id:"parceiro", nome:"Ponto parceiro", nota:"mesmo preço de atacado desde 26/10"},
   {id:"ifood", nome:"iFood", nota:"avulso no cardápio, com comissão"},
   {id:"direto", nome:"Venda direta", nota:"retirada e entrega pelo WhatsApp"}
 ];
 const CFG_PADRAO = {simples:0.045, comissaoIfood:0.2621, fixo:5000, meta:1000,
-  precos:{familia:{sb:18.5, f:17.5}, parceiro:{sb:20.5, f:18.7}, ifood:{sb:27.9, f:25.9}, direto:{sb:25.9, f:22.9}}};
+  precos:{familia:{sb:18.5, f:17.5}, parceiro:{sb:18.5, f:17.5}, ifood:{sb:27.9, f:25.9}, direto:{sb:25.9, f:22.9}}};
 const INVESTIDO = {saiu:137622.98, aPagar:17548.52, fonte:"backup do Balanceador de 24/10"};
 
 const MESES = ["jan","fev","mar","abr","mai","jun","jul","ago","set","out","nov","dez"];
@@ -1943,10 +1943,10 @@ VIEWS.dash = function(host){
     o.pedidos.filter(p => canalPedido(p) === "familia").forEach(p => (p.itens || []).forEach(it => {
       if(!REC[it.sabor]) return; const x = it.linha === "Fresh" ? f : sb; if(x && +it.preco === x.para) perda += (x.de - x.para) * (+it.qtd || 0);
     }));
-    host.append(h("div", {class:"hb-banner warn"}, h("span", {class:"ico", "aria-hidden":"true"}, "!"),
-      h("div", {class:"tx"}, h("strong", null, "A loja da família está pagando menos por pote desde o pedido " + ref.numero + " (" + dataCurta(ref.data) + ")."),
-        h("p", null, [sb ? "Special e Boost caíram de " + brl(sb.de) + " para " + brl(sb.para) : null, f ? "Fresh de " + brl(f.de) + " para " + brl(f.para) : null].filter(Boolean).join("; ") +
-          (perda > 0 ? ". Em " + mesLabel(mes, true) + " isso tirou " + brl(perda, 0) + " da contribuição." : ". Esse preço não está registrado em nenhuma tabela."))),
+    host.append(h("div", {class:"hb-banner"}, h("span", {class:"ico", "aria-hidden":"true"}, "i"),
+      h("div", {class:"tx"}, h("strong", null, "Preço de atacado novo desde o pedido " + ref.numero + " (" + dataCurta(ref.data) + ")."),
+        h("p", null, [sb ? "Special e Boost de " + brl(sb.de) + " para " + brl(sb.para) : null, f ? "Fresh de " + brl(f.de) + " para " + brl(f.para) : null].filter(Boolean).join("; ") +
+          (perda > 0 ? ". Em " + mesLabel(mes, true) + " são " + brl(perda, 0) + " a menos de contribuição do que na tabela antiga." : "."))),
       h("a", {href:"#financeiro"}, "Ver margem por canal →")));
   }
   host.append(filtroMes(desenhar, "Pedidos de atacado registrados e potes lançados no iFood e na venda direta."));
@@ -2047,7 +2047,7 @@ VIEWS.cmv = function(host){
       h("label", null, "Simples Nacional (%)", inp(+(S.cfg.simples * 100).toFixed(2), "0.1", v => { S.cfg.simples = v / 100; }, "Simples em %")),
       h("label", null, "Custo fixo mensal (R$)", inp(S.cfg.fixo, "100", v => { S.cfg.fixo = v; }, "custo fixo mensal")),
       h("label", null, "Meta de potes por mês", inp(S.cfg.meta, "50", v => { S.cfg.meta = v; }, "meta de potes"))),
-    h("p", {class:"hb-note"}, h("b", null, "De onde vêm. "), "Loja da família: preço de todos os pedidos desde o 000009 (26/10). Ponto parceiro: Tabela Comercial, ainda a confirmar. iFood: avulso no cardápio, com os 26,21% de comissão medidos no Portal; o plano não está confirmado. Venda direta: tabela de preços da marca. Simples de 4,5% ainda a confirmar com o contador.")));
+    h("p", {class:"hb-note"}, h("b", null, "De onde vêm. "), "Atacado (loja da família e ponto parceiro): R$ 18,50 e R$ 17,50, preço novo confirmado por você, vale desde o pedido 000009 (26/10). iFood: avulso no cardápio, com os 26,21% de comissão medidos no Portal; o plano não está confirmado. Venda direta: tabela de preços da marca. Simples de 4,5% ainda a confirmar com o contador.")));
 
   /* fichas técnicas */
   host.append(h("div", {class:"hb-sh"}, h("h2", null, "Ficha técnica de cada sabor"), h("span", null, "receita oficial de 21/11 · toque para abrir")));

@@ -36,8 +36,8 @@ Estoque e vendas acumuladas são dado do dia — ver Complexo Beco, não aqui.
 
 ## Canais
 
-- **Ponto parceiro:** compra a R$ 15,50–17,50. Papel: volume — paga menos por pote, mas leva muitos de uma vez, sem custo de atenção. Margem mínima do revendedor: 32%.
-- **Loja da família (O Beco Saudável):** compra a R$ 16,50–18,90.
+- **Ponto parceiro:** compra no preço de atacado: R$ 18,50 (Special e Boost) e R$ 17,50 (Fresh), confirmado por Gabriel em 23/11 (vale desde 26/10). Papel: volume — paga menos por pote, mas leva muitos de uma vez, sem custo de atenção. Margem mínima do revendedor: 32%.
+- **Loja da família (O Beco Saudável):** compra no mesmo preço de atacado, R$ 18,50 / R$ 17,50, desde o pedido 000009 (26/10). Antes era R$ 20,50 / R$ 18,70.
 - **iFood:** taxa de 12%. Papel: canal de busca, não de descoberta — quem abre o app já decidiu que quer sobremesa. Preço próprio (+14,4% sobre o direto) para a contribuição empatar com a retirada; isso quebra de propósito a regra de preço único, que foi escrita para gôndola física.
 - **Direto/WhatsApp:** retirada ou entrega própria. O canal mais rentável — vale de R$ 2 a R$ 3 mais por pote que o iFood.
 - **Regra de CTA:** WhatsApp primeiro, iFood depois. iFood é para quem não conhece; WhatsApp é para quem já conhece.
