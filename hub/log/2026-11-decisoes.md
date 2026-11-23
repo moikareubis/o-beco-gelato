@@ -521,3 +521,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** teto do Fresh no ponto parceiro.
 - **Pendência:** margem da loja da família abaixo do mínimo de 32% no Special e Boost.
 - **Resultado:** Peças comerciais e `memoria/produtos.md` atualizados.
+
+---
+
+- **Data:** 2026-11-23
+- **Área:** comercial-b2b
+- **Decisão:** Ponto parceiro revende todos os sabores por até R$ 27,90, Fresh incluído
+- **Situação:** Gabriel confirmou que o teto de revenda do parceiro é R$ 27,90 também no Fresh.
+- **Oportunidade e por quê:** Margem do parceiro no Fresh sobe para 37,3% (R$ 10,40 por pote); média de R$ 9,73 e 34,9%. Ganho por freezer: R$ 584 (P), R$ 1.168 (M), R$ 2.336 (V). Pedido mínimo de 120 potes: R$ 2.148 investidos, R$ 3.348 de venda, R$ 1.200 de margem. Tabela Comercial, PDF de captação e `memoria/produtos.md` atualizados.
+- **Prioridade:** alta.
+- **Próximos passos:** usar as peças na próxima abordagem de ponto parceiro (próximo contato).
+- **O que falta saber:** nada sobre preço do parceiro.
+- **Pendência:** nenhuma.
+- **Resultado:** Peças atualizadas.
