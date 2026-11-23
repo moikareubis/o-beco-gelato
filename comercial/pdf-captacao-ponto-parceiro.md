@@ -68,7 +68,7 @@ Sem número inflado e sem compromisso que a operação não sustente — só o q
 | | |
 |---|---|
 | Giro de referência | 300 potes/mês, ponto ativo |
-| Margem na venda sugerida | 41,5% a 43,8% |
+| Margem na venda sugerida | 32,4% a 33,7% |
 | Investimento em freezer | R$ 0 — comodato |
 | Validação | 90 dias, sem multa |
 
@@ -83,18 +83,18 @@ Sem número inflado e sem compromisso que a operação não sustente — só o q
 
 ## Página 7 — A tabela (o preço é só a confirmação do que você já decidiu)
 
-*Preço de atacado confirmado por Gabriel em 23/11/2026 (vale desde 26/10). Venda sugerida: a da Tabela Comercial (R$ 29,90 Fresh, R$ 32,90 Special e Boost).*
+*Preço de atacado confirmado por Gabriel em 23/11/2026 (vale desde 26/10). Venda sugerida: até o preço do iFood (R$ 25,90 Fresh, R$ 27,90 Special e Boost), confirmado em 23/11.*
 
 | Sabor | Linha | Você paga | Venda sugerida | Sua margem | % |
 |---|---|---|---|---|---|
-| Sorbet Morango | FRESH | R$ 17,50 | R$ 29,90 | R$ 12,40 | 41,5% |
-| Manga com Maracujá | FRESH | R$ 17,50 | R$ 29,90 | R$ 12,40 | 41,5% |
-| Torta de Limão | SPECIAL | R$ 18,50 | R$ 32,90 | R$ 14,40 | 43,8% |
-| Pistache | SPECIAL | R$ 18,50 | R$ 32,90 | R$ 14,40 | 43,8% |
-| Café Proteico | BOOST | R$ 18,50 | R$ 32,90 | R$ 14,40 | 43,8% |
-| Brigadeiro Proteico | BOOST | R$ 18,50 | R$ 32,90 | R$ 14,40 | 43,8% |
+| Sorbet Morango | FRESH | R$ 17,50 | R$ 25,90 | R$ 8,40 | 32,4% |
+| Manga com Maracujá | FRESH | R$ 17,50 | R$ 25,90 | R$ 8,40 | 32,4% |
+| Torta de Limão | SPECIAL | R$ 18,50 | R$ 27,90 | R$ 9,40 | 33,7% |
+| Pistache | SPECIAL | R$ 18,50 | R$ 27,90 | R$ 9,40 | 33,7% |
+| Café Proteico | BOOST | R$ 18,50 | R$ 27,90 | R$ 9,40 | 33,7% |
+| Brigadeiro Proteico | BOOST | R$ 18,50 | R$ 27,90 | R$ 9,40 | 33,7% |
 
-**O que o pedido mínimo faz no seu caixa:** pedido de 120 potes (72 Fresh, 48 Special/Boost): você investe R$ 2.148, vende por R$ 3.732 e fica com R$ 1.584 de margem por ciclo (42,4%).
+**O que o pedido mínimo faz no seu caixa:** pedido de 120 potes (72 Fresh, 48 Special/Boost): você investe R$ 2.148, vende por R$ 3.204 e fica com R$ 1.056 de margem por ciclo (33,0%).
 
 ---
 

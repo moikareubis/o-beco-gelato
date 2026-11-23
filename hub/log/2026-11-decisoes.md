@@ -508,3 +508,16 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **O que falta saber:** se a venda sugerida de balcão continua R$ 29,90 / R$ 32,90.
 - **Pendência:** nenhuma.
 - **Resultado:** Peças atualizadas no Complexo Beco (Comercial & Parcerias) e em `comercial/pdf-captacao-ponto-parceiro.md`.
+
+---
+
+- **Data:** 2026-11-23
+- **Área:** comercial-b2b
+- **Decisão:** Revenda do ponto parceiro até o preço do iFood; loja da família revende tudo a R$ 25,90
+- **Situação:** Gabriel informou que a venda sugerida de balcão mudou: o ponto parceiro revende por até R$ 27,90, igual ao iFood (lido como R$ 27,90 no Special e Boost e R$ 25,90 no Fresh, os dois preços do iFood). A loja da família vende todos os sabores a R$ 25,90.
+- **Oportunidade e por quê:** Tabela Comercial e PDF de captação refeitos. Margem do parceiro: 32,4% no Fresh (R$ 8,40 por pote) e 33,7% no Special e Boost (R$ 9,40), R$ 9,07 na média. Ganho por freezer: R$ 544 (P), R$ 1.088 (M), R$ 2.176 (V). Pedido mínimo de 120 potes: R$ 2.148 investidos, R$ 3.204 de venda, R$ 1.056 de margem. Os dois preços de revenda ficam acima da venda direta (R$ 22,90 / R$ 25,90), então a regra de que o preço da marca é o piso continua valendo. Na loja da família, R$ 25,90 deixa 28,6% de margem no Special e Boost, abaixo dos 32% mínimos do revendedor em `memoria/produtos.md`.
+- **Prioridade:** alta.
+- **Próximos passos:** Gabriel confirmar se o Fresh do parceiro também vai a R$ 27,90 ou fica em R$ 25,90 (próxima proposta); decidir se a margem de 28,6% da loja da família é aceita (sem prazo).
+- **O que falta saber:** teto do Fresh no ponto parceiro.
+- **Pendência:** margem da loja da família abaixo do mínimo de 32% no Special e Boost.
+- **Resultado:** Peças comerciais e `memoria/produtos.md` atualizados.
