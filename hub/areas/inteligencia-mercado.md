@@ -6,7 +6,7 @@ Pergunta sobre o que está acontecendo fora do negócio que pode afetar ele: ten
 
 ## Depende de
 
-`memoria/decisoes.md` (regra dura 7 — claim nutricional só com ficha técnica fechada: toda tendência "zero açúcar"/"saudável" trazida aqui precisa passar por esse filtro antes de virar peça) e `memoria/produtos.md` (pra saber contra quais sabores/linhas cruzar um achado de insumo ou concorrente).
+`memoria/decisoes.md` (regra dura 7 — claim nutricional só com ficha técnica fechada: toda tendência "zero açúcar"/"saudável" trazida aqui precisa passar por esse filtro antes de virar peça) e `memoria/produtos.md` (pra saber contra quais sabores/linhas cruzar um achado de insumo ou concorrente). O preço que o Gabriel paga por cada insumo está em `producao/dados/backup_beco_gelato_*.json` (campo `custoKg` de cada item em `ingredientes`; óleo de coco Purilev: R$ 35 por 500 ml, informado em 21/11): é contra ele que se compara qualquer preço de mercado.
 
 ## Cruza com
 
