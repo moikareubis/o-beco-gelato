@@ -181,3 +181,58 @@ Append-only. Nunca reescrever uma entrada existente — só acrescentar. Toda en
 - **Pendência:** validar os primeiros disparos reais (a partir de 06/11, 9h) antes de confiar 100% no automático.
 - **Premissa:** rotina criada via `schedule`/`RemoteTrigger`, repo `o-beco-gelato`, cron `0 12,16,22 * * *` (UTC) = 9h/13h/19h Bahia. Gerenciar em https://claude.ai/code/routines/trig_014C7iqrXNJHJv19Dvfxiz3M.
 - **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-23
+- **Área:** inteligencia-mercado
+- **Decisão:** Concorrente — Bacio di Latte entrou em zero açúcar com a linha Bacio Zero (gelato + milkshake com whey)
+- **Situação:** A Bacio di Latte lançou em 19/05/2026 a linha Bacio Zero: gelatos sem adição de açúcar nos sabores Pistacchio, Cioccolato e Doce de Leite, mais milkshakes "Pro + Zero" com whey (30 g de proteína por unidade, segundo o GiroNews). Vende em todas as lojas, app/e-commerce próprio, iFood e Rappi. O BaresSP cita o Pistacchio Zero com 81 kcal por porção de 60 g. Separado disso, a rede abriu loja no Parque Shopping Bahia (Lauro de Freitas), prevista para 17/07/2026 segundo o Correio, e inaugurou em Nova York (Times Brasil, 19/11/2026). Fontes: [Nossomeio, 19/05/2026](https://nossomeio.com.br/bacio-di-latte-lanca-bacio-zero-com-gelatos-sem-adicao-de-acucar-e-milkshakes-proteicos/), [BaresSP](https://baressp.com.br/noticias/bacio-di-latte-lanca-bacio-zero-com-gelatos-sem-adicao-de-acucar-e-milkshakes-proteicos), [Propmark](https://propmark.com.br/anunciantes/bacio-di-latte-entra-no-segmento-wellness-com-a-nova-linha-bacio-zero/), [Correio](https://www.correio24horas.com.br/minha-bahia/bacio-di-latte-abre-nova-unidade-em-shopping-na-bahia-0726), [Times Brasil](https://timesbrasil.com.br/empresas-e-negocios/bacio-di-latte-inaugura-primeira-loja-em-nova-york-e-avanca-na-expansao-pelos-estados-unidos/).
+- **Oportunidade e por quê:** O Bacio di Latte é um dos dois benchmarks do HUB e agora ocupa zero açúcar e proteína, com presença física na Grande Salvador (Lauro de Freitas, onde o Beco opera). Isso valida a demanda que o Beco já atende e dá ao Beco um ponto de comparação direto. Vale deixar claro na comunicação o que a marca tem de próprio: o Beco é zero açúcar adicionado e zero lactose nas linhas Fresh e Special, e a rede grande vende zero açúcar como uma linha à parte do cardápio. Nenhum dado nos achados diz se os gelatos Bacio Zero são zero lactose — não afirmar isso. Pela regra de posicionamento, a leitura é de apoio à categoria "sobremesa": se a rede grande trata zero como linha, o Beco tem de abrir pelo momento, não pelo atributo.
+- **Prioridade:** média — contexto competitivo, sem ação que bloqueie venda.
+- **Próximos passos:** (1, esta semana) Gabriel decidir se quer olhar o cardápio e o preço do Bacio Zero na loja do Parque Shopping Bahia ou no iFood de Salvador, pra ter preço real de comparação. (2, contínuo) a rotina volta a checar o Bacio Zero nas próximas semanas.
+- **O que falta saber:** preço de venda do Bacio Zero (não apareceu em nenhuma fonte); se os gelatos são zero lactose; se a inauguração do Parque Shopping Bahia aconteceu em 17/07/2026 como previsto — a fonte só traz a data marcada.
+- **Pendência:** nenhuma que bloqueie — só decisão opcional de Gabriel sobre ver o preço de perto.
+- **Premissa:** busca web feita em 23/11/2026; as páginas não puderam ser abertas (domínios fora da rede permitida da rotina), então o conteúdo vem só dos resumos de busca. Nenhum número de proteína ou calorias do Beco foi usado ou comparado — regra dura 7.
+- **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-23
+- **Área:** inteligencia-mercado
+- **Decisão:** Concorrente — Borelli lançou gelatos proteicos com a Mais Mu (abril/2026), zero adição de açúcar
+- **Situação:** A Borelli anunciou em 27/04/2026 seus primeiros gelatos proteicos em parceria com a Mais Mu (marca de snacks e bebidas proteicas): 6,4 g de proteína por porção de 60 g, sem adição de açúcar (GiroNews). Um release de junho/2026 descreve a linha zero adição de açúcar + proteica da Borelli, e uma ação de junho cita também opções à base de fruta sem lactose. A marca diz oferecer zero adição de açúcar desde 2013. Não encontrei lançamento "zero" novo da Borelli com data em novembro. Fontes: [GiroNews — Borelli e Mais Mu](https://gironews.com/food-service/borelli-e-mais-mu-lancam-gelatos-proteicos-e-ampliam-ocasioes-de-consumo/), [Grandes Nomes da Propaganda](https://grandesnomesdapropaganda.com.br/lancamentos-de-mercado/borelli-lanca-novos-sabores-com-a-mais-mu/), [release ABF Expo](https://www.abfexpo.com.br/media/abfexpo.com.br/PR-Borelli-76235eaceb25fb4b3bc8dc75aed1d6ca.pdf).
+- **Oportunidade e por quê:** A Borelli é o benchmark mais próximo da linha Boost: gelato proteico, sem adição de açúcar, em loja de gelateria. Ela chegou à proteína por parceria com marca de fora (Mais Mu), não por receita própria — dado útil pra entender como o concorrente construiu a linha. A porção citada (60 g) não é a do pote do Beco (140 g), então os números de proteína não são comparáveis e não devem ser colocados lado a lado em peça nenhuma.
+- **Prioridade:** média-baixa — informação de benchmark, sem decisão pendente.
+- **Próximos passos:** (1, quando Gabriel quiser) olhar ficha/preço dos gelatos proteicos Borelli numa loja ou no iFood pra comparar com o Boost. (2, contínuo) rotina acompanha novos lançamentos da Borelli.
+- **O que falta saber:** preço dos gelatos Borelli × Mais Mu; se contêm lactose (whey contém — provável, mas não confirmado nas fontes); onde vendem em Salvador, se vendem.
+- **Pendência:** nenhuma.
+- **Premissa:** busca web em 23/11/2026; páginas não abertas por restrição de rede, só resumos de busca. Proteína do Beco (15 g por pote em Brigadeiro e Café) não foi usada pra comparação — regra dura 7.
+- **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-23
+- **Área:** inteligencia-mercado
+- **Decisão:** Regulatório — revisão da rotulagem da Anvisa (consultas 1.357/2025 e 1.358/2025) pode restringir alegações de açúcar; acompanhar
+- **Situação:** A Anvisa abriu as consultas públicas 1.357/2025 (rotulagem geral) e 1.358/2025 (rotulagem nutricional), com contribuições até 9/03/2026. A proposta amplia a definição de "alegação nutricional" e, segundo o guia do Idec, impede alegações sobre açúcares em alimentos que tenham a advertência frontal de açúcar adicionado. Uma das notícias encontradas diz que a norma aprovada entra em vigor 24 meses após a publicação, com mais 12 meses de adequação para o que já está no mercado — mas as datas das matérias são inconsistentes e não consegui confirmar a data de publicação nem o texto final. Fontes: [guia do Idec](https://idec.org.br/pdf/guia-participacao-cps_1357_2025_1358_2025_anvisa.pdf), [Anvisa — minuta rotulagem nutricional](https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2025/MinutadeCPdarevisodoregulamentoderotulagemnutricionaldealimentos.pdf).
+- **Oportunidade e por quê:** Reforça a regra dura 7: alegação nutricional ("zero", "sem adição", proteína) só sai com ficha fechada, e a regra pode ficar mais rígida. Pro Beco, a conta prática é manter "zero açúcar adicionado" como atributo que fecha a peça (já é a regra de escrita) e não construir comunicação que dependa do termo "zero" sozinho. Não há indício nas fontes de que isso mude algo no curto prazo.
+- **Prioridade:** baixa agora — vira alta quando o texto final for publicado.
+- **Próximos passos:** (1, próximas semanas) a rotina procura a resolução final no Diário Oficial / site da Anvisa. (2, quando fechar a ficha) conferir o rótulo do Beco contra a norma vigente à época.
+- **O que falta saber:** se a resolução foi publicada e com qual data; como o texto final trata "zero açúcar" e "sem adição de açúcar" no gelato; se o Beco precisaria de advertência frontal (depende do teor de açúcar total do produto, que a ficha ainda não fecha).
+- **Pendência:** nenhuma — monitoramento.
+- **Premissa:** busca web em 23/11/2026; os resultados misturam matérias de datas diferentes e não permitem afirmar o estado atual da norma. Não é parecer jurídico.
+- **Resultado:** (ainda sem resultado)
+
+---
+
+- **Data:** 2026-11-23
+- **Área:** inteligencia-mercado
+- **Decisão:** Sem dado confiável nesta semana — preço de insumos (eritritol, maltitol, inulina, polidextrose) e movimento recente de Oakberry
+- **Situação:** Preço de insumo: só achei anúncios de varejo online sem data (Magalu/Buscapé) — eritritol entre ~R$27/kg e ~R$61/kg conforme o anúncio, maltitol ~R$59/kg, inulina ~R$123/kg — e um registro de importação de polidextrose a US$ 5,48/kg em 07/11/2025 (Tridge). Não são cotação B2B, a faixa é larga e não tenho o preço que o Gabriel paga, então não dá pra dizer se está caro ou barato. Oakberry: nada com data de novembro/2026; achados são rodada de R$ 100 milhões com a Moriah (setembro/2026, [StartupI](https://startupi.com.br/rede-de-acai-oakberry-levanta-mais-r-100-milhoes-em-rodada-liderada-pela-moriah-asset/)) para recomprar masters franquias no exterior, sem efeito direto no Beco.
+- **Oportunidade e por quê:** Nenhuma — registrado só pra a próxima rodada não repetir a mesma busca.
+- **Prioridade:** baixa.
+- **Próximos passos:** nenhum.
+- **O que falta saber:** preço real de eritritol/maltitol/inulina/polidextrose pago pelo Gabriel (não está em nenhum arquivo do HUB lido por esta rotina) — sem ele, comparar com varejo não conclui nada.
+- **Pendência:** nenhuma.
+- **Resultado:** (ainda sem resultado)
